@@ -6,11 +6,181 @@
 
 ---
 
+**bt**: https://github.com/atomashpolskiy/bt
+
+Java 实现的 DHT 协议，其实就是 BitTorrent，可以轻松在 Android 上实现一个 P2P 下载
+
+---
+
+**samba-documents-provider**: https://github.com/google/samba-documents-provider
+
+Android Samba 协议实现
+
+---
+
+**AndroidUnplash**: https://github.com/KeenenCharles/AndroidUnplash
+
+An unofficial Unsplash API library for Android
+
+---
+
+**F32-for-Android**: https://github.com/igormatyushkin014/F32-for-Android
+
+Android library for OpenWeatherMap API
+
+---
+
+**SimpleNetworkLibrary**: https://github.com/ahmed-adel-said/SimpleNetworkLibrary
+
+Android Simple Network Library for HTTP and Image Requests with cool features implemented with Simple Demo using some Material Design UI Elements
+
+<img src="https://camo.githubusercontent.com/572f9c08e9f789a44d6b690e953085a40f8e9d6e/68747470733a2f2f7331332e706f7374696d672e6f72672f3673687566727738372f73696d706c655f6e6574776f6b725f6c6962726172792e706e67" width="320" />
+
+---
+
+**AndroidSnooper**: https://github.com/jainsahab/AndroidSnooper
+
+记录网络请求拦截器
+
+<img src="https://raw.githubusercontent.com/jainsahab/AndroidSnooper/master/assets/snooper_demo.gif" width="270" />
+
+---
+
+**AndServer**: https://github.com/yanzhenjie/AndServer
+
+AndServer—原生 Android 做Web开发
+
+<img src="https://raw.githubusercontent.com/yanzhenjie/AndServer/master/image/web_assets.png" width="270" /> <img src="https://raw.githubusercontent.com/yanzhenjie/AndServer/master/image/web_assets_son.png" width="270" />
+
+---
+
+**cookietray**: https://github.com/abohomol/cookietray
+
+Persistent cookie storage for OkHttp3 based on SharedPreferences
+
+---
+
+**Session_Cookie_Reader**: https://github.com/Ludy87/Session_Cookie_Reader
+
+Cookie Reader of Session
+
+---
+
+**LoggingInterceptor**: https://github.com/ihsanbal/LoggingInterceptor
+
+OkHttp 请求和响应日志拦截器
+
+---
+
+**Retorfit_RxJava_Exception**: https://github.com/whaoming/Retorfit_RxJava_Exception
+
+优雅地处理服务器返回的错误和客户端访问网络过程中产生的错误
+
+<img src = "https://camo.githubusercontent.com/cdc58c189e081165471f70da15cf96b825f23b80/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363136313333323233393735" width="320"/>
+
+---
+
+**RetrofitUrlManager**: https://github.com/JessYanCoding/RetrofitUrlManager
+
+以最简洁的 Api 让 Retrofit 同时支持多个 BaseUrl 以及动态改变 BaseUrl
+
+<img src = "https://github.com/JessYanCoding/RetrofitUrlManager/raw/master/art/overview.gif" width="320"/>
+
+---
+
+**RetrofitLifecycle**: https://github.com/luckyandyzhang/RetrofitLifecycle
+
+通过注解管理 Retrofit 生命周期
+
+---
+
+**OkCacheControl**: https://github.com/ncornette/OkCacheControl
+
+OkHttp 和 Retrofit 缓存工具
+
+---
+
+**chuck**: https://github.com/jgilfelt/chuck
+
+Android App 内网络调试工具，超实用
+
+<img src="https://raw.githubusercontent.com/jgilfelt/chuck/master/assets/chuck.gif" width="320" />
+
+---
+
+**StatusView**: https://github.com/iammert/StatusView
+
+简洁优雅的网络状态提示
+
+<img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif" width="270" />
+
+---
+
+**nonet**: https://github.com/keiferstone/nonet
+
+安卓网络连接监测
+
+<img src="https://camo.githubusercontent.com/8793befd30b01197b3f85d27e7faabb320e4c298/68747470733a2f2f6b656966657273746f6e652e636f6d2f6e6f6e65742f6e6f6e65742d62616e6e65722e706e67" width="320" />
+
+---
+
+**jurl**: https://github.com/anthonynsimon/jurl
+
+Fast and simple URL parsing for Java, with UTF-8 and path resolving support
+
+---
+
+**dnsproxy2**: https://github.com/cernekee/dnsproxy2
+
+DNS proxy for Android 4.3+
+
+---
+
+**HTTPDNSLib**: https://github.com/CNSRE/HTTPDNSLib
+
+全局精确流量调度新思路-HttpDNS服务详解
+
+---
+
+**RetrofitRssConverterFactory**: https://github.com/faruktoptas/RetrofitRssConverterFactory
+
+A Retrofit 2 converter which parses Rss feeds
+
+---
+
+**retrocache**: https://github.com/iagocanalejas/retrocache
+
+This library provides an easy way for configure retrofit for use a 2 layer cache (RAM and Disk)
+
+---
+
+**AgentWeb**: https://github.com/Justson/AgentWeb
+
+AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
+
+<img src="https://github.com/Justson/AgentWeb/raw/master/img/jd.png" width="320" /> <img src="https://github.com/Justson/AgentWeb/raw/master/img/alipay.png" width="320" />
+
+---
+
+**mars**: https://github.com/Tencent/mars
+
+Mars 是微信官方的跨平台跨业务的终端基础组件
+
+<img src="https://raw.githubusercontent.com/WeMobileDev/article/master/assets/mars/mars.png" width="640" />
+
+---
+
 **RxUnfurl**: https://github.com/Schinizer/RxUnfurl
 
 网址解析并预览
 
 <img src="https://camo.githubusercontent.com/b4c6b1106a6d8905510f3333796d67fe8f396d13/68747470733a2f2f6769616e742e6766796361742e636f6d2f57656172794e65636573736172794661747461696c656464756e6e6172742e676966" width="320" />
+
+---
+
+**Pacman**: https://github.com/rahulchowdhury/Pacman
+
+Easy & Simple Parallel API Calls Manager for Java and Android
 
 ---
 

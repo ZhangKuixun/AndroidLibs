@@ -6,6 +6,118 @@
 
 ---
 
+**MaterialFabSpeedDial**: https://github.com/kobakei/MaterialFabSpeedDial
+
+Android UI library of FAB speed dial
+
+<img src="https://user-images.githubusercontent.com/900756/27232285-7d558634-52f0-11e7-8bc7-19e8ca87c182.png" width="320"/> <img src="https://user-images.githubusercontent.com/900756/27232289-7ed284ee-52f0-11e7-81e4-41d845295129.png" width="320"/>
+
+---
+
+**AnnularMenuView**: https://github.com/DingMouRen/AnnularMenuView
+
+基于Material Design设计的环形菜单控件
+
+<img src="https://github.com/DingMouRen/AnnularMenuView/raw/master/screenshot/demo3.gif" width="320"/>
+
+---
+
+**quickaction**: https://github.com/piruin/quickaction
+
+Quick Action is a small android library for easy create Tooltips with some action or just as decoration
+
+<img src="https://github.com/piruin/quickaction/raw/master/asset/demo.gif" width="320"/>
+
+---
+
+**floatingMenu**: https://github.com/rjsvieira/floatingMenu
+
+floatingMenu
+
+<img src="https://github.com/rjsvieira/FloatingMenu/raw/master/images/expand_open_close.gif" width="320"/>
+
+---
+
+**ExpandableMenu**: https://github.com/anshulagarwal06/ExpandableMenu
+
+ExpandableMenu
+
+<img src="https://raw.githubusercontent.com/anshulagarwal06/ExpandableMenu/master/ExpendableMenu.gif" width="320"/>
+
+---
+
+**HorizontalScrollMenu**: https://github.com/MorochoRochaDarwin/HorizontalScrollMenu
+
+基于 RecyclerView 的横向滑动菜单
+
+<img src="https://cloud.githubusercontent.com/assets/15864336/23817168/0750bcb6-05bf-11e7-9095-d380da6b408d.png" width="320"/> <img src="https://cloud.githubusercontent.com/assets/15864336/23817166/074cf022-05bf-11e7-8c73-c3417957b1c9.png" width="320"/>
+
+---
+
+**CircleMenu**: https://github.com/ImangazalievM/CircleMenu
+
+漂亮的 Android 圆形菜单
+
+<img src="https://raw.githubusercontent.com/ImangazalievM/CircleMenu/master/art/preview.gif" width="320"/>
+
+---
+
+**android-animated-menu-items**: https://github.com/adonixis/android-animated-menu-items
+
+Android Toolbar 显示动态 Menu 菜单 Demo
+
+<img src="https://cloud.githubusercontent.com/assets/1766863/21596845/e0f10674-d162-11e6-9a6e-21614e66dff4.gif" width="320"/>
+
+---
+
+**hover**: https://github.com/google/hover
+
+Google 放出的 Android 浮动菜单效果
+
+<img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenrecords/hover-demo-screenrecord.gif" width="270"/> <img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenshots/hover-demo-homescreen.png" width="270"/> <img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenshots/hover-demo-menu-intro.png" width="270"/>
+
+---
+
+**TopRightMenu**: https://github.com/zaaach/TopRightMenu
+
+类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下
+
+<img src="https://raw.githubusercontent.com/zaaach/TopRightMenu/master/art/screen.gif" width="320"/>
+
+---
+
+**OfficialFoldingTabBar.Android**: https://github.com/Yalantis/OfficialFoldingTabBar.Android
+
+Folding Tab Bar and Tab Bar Menu
+
+<img src="https://camo.githubusercontent.com/e09bb8fc50adba318c9f22174d1751c566f69530/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323030333337362f7461625f6261725f616e696d6174696f6e5f66696e2d30322e676966" width="640"/>
+
+---
+
+**BoomMenu**: https://github.com/Nightonke/BoomMenu
+
+爆炸展开菜单的按钮，加入了更多的按钮和新特性
+
+<img src="https://raw.githubusercontent.com/Nightonke/BoomMenu/master/Pictures/text-inside-button.gif" width="320"/> <img src="https://raw.githubusercontent.com/Nightonke/BoomMenu/master/Pictures/ham-button.gif" width="320"/>
+
+---
+
+**AllAngleExpandableButton**: https://github.com/uin3566/AllAngleExpandableButton
+
+简单易用的可定制展开角度的button menu
+
+<img src="https://raw.githubusercontent.com/uin3566/AllAngleExpandableButton/master/screenshot/demo.gif" width="320"/>
+
+---
+
+**SquareMenu**: https://github.com/devsideal/SquareMenu
+
+Android 方块儿展开菜单
+
+<img src="https://raw.githubusercontent.com/devsideal/SquareMenu/master/assets/square_menu_v1.0.0.gif" width="320"/>
+
+---
+
 **InfinityMenu**: https://github.com/desnyki/InfinityMenu
 
 Android library to create a sleek menu

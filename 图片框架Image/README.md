@@ -1,8 +1,526 @@
 # AndroidLibs == 图片 Image
 
-包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape……
+包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别、相机……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**Matisse**: https://github.com/zhihu/Matisse
+
+一个能带进度条的图片框架，同时有身份标识动能，简单易用
+
+| Zhihu Style                    | Dracula Style                     | Preview                          |
+|:------------------------------:|:---------------------------------:|:--------------------------------:|
+|![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_zhihu.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_preview.png)|
+
+---
+
+**Rajawali: https://github.com/Rajawali/Rajawali
+
+Android OpenGL ES 2.0/3.0 Engine
+
+---
+
+**AndroidFaceDetection: https://github.com/lchad/AndroidFaceDetection
+
+Android 平台进行人脸检测的几种方案
+
+---
+
+**CVScanner: https://github.com/Credntia/CVScanner
+
+An OpenCV based library for Android to scan ID documents or Passports
+
+---
+
+**pesdk-android-demo: https://github.com/imgly/pesdk-android-demo
+
+图片编辑sdk使用demo
+
+---
+
+**litho-glide: https://github.com/pavlospt/litho-glide
+
+litho-glide
+
+---
+
+**LoTiny: https://github.com/Sunzxyong/Tiny
+
+图片压缩 http://zhengxiaoyong.me/2017/04/23/Android%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E6%A1%86%E6%9E%B6-Tiny/
+
+---
+
+**ImageLoaderFramework: https://github.com/ladingwu/ImageLoaderFramework
+
+打造统一的图片加载框架，融合Glide，Fresco,不入侵业务代码
+
+---
+
+**CameraView: https://github.com/natario1/CameraView
+
+A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing most of the common issues and needs
+
+<img src="https://github.com/natario1/CameraView/raw/master/art/screen1.png" width="300"/> <img src="https://github.com/natario1/CameraView/raw/master/art/screen2.png" width="300"/>
+
+---
+
+**ContinuousScrollableImageView: https://github.com/Cutta/ContinuousScrollableImageView
+
+支持持续性滑动动画的图片组件，用来做背景效果 应该不错
+
+<img src="https://raw.githubusercontent.com/Cutta/ContinuousScrollableImageView/master/gifs/plane.gif?token=AGY3KeydGmvTnBrToMTTuw4wsIpyS9Dzks5ZpH9hwA%3D%3D" width="300"/>
+
+---
+
+**transitional-imageview: https://github.com/MostafaAryan/transitional-imageview
+
+This is an imageView which implements shared element transition pattern on your desired image
+
+<img src="https://github.com/MostafaAryan/transitional-imageview/raw/master/app/src/main/res/drawable/shoe_app_demo.gif?raw=true" width="300"/>
+
+---
+
+**AiyaEffectsAndroid: https://github.com/aiyaapp/AiyaEffectsAndroid
+
+宝宝特效 SDK Android Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用
+
+<img src="https://raw.githubusercontent.com/aiyaapp/AiyaEffectsAndroid/master/doc/summarize2.jpg" width="600"/>
+
+---
+
+**diagonal-imageview: https://github.com/santalu/diagonal-imageview
+
+A simple imageview which allows you to create diagonal cut views easily
+
+<img src="https://github.com/santalu/diagonal-imageview/raw/master/screens/rv.png" width="320"/>
+
+---
+
+**GlideImageView: https://github.com/sfsheng0322/GlideImageView
+
+基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度 
+
+<img src="https://github.com/sfsheng0322/GlideImageView/raw/master/screenshot/gif4.gif" width="480"/>
+
+---
+
+**PaletteImageView: https://github.com/DingMouRen/PaletteImageView-
+
+懂得智能配色的ImageView,还能给自己设置多彩的阴影
+
+<img src="https://github.com/DingMouRen/PaletteImageView/raw/master/screenshot/demo1.gif" width="270"/> <img src="https://github.com/DingMouRen/PaletteImageView/raw/master/screenshot/demo2.gif" width="270"/>
+
+---
+
+**InsLoadingAnimation: https://github.com/qintong91/InsLoadingAnimation
+
+头像加载进度
+
+<img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="270"/>
+
+---
+
+**RubberStamp: https://github.com/vinaygaba/RubberStamp
+
+给图片添加水印
+
+<img src="https://github.com/vinaygaba/RubberStamp/raw/master/images/rubberstamp_sample.gif" width="320"/>
+
+---
+
+**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
+
+水印
+
+<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+
+---
+
+**progress-image-view-android: https://github.com/safetysystemtechnology/progress-image-view-android
+
+progress-image-view-android
+
+<img src="https://github.com/safetysystemtechnology/progress-image-view-android/raw/master/etc/demo.gif" width="320"/>
+
+---
+
+**DismissibleImageView**: https://github.com/dmallcott/DismissibleImageView
+
+Clickable ImageView that expands to full screen and is dismissible by swiping the image off-screen
+
+<img src = "https://github.com/dmallcott/DismissibleImageView/raw/master/assets/sample.gif" width = "320"/>
+
+---
+
+**PaletteImageView**: https://github.com/DingMouRen/PaletteImageView
+
+为图片添加阴影，阴影颜色来源于图片的主色
+
+<img src = "https://github.com/DingMouRen/PaletteImageView/raw/master/imgs/img.gif" width = "240"/>
+
+---
+
+**LongImageCamera**: https://github.com/wajahatkarim3/LongImageCamera
+
+长图拍摄
+
+<img src = "https://github.com/wajahatkarim3/LongImageCamera/raw/master/Art/demo.gif" width = "240"/>
+
+---
+
+**IdentityImageView**: https://github.com/385841539/IdentityImageView
+
+一个能带进度条的图片框架，同时有身份标识动能，简单易用
+
+<img src = "https://raw.githubusercontent.com/385841539/IdentityImageView/master/app/src/main/res/drawable/biaoshi.gif" width = "240"/>
+
+---
+
+**BifacialView**: https://github.com/pavel163/BifacialView
+
+图像处理后左右对比
+
+<img src = "https://raw.githubusercontent.com/pavel163/BifacialView/master/media/bifacialview1.gif" width = "240"/>
+
+---
+
+**sand**: https://github.com/Jomes/sand
+
+使用JNI实现Sobel算子图像边缘检测
+
+<img src = "https://raw.githubusercontent.com/Jomes/sand/master/gif/sand.gif" width = "200"/>
+
+---
+
+**Camera**: https://github.com/lizhangqu/Camera
+
+二代身份证信息识别
+
+<img src = "https://camo.githubusercontent.com/84165b0a30c3bfa248518a1f3715433b9d0bb942/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530393037313635313233343033" width = "320"/>
+
+---
+
+**ProCamera**: https://github.com/18Gray/ProCamera
+
+ProCamera是一款基于Camera2 API的相机，实现了相机的常用功能，力求不断挖掘Camera2的巨大潜力，锻造一款在功能和设计上完美的相机产品
+
+<img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/camera2.jpg" width = "320"/> <img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/modeselect.jpg" width = "320"/>
+
+---
+
+**Fotoapparat**: https://github.com/Fotoapparat/Fotoapparat
+
+Android 有两套相机 Api，使用起来很麻烦，好在 Foto 开源了他们在 Android 上的 Camera 封装 Api，力荐
+
+<img src = "https://github.com/Fotoapparat/Fotoapparat/raw/master/sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width = "320"/>
+
+---
+
+**CameraKit-Android**: https://github.com/flurgle/CameraKit-Android
+
+一个相机的库
+
+<img src = "https://raw.githubusercontent.com/flurgle/CameraKit-Android/master/.repo/permissions.gif" width = "320"/>
+
+---
+
+**ShadowImageView**: https://github.com/yingLanNull/ShadowImageView
+
+可以根据图片变颜色，更加细腻的阴影效果
+
+<img src = "https://github.com/yingLanNull/ShadowImageView/blob/master/show/shadow.gif" width = "320"/>
+
+---
+
+**photo-affix**: https://github.com/afollestad/photo-affix
+
+图片拼接
+
+<img src = "https://raw.githubusercontent.com/afollestad/photo-affix/master/art/pashowcase1.png" width = "640"/>
+
+---
+
+**skia**: https://github.com/google/skia
+
+Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. https://skia.org
+
+---
+
+**android-close-pixelate**: https://github.com/bmaslakov/android-close-pixelate
+
+安卓图片模糊，像素化
+
+<img src = "https://raw.githubusercontent.com/bmaslakov/android-close-pixelate/master/screenshots/giraffe.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/bmaslakov/android-close-pixelate/master/screenshots/giraffe.png" width = "320"/>
+
+---
+
+**PixelAdjuster**: https://github.com/Commit451/PixelAdjuster
+
+Changes the color of individual pixels in a Bitmap
+
+---
+
+**BypassPicassoImageGetter**: https://github.com/Commit451/BypassPicassoImageGetter
+
+Loads images for Bypass using Picasso
+
+---
+
+**multiselect**: https://github.com/karanvs/multiselect
+
+多个图片/视频选择
+
+---
+
+**MultiPhotoPicker**: https://github.com/nileshpambhar/MultiPhotoPicker
+
+MultiPhotoPicker
+
+<img src = "https://github.com/nileshpambhar/MultiPhotoPicker/raw/master/Screenshots/Screen1.png" width = "320"/> <img src = "https://github.com/nileshpambhar/MultiPhotoPicker/raw/master/Screenshots/Screen2.png" width = "320"/>
+
+---
+
+**ImageNice9Layout**: https://github.com/wobiancao/ImageNice9Layout
+
+仿Nice首页图片列表9图样式，并实现拖拽效果
+
+<img src = "https://github.com/wobiancao/ImageNice9Layout/raw/master/screenshot/drag9.gif" width = "320"/>
+
+---
+
+**ImagePicker-OLX**: https://github.com/RameshBhupathi/ImagePicker-OLX
+
+Combined both TedBottomPicker and Camera View, to get the View Similar to ImagePickers of Olx.
+
+<img src = "https://github.com/RameshBhupathi/ImagePicker-OLX/raw/master/device-2017-07-16-202724.png" width = "320"/>
+
+---
+
+**ImageShowPicker**: https://github.com/yaozs/ImageShowPicker
+
+仿微信朋友圈图片选择
+
+<img src = "https://raw.githubusercontent.com/yaozs/ImageShowPicker/master/pic/weixin_pic.jpg" width = "320"/>
+
+---
+
+**EasyImagePicker**: https://github.com/oswaldo89/EasyImagePicker
+
+EasyImagePicker
+
+<img src = "https://camo.githubusercontent.com/f0c8a42c9f22d401e8dcbc222390450264ffca27/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f61613962373934353138313937623130383137306563333163653631653839372e6a7067" width = "240"/> <img src = "https://camo.githubusercontent.com/0c38b10d6c424b0e45563dc2348c7b69e102e283/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f36633666336461323763653662646233343539326261653035316262393239322e6a7067" width = "240"/>
+
+---
+
+**EZPhotoPicker**: https://github.com/Siclo-Mobile/EZPhotoPicker
+
+EZPhotoPicker
+
+---
+
+**android-ocr**: https://github.com/rmtheis/android-ocr
+
+Experimental app for optical character recognition on Android
+
+<img src = "https://camo.githubusercontent.com/757e20ff49213fb230eef31c4a982ed886cf0a7f/687474703a2f2f696d672e796f75747562652e636f6d2f76692f464f536769506a477778342f302e6a7067" width = "400"/> <img src = "https://camo.githubusercontent.com/1d6169f57a17128f9fa70e1a75e2b3fba50fe88d/687474703a2f2f696d672e796f75747562652e636f6d2f76692f37764e6570546d425447382f302e6a7067" width = "400"/>
+
+---
+
+**Zoomy**: https://github.com/imablanco/Zoomy
+
+双指控制图片展开，以及放大缩小，做的超棒
+
+<img src = "https://github.com/imablanco/Zoomy/raw/master/art/zoomy.gif" width = "320"/>
+
+---
+
+**AwesomeImagePicker**: https://github.com/myinnos/AwesomeImagePicker
+
+图片选择工具库
+
+<img src = "https://camo.githubusercontent.com/202d0879dc29573ed81d786871408b841b021734/68747470733a2f2f7331392e706f7374696d672e6f72672f3462786d6f7577626e2f496d6167655f5069636b65725f6578616d706c655f312e706e67" width = "180"/> <img src = "https://camo.githubusercontent.com/99945f01c1c482005c7d4dd8a5e6ffce25fd5d48/68747470733a2f2f7331392e706f7374696d672e6f72672f6a6c786877317274762f496d6167655f5069636b65725f6578616d706c655f322e706e67" width = "180"/> <img src = "https://camo.githubusercontent.com/45ab9aa0ae283294e359f96f210e96b07c13be7d/68747470733a2f2f7331392e706f7374696d672e6f72672f34656869626f7a7a372f496d6167655f5069636b65725f6578616d706c655f332e706e67" width = "180"/>
+
+---
+
+**Louvre**: https://github.com/andremion/Louvre
+
+又一个漂亮的 Android 图片选择工具库
+
+<img src = "https://raw.githubusercontent.com/andremion/Louvre/master/art/sample.gif" width = "320"/>
+
+---
+
+**AnchorImageView**: https://github.com/jcodeing/AnchorImageView
+
+支持给图片加锚点的 Android 组件
+
+<img src = "https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif" width = "320"/>
+
+---
+
+**PickPhotoSample**: https://github.com/Werb/PickPhotoSample
+
+Photo Picker Of Android Library
+
+<img src = "https://raw.githubusercontent.com/Werb/PickPhotoSample/master/screenshots/select.png" width = "320"/> <img src = "https://raw.githubusercontent.com/Werb/PickPhotoSample/master/screenshots/show.png" width = "320"/>
+
+---
+
+**PictureSelector**: https://github.com/LuckSiege/PictureSelector
+
+android多图选择器 图片/视频 单选or多选，以及视频录制
+
+<img src = "https://raw.githubusercontent.com/LuckSiege/PictureSelector/master/image/A574F86A9A9F42A77D03B0ACC9E761C9.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/LuckSiege/PictureSelector/master/image/0F918EB15954836F59A95A3F7E0D2012.jpg" width = "320"/>
+
+---
+
+**PanoramaImageView**: https://github.com/gjiazhe/PanoramaImageView
+
+通过监听手腕旋转进行交互，自动滚动图片
+
+<img src = "https://raw.githubusercontent.com/gjiazhe/PanoramaImageView/master/screenshots/recyclerview_sample.gif" width = "300"/> <img src = "https://raw.githubusercontent.com/gjiazhe/PanoramaImageView/master/screenshots/vertical_sample.gif" width = "300"/>
+
+---
+
+**MultiImageView**: https://github.com/stfalcon-studio/MultiImageView
+
+多种图片样式 UI 组合，很适合做头像相关的功能
+
+<img src = "https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width = "320"/>
+
+---
+
+**TakePhoto**: https://github.com/crazycodeboy/TakePhoto
+
+一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+
+<img src = "https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png" width = "800"/>
+
+---
+
+**Gradient-Artist**: https://github.com/Hariofspades/Gradient-Artist
+
+Gradient-Artist library will allow you to use gradient overly on top of the image
+
+<img src = "https://raw.githubusercontent.com/Hariofspades/Gradient-Artist/master/assets/wallpaper.png" width = "640"/>
+
+---
+
+**500px-android-blur**: https://github.com/500px/500px-android-blur
+
+500px-android-blur
+
+<img src = "https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width = "400"/>
+
+---
+
+**BlurView**: https://github.com/Dimezis/BlurView
+
+IOS 风格的安卓动态模糊库
+
+<img src = "https://raw.githubusercontent.com/Dimezis/BlurView/master/BlurScreenshot.png" width = "320"/>
+
+---
+
+**BlurKit-Android**: https://github.com/flurgle/BlurKit-Android
+
+性能强大的安卓模糊库
+
+<img src = "https://github.com/flurgle/BlurKit-Android/raw/master/.repo/demo.gif" width = "320"/>
+
+---
+
+**AndroidRealTimeBlur**: https://github.com/wenhatai/AndroidRealTimeBlur
+
+Android real-time blur
+
+---
+
+**VectorSupportView**: https://github.com/akashandroid90/VectorSupportView
+
+VectorSupportView is a library to support vector assets in compound drawables
+
+---
+
+**collageview**: https://github.com/lopei/collageview
+
+Android 图片拼图效果
+
+<img src = "https://camo.githubusercontent.com/cedb07108cc866e9f9641e39f144e8135b861637/68747470733a2f2f70702e766b2e6d652f633632363832332f763632363832333337312f32393437632f5a4f354e307644696154342e6a7067" width = "320"/> <img src = "https://camo.githubusercontent.com/b90567e5769502f6e18a8edbfca2fb47eb7d528f/68747470733a2f2f70702e766b2e6d652f633633363831372f763633363831373337312f34353439392f672d344a5473486c6935412e6a7067" width = "320"/>
+
+---
+
+**android-gif-example**: https://github.com/jaredsburrows/android-gif-example
+
+Gif RecyclerView MVP Grid Example using Dagger 2, Retrofit 2, RxJava 2 and Butterknife with Junit and Espresso tests
+
+<img src = "https://camo.githubusercontent.com/8866ca0e83b3cc357db6bdfc0ebd5ca304e16ec1/687474703a2f2f692e696d6775722e636f6d2f7a457243364a562e706e67" width = "320"/>
+
+---
+
+**gifencoder**: https://github.com/square/gifencoder
+
+A pure Java library implementing the GIF89a specification. Suitable for use on Android
+
+<img src = "https://raw.githubusercontent.com/square/gifencoder/master/gallery/simple-animation.gif" width = "240"/>
+
+---
+
+**FocusSurfaceView**: https://github.com/CGmaybe10/FocusSurfaceView
+
+拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像
+
+<img src = "https://raw.githubusercontent.com/CGmaybe10/FocusSurfaceView/master/screenshots/demo.gif" width = "240"/>
+
+---
+
+**ScrollParallaxImageView**: https://github.com/gjiazhe/ScrollParallaxImageView
+
+滚动时图片产生视差效果的ImageView
+
+<img src = "https://raw.githubusercontent.com/gjiazhe/ScrollParallaxImageView/master/screenshot/ss1.gif" width = "240"/> <img src = "https://raw.githubusercontent.com/gjiazhe/ScrollParallaxImageView/master/screenshot/ss3.gif" width = "240"/>
+
+---
+
+**crescento**: https://github.com/developer-shivam/crescento
+
+Add curve at bottom of image views and relative layouts
+
+<img src = "https://raw.githubusercontent.com/developer-shivam/Crescento/master/art/sample2.gif" width = "320"/>
+
+---
+
+**HighPassSkinSmoothing-Android**: https://github.com/AmniX/HighPassSkinSmoothing-Android
+
+An implementation of High Pass Skin Smoothing on Android Bitmap 美颜
+
+<img src = "https://camo.githubusercontent.com/1b009f525c52b22822d43b56f0747d594652bf70/687474703a2f2f7975616f2e6769746875622e696f2f595543494869676850617373536b696e536d6f6f7468696e672f70726576696577732f312e6a7067" width = "640"/>
+
+---
+
+**DexMovingImageView**: https://github.com/dexlex/DexMovingImageView
+
+一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动
+
+<img src = "https://raw.githubusercontent.com/dexlex/DexMovingImageView/master/assets/screenshot/home.png" width = "220"/> <img src = "https://raw.githubusercontent.com/dexlex/DexMovingImageView/master/assets/screenshot/menu.png" width = "220"/>
+
+---
+
+**SimpleOneStep**: https://github.com/gavinliu/SimpleOneStep
+
+仿 Smartisan OneStep
+
+<img src = "https://raw.githubusercontent.com/gavinliu/SimpleOneStep/master/screenshots.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/gavinliu/SimpleOneStep/master/screenshots2.gif" width = "320"/>
+
+---
+
+**BigImageViewer**: https://github.com/Piasy/BigImageViewer
+
+大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡
+
+<img src = "https://github.com/Piasy/BigImageViewer/raw/master/art/fresco_big_image_viewer_demo.gif" width = "320"/>
 
 ---
 
@@ -18,7 +536,7 @@ Android 图片放大过渡效果
 
 对角线风格
 
-<img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/screenshot.png" width = "320"/>
+<img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/Screenshot/barney_squint.png" width = "320"/> <img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/Screenshot/list_squint.png" width = "320"/>
 
 ---
 
@@ -43,6 +561,14 @@ Android 图片放大过渡效果
 图片浏览器
 
 <img src = "https://raw.githubusercontent.com/jeancsanchez/PhotoViewSlider/master/PhotoViewSlider.gif" width = "200"/>
+
+---
+
+**android-hidden-camera**: https://github.com/kevalpatel2106/android-hidden-camera
+
+This library is to take picture using camera without camera preview
+
+<img src = "https://raw.githubusercontent.com/kevalpatel2106/android-hidden-camera/master/apk/sample.png" width = "210"/>
 
 ---
 
@@ -76,11 +602,35 @@ Simple gallery to retrieve one or more images. It allow to take new photos or vi
 
 ---
 
+**cropiwa**: https://github.com/steelkiwi/cropiwa
+
+图片自定义裁剪
+
+<img src = "https://raw.githubusercontent.com/steelkiwi/cropiwa/master/assets/3J8gYWC.gif" width = "320"/>
+
+---
+
 **croperino**: https://github.com/ekimual/croperino
 
 图片裁剪
 
 <img src = "https://cloud.githubusercontent.com/assets/16832215/18544278/855d9aae-7b66-11e6-8236-ba1bc89a8e44.png" width = "320"/>
+
+---
+
+**MultiType-FilePicker**: https://github.com/fishwjy/MultiType-FilePicker
+
+一款轻量级的文件选择器，支持多种文件类型
+
+<img src = "https://github.com/fishwjy/MultiType-FilePicker/raw/master/pic/pick_img.gif" width = "320"/> <img src = "https://github.com/fishwjy/MultiType-FilePicker/raw/master/pic/pick_file.png" width = "320"/>
+
+---
+
+**MediaPickerInstagram**: https://github.com/NodensN/MediaPickerInstagram
+
+Material 风格的类似 Instagram 的图片选择器
+
+<img src = "https://cloud.githubusercontent.com/assets/10350755/20528721/99b9154a-b0cd-11e6-8597-d0ddf11bdca4.png" width = "240"/> <img src = "https://cloud.githubusercontent.com/assets/10350755/20528723/9aa26b64-b0cd-11e6-983d-e796701f52f8.png" width = "240"/>
 
 ---
 
@@ -166,7 +716,7 @@ Useful to be used as album cover in Music apps
 
 Android拼图支持库，轻松实现Instagram Layout效果
 
-<img src = "https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width = "320"/>
+<img src = "https://raw.githubusercontent.com/wuapnjie/PuzzleView/master/screenshots/screenshot1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/wuapnjie/PuzzleView/master/screenshots/screenshot2.png" width = "320"/>
 
 ---
 
@@ -220,7 +770,23 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
 
-<img src = "https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67" width = "270"/>
+<img src = "https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/ImagePicker/demo1.png" width = "270"/> <img src = "https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/ImagePicker/demo3.png" width = "270"/>
+
+---
+
+**ImageZipper**: https://github.com/amanjeetsingh150/ImageZipper
+
+压缩图片，An image compresssion library in android
+
+<img src="https://user-images.githubusercontent.com/12881364/28280492-83ac5b2a-6b41-11e7-9394-48ad8e8e44f1.jpg" width = "320"/>
+
+---
+
+**CompressHelper**: https://github.com/nanchen2251/CompressHelper
+
+压缩文件，压缩图片，压缩Bitmap，Compress,CompressImage,CompressFile,CompressBitmap
+
+<img src="https://raw.githubusercontent.com/nanchen2251/CompressHelper/master/111.png" width = "320"/>
 
 ---
 
@@ -239,6 +805,36 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 **MVBarcodeReader**: https://github.com/iamMehedi/MVBarcodeReader
 
 条码识别
+
+---
+
+**zxing-android-embedded**: https://github.com/journeyapps/zxing-android-embedded
+
+Port of the ZXing Android application as an Android library project, for embedding in an Android application
+
+---
+
+**AwesomeQRCode**: https://github.com/SumiMakito/AwesomeQRCode
+
+一个优雅的二维码生成器
+
+<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-4.png" width="320" />
+
+---
+
+**PressScanCode**: https://github.com/BolexLiu/PressScanCode
+
+一个长按扫描webView上的二维码的工具库
+
+<img src="https://raw.githubusercontent.com/BolexLiu/PressScanCode/master/tips.gif" width="240" />
+
+---
+
+**ZXingDemo**: https://github.com/vivian8725118/ZXingDemo
+
+六种二维码生成的样式
+
+<img src="https://raw.githubusercontent.com/vivian8725118/ZXingDemo/master/art/S61128-17080029.jpg" width="320" />
 
 ---
 
@@ -304,12 +900,6 @@ A barcode scanner based on zxing for android
 
 ---
 
-**RxPhoto**: https://github.com/oliveiradev/RxPhoto
-
-This lib using reactive approach for get and take pictures
-
----
-
 **AutoZoomInImageView**: https://github.com/Carbs0126/AutoZoomInImageView
 
 可做splash动画，一张静态图片居中显示并充满屏幕，同时不断放大图片中间部分，形成一种图片不断向中间放大的动画效果
@@ -334,11 +924,9 @@ Android 色彩渐进 ImageView
 
 ---
 
-**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
+**CameraFilters**: https://github.com/JessYanCoding/CameraFilters
 
-水印
-
-<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+摄像头实时滤镜处理库,自带10多种滤镜,支持滤镜扩展,并且兼容七牛云直播滤镜处理
 
 ---
 
@@ -402,6 +990,14 @@ GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
 
 ---
 
+**GlideSlider**: https://github.com/firdausmaulan/GlideSlider
+
+Glide Image Slider
+
+<img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="320"/>
+
+---
+
 **glide-bindingadapter**: https://github.com/s0nerik/glide-bindingadapter
 
 Configurable @BindingAdapter for Glide
@@ -414,33 +1010,11 @@ Glide Bitmap Pool is a memory management library for reusing the bitmap memory h
 
 ---
 
-**vectalign**: https://github.com/bonnyfone/vectalign
+**android-drag-square**: https://github.com/SwiftyWang/android-drag-square
 
-Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG images)
+一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用
 
-<img src="http://s33.postimg.org/qiaafk7xb/vectalign_0_2_demo.gif" width="530px"> 
-
-<img src="http://s4.postimg.org/boxc1zk0p/morph2.gif" width="110px">
-<img src="http://s21.postimg.org/4657b7m0j/morph1.gif" width="110px">
-<img src="http://s28.postimg.org/8mdcxb48t/morph5.gif" width="110px">
-<img src="http://s18.postimg.org/79coo8vid/morph3.gif" width="120px">
-<img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
-
----
-
-**GoogleClock**: https://github.com/lypeer/GoogleClock
-
-纯用SVG做的Google I/O 2016那个炫酷的时钟
-
-<img src="https://raw.githubusercontent.com/lypeer/GoogleClock/master/gif/smallclock.gif" width="320" />
-
----
-
-**AnimatedSvgView**: https://github.com/jaredrummler/AnimatedSvgView
-
-Animated SVG Drawing for Android
-
-<img src="https://raw.githubusercontent.com/jaredrummler/AnimatedSvgView/master/demo/demo.gif" width="320" />
+<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="270" />
 
 ---
 
@@ -449,6 +1023,22 @@ Animated SVG Drawing for Android
 流畅，灵活的图片拖拽排序
 
 <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="270" />
+
+---
+
+**ShapedImageView**: https://github.com/gavinliu/ShapedImageView
+
+Android Rounded, Circle, Path ImageView
+
+<img src="https://raw.githubusercontent.com/gavinliu/ShapedImageView/master/screenshots1.png" width="320" /> <img src="https://raw.githubusercontent.com/gavinliu/ShapedImageView/master/screenshots2.png" width="320" />
+
+---
+
+**CircleImageView**: https://github.com/zuoweitan/CircleImageView
+
+使用clippath实现的CircleImageView,没有Bitmap,没有锯齿
+
+<img src="https://raw.githubusercontent.com/zuoweitan/CircleImageView/master/screen_shot.png" width="320" />
 
 ---
 
@@ -479,6 +1069,12 @@ Animated SVG Drawing for Android
 **belvedere**: https://github.com/zendesk/belvedere
 
 An image picker library for Android
+
+---
+
+**hiddenshot**: https://github.com/karanvs/hiddenshot
+
+安卓截图
 
 ---
 
@@ -594,11 +1190,11 @@ A circular ImageView for Android
 
 ---
 
-**KenBurnsView**: [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
+**KenBurnsView**: https://github.com/flavioarfaria/KenBurnsView
 
 Android ImageViews animated by Ken Burns Effect
 
-<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="320" />
+<img src="https://github.com/flavioarfaria/KenBurnsView/raw/master/anim.gif" width="320" />
 
 ---
 
@@ -747,6 +1343,22 @@ Image selector for Android device. Support single choice and multi-choice.
 Library for picking pictures from gallery or camera
 
 EasyImage allow you to eaisly take picture from gallery or camera without creating lots of boilerplate.
+
+---
+
+**GiphyImageResultsPreview**: https://github.com/myinnos/GiphyImageResultsPreview
+
+Library for GIF results, preview, play, share everything at one place
+
+<img src="https://github.com/myinnos/GiphyImageResultsPreview/raw/master/gif/GiphyImageResultsPreview.gif" width="320" />
+
+---
+
+**GifLoader**: https://github.com/adhishlal/GifLoader
+
+An Android Library to load your GIF files
+
+<img src="https://raw.githubusercontent.com/adhishlal/GifLoader/master/adhishlal.png" width="640" />
 
 ---
 

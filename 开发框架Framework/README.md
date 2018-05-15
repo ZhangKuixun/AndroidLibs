@@ -6,6 +6,204 @@
 
 ---
 
+**awesome-android-complete-reference**：https://github.com/amitshekhariitbhu/awesome-android-complete-reference
+
+安卓开发集锦
+
+---
+
+**CC**：https://github.com/luckybilly/CC
+
+可关联生命周期的组件化开发框架，让组件间的调用像直接依赖一样方便
+
+---
+
+**android-tips-tricks**：https://github.com/nisrulz/android-tips-tricks
+
+Android 开发的一些 Tips 集合
+
+---
+
+**Android-Code-Style**：https://github.com/LoranWong/Android-Code-Style
+
+初心网络安卓组代码规范说明
+
+---
+
+**AndroidStandardDevelop**：https://github.com/Blankj/AndroidStandardDevelop
+
+安卓开发规范
+
+---
+
+**MaterialDesignSamples**：https://github.com/pinguo-zhouwei/MaterialDesignSamples
+
+Material Design 系列控件samples,讲了Material Design 系列新控件的使用方法和一些场景示例
+
+<img src="https://github.com/pinguo-zhouwei/MaterialDesignSamples/raw/master/material_design_simples.gif" width="320"/>
+
+---
+
+**VirtualAPK**：https://github.com/didi/VirtualAPK
+
+滴滴插件化工具，A powerful and lightweight plugin framework for Android
+
+<img src="https://github.com/didi/VirtualAPK/raw/master/imgs/va.png" width="600"/>
+
+---
+
+**Magisk**：https://github.com/topjohnwu/Magisk
+
+A Magic Mask to Alter Android System Systemless-ly
+
+---
+
+**Alfonz**：https://github.com/petrnohejl/Alfonz
+
+Mr. Alfonz is here to help you build your Android app, make the development process easier and avoid boilerplate code
+
+---
+
+**material-design-data**：https://github.com/Luosunce/material-design-data
+
+关于 Material Design 的一切资料都在这里
+
+---
+
+**python-for-android**：https://github.com/kivy/python-for-android
+
+用 Python 开发 Android 应用程序
+
+---
+
+**redux-observable**：https://github.com/dbof10/redux-observable
+
+Redux + View + ViewModel = RVVM
+
+---
+
+**ADAL**：https://github.com/massivedisaster/ADAL
+
+安卓快速开发库
+
+---
+
+**MVPArt**：https://github.com/JessYanCoding/MVPArt
+
+A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
+
+---
+
+**MVPArms**：https://github.com/JessYanCoding/MVPArms
+
+一个整合了大量主流开源项目的Android Mvp快速搭建框架
+
+---
+
+**android-fuze**：https://github.com/NodensN/android-fuze
+
+Fuze is an amazing functional reactive mvvm sample  based on Kickstarter oss app
+
+---
+
+**DroidWizard**：https://github.com/praslnx8/DroidWizard
+
+Kickstart MVP framework for android development
+
+---
+
+**atlas**：https://github.com/alibaba/atlas
+
+Atlas - 带你重返App开发的田园时代
+
+---
+
+**ak-universal-android-helper**：https://github.com/kumar-aakash86/ak-universal-android-helper
+
+安卓开发助手
+
+---
+
+**SampleApp**: https://github.com/saveendhiman/SampleApp
+
+安卓快速开发框架
+
+---
+
+**BGAScaffolding-Android**: https://github.com/bingoogolapple/BGAScaffolding-Android
+
+Android MVC、MVP、MVVM 项目开发脚手架
+
+---
+
+**FunctionalAndroidReference**: https://github.com/pakoito/FunctionalAndroidReference
+
+Showcase project of Functional Reactive Programming on Android, using RxJava. http://tinyurl.com/RxDroidcon16
+
+---
+
+**android-mvp-architecture**: https://github.com/MindorksOpenSource/android-mvp-architecture
+
+This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+
+<img src="https://camo.githubusercontent.com/6cac1f474b46444878083ea769efa0179318f034/68747470733a2f2f6a616e69736861722e6769746875622e696f2f676966732f6d76702d6170702e676966" width="320"/>
+
+---
+
+**EliteMvp**: https://github.com/jemshit/EliteMvp
+
+Simple, Tiny, Extendable Android MVP library
+
+<img src="https://raw.githubusercontent.com/jemshit/EliteMvp/master/files/uml.png" width="640"/>
+
+---
+
+**HtmlNative**: https://github.com/hsllany/HtmlNative
+
+Use HTML/CSS to render Android View, Lua to control its logic (Not Webview)
+
+<img src="https://github.com/hsllany/HtmlNative/raw/master/doc/screen2.jpg" width="320"/>
+
+---
+
+**Android-Architecture-Components**: https://github.com/KucherenkoIhor/Android-Architecture-Components
+
+The template project that uses Android Architecture Components with Repository pattern. The simple app that uses awesome Fuel library instead of Retrofit for perfoming HTTP request. The app also persists data using the Room library and display data in RecyclerView
+
+<img src="https://camo.githubusercontent.com/0a3e2e91c9ec0d1b759faba9654ebb23744150b8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a575664464d596d456f4364586e697937756c446535672e706e67" width="600"/>
+
+---
+
+**Pluto-Android**: https://github.com/minggo620/Pluto-Android
+
+Android应用开发通用框架
+
+<img src="https://camo.githubusercontent.com/67394e25cf3beda3caa901c54e44a074d7d7c27e/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313235323633382d353934633237356236366135336539622e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="480"/>
+
+---
+
+**AndroidMVPAuthenticationBoilerPlate**: https://github.com/TakeoffAndroid/AndroidMVPAuthenticationBoilerPlate
+
+Login/Signup app which handles boiler plate Validation logics using MVP design patterns with SQLite Database
+
+<img src="https://camo.githubusercontent.com/fa70071b3310bb98a865c560f320bd2d325d78fb/687474703a2f2f692e696d6775722e636f6d2f546f62344132322e676966" width="190"/> <img src="https://camo.githubusercontent.com/8906ef6aad16b32871365386f3042a0dc5dce505/687474703a2f2f692e696d6775722e636f6d2f79416939426d352e676966" width="190"/>
+
+---
+
+**AndroidHookStartActivity**: https://github.com/BolexLiu/AndroidHookStartActivity
+
+两行代码实现动态启动未注册的Activity
+
+---
+
+**AppAddUpdate**: https://github.com/kingwang666/AppAddUpdate
+
+Android app 增量更新
+
+<img src="https://camo.githubusercontent.com/d5e0b48f2e1ed7472c84f1fe32a7767439fc19fc/687474703a2f2f692e696d6775722e636f6d2f6e757445554b452e6a7067" width="270"/>
+
+---
+
 **rexxar-android**: https://github.com/douban/rexxar-android
 
 豆瓣的混合开发框架 -- Rexxar
@@ -15,6 +213,32 @@
 **patchrom_miui**: https://github.com/MiCode/patchrom_miui
 
 MIUI 8 系统
+
+---
+
+**dynamic-load-view**: https://github.com/kot32go/dynamic-load-view
+
+Dynamic-load-view 能够动态加载外部apk中的View以及资源，能够热修复线上View，以及模块化更新
+
+<img src="https://camo.githubusercontent.com/9f3f711562a2b14ca721163bebec282785b597b2/687474703a2f2f3766766a37302e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f64796e616d69632d6c6f61642d766965772e676966" width="640"/>
+
+---
+
+**JVM-Sandbox**: https://github.com/alibaba/JVM-Sandbox
+
+基于JVM的实时无侵入AOP框架容器
+
+---
+
+**VasSonic**: https://github.com/Tencent/VasSonic
+
+提升h5首屏加载速度
+
+---
+
+**Robust**: https://github.com/Meituan-Dianping/Robust
+
+美团的新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题作出反应，补丁修补成功率高达99.9%
 
 ---
 
@@ -118,6 +342,18 @@ Lightweight Dagger 2 scoped component management library
 
 ---
 
+**Froggy**: https://github.com/BullyBoo/Froggy
+
+Simple Mvp Implementation
+
+---
+
+**andiag-mvp**: https://github.com/iagocanalejas/andiag-mvp
+
+Library to help developers build full MVP apps
+
+---
+
 **avenging**: https://github.com/JoaquimLey/avenging
 
 MVP - Android no Dagger or RxJava example http://joaquimley.com
@@ -133,6 +369,14 @@ a MVP library for Android
 **Auster**: https://github.com/Prokky/Auster
 
 Simple lightweight MVP library for Android
+
+---
+
+**MVP-RX-Android-Sample**: https://github.com/ahmedeltaher/MVP-RX-Android-Sample
+
+A sample to showcase MVP pattern with RX-Android, Retrofit 2.0
+
+<img src="https://camo.githubusercontent.com/4ac0f97e5e63ff2dd802f3dd91a804511623c2c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d43374258414b314c685a6b2f57474653586e56365576492f41414141414141414869772f372d7239646d644e794149736a734f75655a4943563750536f4c746b504f454241434c63422f73302f4d56502e6a7067" width="640"/>
 
 ---
 
@@ -184,6 +428,12 @@ Android Design 设计模板
 
 ---
 
+**mvp-helpers**：https://github.com/BlackBoxVision/mvp-helpers
+
+Helper classes to build Android Apps through MVP pattern in a faster way https://blackboxvision.github.io/mvp
+
+---
+
 **AndroidMvc**：https://github.com/kejunxia/AndroidMvc
 
 Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
@@ -193,6 +443,14 @@ Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
 **android-base-mvp**：https://github.com/derohimat/android-base-mvp
 
 Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
+
+---
+
+**MVP**：https://github.com/SuperMan42/MVP
+
+App based on Material Design + MVP + Rxjava + Retrofit + Okhttp + Glide
+
+<img src="https://github.com/SuperMan42/MVP/raw/master/hpw.gif" width="320" />
 
 ---
 
@@ -236,9 +494,23 @@ This Android library implements a vertical stepper form following Google Materia
 
 ---
 
+**mvvm-starter**：https://github.com/flipboxstudio/mvvm-starter
+
+starter for Android MVVM Project using DataBinding Library
+
+<img src="https://camo.githubusercontent.com/241a05552f3ffd77b846d26faae388d547135078/68747470733a2f2f7075752e73682f7637556d312f653336633438623432662e706e67" width="600" />
+
+---
+
 **Kubwa**：https://github.com/WesleyElliott/Kubwa
 
 An Annotation based validation library for use with Android's DataBinding library in an MVVM architecture
+
+---
+
+**PokeMVVM**：https://github.com/evant/PokeMVVM
+
+A playground for MVVM style architecture on Android
 
 ---
 
@@ -298,6 +570,18 @@ Using Databing and Retrofit to build a fast MVVM framework
 
 ---
 
+**LoveUT**：https://github.com/geniusmart/LoveUT
+
+Robolectric 3.x 的介绍和实战
+
+---
+
+**BakeBread**：https://github.com/bitstadium/BakeBread
+
+A minidump analysis tool. Allows postmortem debugging of Android NDK apps and libraries (inspection of stack frames and variable values).
+
+---
+
 **ConditionWatcher**：https://github.com/AzimoLabs/ConditionWatcher
 
 自动测试框架
@@ -328,6 +612,14 @@ VR Player for android
 
 ---
 
+**aurora-imui**：https://github.com/jpush/aurora-imui
+
+通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+
+<img src="https://raw.githubusercontent.com/huangminlinux/resource/master/IMUIPick%402x.png" width="600" />
+
+---
+
 **Applozic-Android-SDK**：https://github.com/AppLozic/Applozic-Android-SDK
 
 安卓实时聊天框架
@@ -354,6 +646,60 @@ PalDB is an embeddable write-once key-value store written in Java.
 **NightModel**: https://github.com/achenglike/NightModel
 
 a night model lib for easy change app's night theme
+
+---
+
+**ThemeSkinning**: https://github.com/burgessjp/ThemeSkinning
+
+仿网易云音乐的主题换肤
+
+<img src="https://github.com/burgessjp/ThemeSkinning/raw/master/app/capture/demo.gif" width="320"/>
+
+---
+
+**DayNightModeSwitch**: https://github.com/WuLiFei/DayNightModeSwitch
+
+基于Theme的Android动态换肤库
+
+---
+
+**Colorful**: https://github.com/hehonghui/Colorful
+
+基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式
+
+<img src="https://github.com/hehonghui/Colorful/blob/master/images/colorful.gif" width="320"/>
+
+---
+
+**Colors**: https://github.com/marverenic/Colors
+
+换肤框架
+
+<img src="https://github.com/marverenic/Colors/raw/master/preview.gif" width="320"/>
+
+---
+
+**Android-skin-support**: https://github.com/ximsfei/Android-skin-support
+
+一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤
+
+<img src="https://raw.githubusercontent.com/ximsfei/Res/master/skin-demo/red_3.png" width="120"/> <img src="https://raw.githubusercontent.com/ximsfei/Res/master/skin-demo/white_3.png" width="120"/> <img src="https://raw.githubusercontent.com/ximsfei/Res/master/skin-demo/night_3.png" width="120"/>
+
+---
+
+**Colorful**：https://github.com/garretyoder/Colorful
+
+安卓动态换肤
+
+<img src="https://raw.githubusercontent.com/garretyoder/Colorful/master/screenshots/art1.png" width="320"/> <img src="https://raw.githubusercontent.com/garretyoder/Colorful/master/screenshots/art2.png" width="320"/>
+
+---
+
+**DayNightSwitch**：https://github.com/Mahfa/DayNightSwitch
+
+日夜切换button
+
+<img src="https://github.com/Mahfa/DayNightSwitch/raw/master/demo.gif" width="320"/>
 
 ---
 

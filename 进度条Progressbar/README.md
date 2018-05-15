@@ -6,6 +6,286 @@
 
 ---
 
+**android-material-app-rating**: https://github.com/stepstone-tech/android-material-app-rating
+
+好看的评分库
+ 
+<img src = "https://github.com/stepstone-tech/android-material-app-rating/raw/master/gifs/firstDialog.gif" width = "320"/> <img src = "https://github.com/stepstone-tech/android-material-app-rating/raw/master/gifs/secondDialog.gif" width = "320"/>
+
+---
+
+**android-circular-progress-view**: https://github.com/GuilhE/android-circular-progress-view
+
+A fancy CircularProgressView
+ 
+<img src = "https://github.com/GuilhE/android-circular-progress-view/raw/master/sample1.png" width = "600"/>
+
+---
+
+**CircularProgressbar**: https://github.com/sparrow007/CircularProgressbar
+
+CircularProgressbar
+ 
+<img src = "https://user-images.githubusercontent.com/22986571/29291388-0aa337e0-8161-11e7-945c-1394dc9bcc1c.jpg" width = "600"/>
+
+---
+
+**SeekBarWithIntervals**: https://github.com/RameshBhupathi/SeekBarWithIntervals
+
+Seekbar with labelled intervals Like Olx FilterView Seekbar
+ 
+<img src = "https://github.com/RameshBhupathi/SeekBarWithIntervals/raw/master/second.png" width = "320"/>
+
+---
+
+**circle-time-view**: https://github.com/CROSP/circle-time-view
+
+An android custom view for displaying time in a pretty format, use for timers and stopwatches
+ 
+<img src = "https://camo.githubusercontent.com/acf54566dc6948ad03f6d2692c3866c41b3e87a6/68747470733a2f2f63726f73702e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f30392f53637265656e73686f745f313530343337303432382e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/95a0fb9cfc8fc4aa07f08019e1063a1d544dd806/68747470733a2f2f63726f73702e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f30392f53637265656e73686f745f313530343337303335372e706e67" width = "320"/>
+
+---
+
+**Android-ProgressViews**: https://github.com/zekapp/Android-ProgressViews
+
+Android-ProgressViews
+ 
+<img src = "https://github.com/zekapp/Android-ProgressViews/raw/master/art/pic-1.png" width = "320"/>
+
+---
+
+**SlidingSquareLoaderView**: https://github.com/steelkiwi/SlidingSquareLoaderView
+
+SlidingSquareLoaderView
+ 
+<img src = "https://github.com/steelkiwi/SlidingSquareLoaderView/blob/master/assets/sliding_square_loader_view.gif" width = "320"/>
+
+---
+
+**FuckingVolumeSlider**: https://github.com/shellljx/FuckingVolumeSlider
+
+android实现的反人类音量滑块
+ 
+<img src = "https://camo.githubusercontent.com/ae16de47ebb1997c40431c6c453ec51e7edd2946/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6675636b696e67736c696465722e676966" width = "320"/>
+
+---
+
+**FunnyLoader**: https://github.com/team-supercharge/FunnyLoader
+
+Loading indicator for android with over 200 random messages
+ 
+<img src = "https://github.com/team-supercharge/FunnyLoader/raw/master/funnyloader.gif" width = "600"/>
+
+---
+
+**SectorProgressView**: https://github.com/timqi/SectorProgressView
+
+a simple progress prompt or chart widget of android using circle and a sector
+ 
+<img src = "https://raw.githubusercontent.com/timqi/SectorProgressView/master/art/colorfulringprogressview.demo.gif" width = "200"/> <img src = "https://raw.githubusercontent.com/timqi/SectorProgressView/master/art/sectorprogressview.demo.gif" width = "200"/>
+
+---
+
+**BoxLoaderView**: https://github.com/nipun-birla/BoxLoaderView
+
+BoxLoaderView
+ 
+<img src = "https://github.com/nipun-birla/BoxLoaderView/raw/master/preview.gif" width = "320"/>
+
+---
+
+**ProgressManager**: https://github.com/JessYanCoding/ProgressManager
+
+一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度
+ 
+<img src = "https://github.com/JessYanCoding/ProgressManager/raw/master/arts/progressManager.gif" width = "320"/>
+
+---
+
+**DotsLoaderView**: https://github.com/steelkiwi/DotsLoaderView
+
+Simple dots loader view http://steelkiwi.com/
+ 
+<img src = "https://github.com/steelkiwi/DotsLoaderView/raw/master/assets/dots-loader-view.gif" width = "400"/>
+
+---
+
+**snackprogressbar**: https://github.com/tingyik90/snackprogressbar
+
+snackbar扩展，可以显示进度
+ 
+<img src = "https://camo.githubusercontent.com/c6a9e105b36633dca9f8d7129616f63b5b3c76f6/687474703a2f2f692e696d6775722e636f6d2f78474f6e7756702e706e67" width = "400"/>
+
+---
+
+**terminal-seekbar**: https://github.com/alshell7/terminal-seekbar
+
+A smart seek bar with multiple junction points at random seek position
+ 
+<img src = "https://github.com/alshell7/terminal-seekbar/blob/master/graphics/preview.gif" width = "600"/>
+
+---
+
+**HueSeekBar**: https://github.com/iammert/HueSeekBar
+
+Yet another android seekbar inspired from Philips Hue app
+ 
+<img src = "https://raw.githubusercontent.com/iammert/HueSeekBar/master/art/art.gif" width = "320"/>
+
+---
+
+**ProgressView**: https://github.com/WhiteDG/ProgressView
+
+自定义进度条
+ 
+<img src = "https://github.com/WhiteDG/ProgressView/raw/master/screenshot/demo.gif" width = "320"/>
+
+---
+
+**OverwatchProgress**: https://github.com/zjywill/OverwatchProgress
+
+OverwatchProgress
+ 
+<img src = "https://raw.githubusercontent.com/zjywill/OverwatchProgress/master/SampleImage/overwatch_new.gif" width = "320"/>
+
+---
+
+**AnimatedLoadingIndicator**: https://github.com/yash786agg/AnimatedLoadingIndicator
+
+An animated Progress Dialog
+ 
+<img src = "https://github.com/yash786agg/AnimatedLoadingIndicator/raw/master/screenshots/AnimatedLoadingIndicator.gif" width = "320"/>
+
+---
+
+**circularView**: https://github.com/rjsvieira/circularView
+
+A 'Google Fit'-like implementation of the circular view
+ 
+<img src = "https://github.com/rjsvieira/circularView/raw/master/images/periodic.gif" width = "600"/>
+
+---
+
+**tinglingsquares**: https://github.com/ishan1604/tinglingsquares
+
+A delightful progress animation
+ 
+<img src = "https://raw.githubusercontent.com/ishan1604/tinglingsquares/master/media/demo.gif" width = "320"/>
+
+---
+
+**CoolProgressViews**: https://github.com/amanjeetsingh150/CoolProgressViews
+
+Android library with collection of cool progress views
+ 
+<img src = "https://cloud.githubusercontent.com/assets/12881364/23580783/04e3ba40-012e-11e7-9580-f65891f222aa.gif" width = "320"/>
+
+---
+
+**android-slidr**: https://github.com/florent37/android-slidr
+
+Another android slider / seekbar
+ 
+<img src = "https://raw.githubusercontent.com/florent37/android-slidr/master/medias/slidr2_1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/florent37/android-slidr/master/medias/slidr_region.png" width = "320"/>
+
+---
+
+**SegmentedStepperSeekbar**: https://github.com/harshalbenake/SegmentedStepperSeekbar
+
+SegmentedStepperSeekbar
+ 
+<img src = "https://github.com/harshalbenake/SegmentedStepperSeekbar/raw/master/app/src/main/res/drawable/segmented_stepper_seekbar.png" width = "320"/>
+
+---
+
+**ProtractorView**: https://github.com/GoodieBag/ProtractorView
+
+半圆 seekbar
+ 
+<img src = "https://raw.githubusercontent.com/GoodieBag/ProtractorView/5b691ab3e4294a2a896620ad27104b03618105e1/gif/PVcolors.gif" width = "270"/>
+
+---
+
+**plain-pie**: https://github.com/zurche/plain-pie
+
+简单可自定义饼状图
+
+<img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_1.png" width="240" /> <img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_2.png" width="240" /> <img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_3.png" width="240" /> 
+
+---
+
+**geometric-progress-view**: https://github.com/vbohush/geometric-progress-view
+
+Customizable progress indicator in the form of 2D geometric shapes
+ 
+<img src = "https://raw.githubusercontent.com/vbohush/geometric-progress-view/master/screenshot/screenshot.gif" width = "600"/>
+
+---
+
+**pageloader**: https://github.com/arieridwan8/pageloader
+
+自定义布局加载
+ 
+<img src = "https://raw.githubusercontent.com/arieridwan8/pageloader/master/screenshots/demo.gif" width = "270"/>
+
+---
+
+**GADownloading**: https://github.com/Ajian-studio/GADownloading
+
+蛮有创意的一发 Android 下载效果
+ 
+<img src = "https://raw.githubusercontent.com/Ajian-studio/GADownloading/master/raw/my_loading_view_success.gif" width = "300"/> <img src = "https://raw.githubusercontent.com/Ajian-studio/GADownloading/master/raw/my_loading_view_failed.gif" width = "300"/> 
+
+---
+
+**WaveLoading**: https://github.com/race604/WaveLoading
+
+一个全能的水波加载动画
+ 
+<img src = "https://raw.githubusercontent.com/race604/WaveLoading/master/screenshots/screenshot.gif" width = "320"/>
+
+---
+
+**ImageLoadingView**: https://github.com/yingLanNull/ImageLoadingView
+
+类似微信图片加载,微博图片加载,视频加载时的进度view
+ 
+<img src = "https://raw.githubusercontent.com/yingLanNull/ImageLoadingView/master/Show/1.gif" width = "290"/> <img src = "https://raw.githubusercontent.com/yingLanNull/ImageLoadingView/master/Show/2.gif" width = "290"/>
+
+---
+
+**segmentedview**: https://github.com/czy1121/segmentedview
+
+ios风格的分段控件，类似 UISegmentedControl
+
+<img src="https://raw.githubusercontent.com/czy1121/segmentedview/master/screenshot.png" width="320" />
+
+---
+
+**CircularProgressBar**: https://github.com/Shah-Sahab/CircularProgressBar
+
+CircularProgressBar
+
+<img src="https://github.com/Shah-Sahab/CircularProgressBar/blob/master/device-2015-06-14-003353.png" width="320" />
+
+---
+
+**CircleAlarmTimerView**: https://github.com/yingLanNull/CircleAlarmTimerView
+
+圆形进度条
+
+<img src="https://raw.githubusercontent.com/yingLanNull/CircleAlarmTimerView/master/show/2.gif" width="290" />
+
+---
+
+**Audiogram**: https://github.com/alxrm/Audiogram
+
+Lightweight audiowave progressbar
+
+<img src="https://raw.githubusercontent.com/alxrm/Audiogram/master/imgs/wave.gif" width="480" />
+
+---
+
 **CountDownProgressView**: https://github.com/kishorsinghgour/CountDownProgressView
 
 This is a simple rounded progress view that shows remaining time/cycle/events as text in center
@@ -140,6 +420,14 @@ Custom UI control for android which is showing data as a segments and a value in
 
 ---
 
+**SwagPoints**: https://github.com/enginebai/SwagPoints
+
+An Android custom circular SeekBar that supports max/min range and step settings
+
+<img src="https://raw.githubusercontent.com/enginebai/SwagPoints/master/art/graphic.png" width="600" />
+
+---
+
 **RangeBarVertical**: https://github.com/ITheBK/RangeBarVertical
 
 Android rangebar(seekbar) vertical having two thumbs
@@ -218,6 +506,14 @@ A layout that creates a loading-like progress around it's child ( circle ), insp
 贝塞尔曲线加载
 
 <img src="https://camo.githubusercontent.com/13cbed7a494b18b10fdd13be2c636a823e7547f5/687474703a2f2f69342e6275696d672e636f6d2f636464356134613866303233333635302e676966" width="360" />
+
+---
+
+**BubbleSeekBar**: https://github.com/woxingxiao/BubbleSeekBar
+
+自定义SeekBar，进度变化由可视化气泡样式呈现
+
+<img src="https://raw.githubusercontent.com/woxingxiao/BubbleSeekBar/master/demo.gif" width="300" />
 
 ---
 

@@ -1,8 +1,374 @@
 # AndroidLibs == 文本 Label
 
-包含：各种文本相关的自定义控件 pdf textview ……
+包含：各种文本相关的 `TextView`, `EditText`, pdf 文档， 自定义控件 ……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**PhoneMask**: https://github.com/vacxe/PhoneMask
+
+根据掩码友好的显示手机号码
+
+---
+
+**Android-WordToSpan**: https://github.com/bachors/Android-WordToSpan
+
+TextView 上显示链接，@某人，标签等
+
+<img src="https://camo.githubusercontent.com/7a6d4ab6371248bc1ae5e04e11204f05fe5182d5/687474703a2f2f692e67697068792e636f6d2f336f377169567a76347047416242614355552e676966" width="320"/>
+
+---
+
+**HTextView: https://github.com/hanks-zyh/HTextView
+
+给文本加上动画
+
+<img src="https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo3.gif" width="320"/>
+
+---
+
+**ProgressTextView**: https://github.com/JackDinealKIM/ProgressTextView
+
+ProgressTextView
+
+<img src="https://github.com/JackDinealKIM/ProgressTextView/raw/master/first.png" width="320"/>
+
+---
+
+**Android-Prefix-Input**: https://github.com/bachors/Android-Prefix-Input
+
+Android-Prefix-Input
+
+<img src="https://camo.githubusercontent.com/e2d965c9ea35a0b9b087d27411ec93434153661e/687474703a2f2f692e67697068792e636f6d2f6c34434430625642304b576c3550584c712e676966" width="320"/>
+
+---
+
+**RippleValidatorEditText**: https://github.com/omidheshmatinia/RippleValidatorEditText
+
+RippleValidatorEditText
+
+<img src="https://github.com/omidheshmatinia/RippleValidatorEditText/raw/master/sample/sample1.gif" width="320"/>
+
+---
+
+**ClickDrawableTextView**: https://github.com/matpag/ClickDrawableTextView
+
+ClickDrawableTextView
+
+<img src="https://camo.githubusercontent.com/69019c8c81299b0589652c35353a9fcf5d8559f1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785541376158716d70704c523761304a66472f67697068792e676966" width="320"/>
+
+---
+
+**GradientTextView**: https://github.com/livesun/GradientTextView
+
+一个颜色逐渐改变的textview，类似歌词效果
+
+<img src="https://cloud.githubusercontent.com/assets/27534854/26811851/e7ca915a-4aa6-11e7-993a-0f60f53132fa.gif" width="320"/>
+
+---
+
+**TagViewGroup**: https://github.com/shellljx/TagViewGroup
+
+Android 仿小红书图片标签Group
+
+<img src="https://camo.githubusercontent.com/5c7618004034e41b5eea5cca839d23ba3f11da59/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f657a6769662e636f6d2d646339663232313539302e676966" width="320"/>
+
+---
+
+**CompoundIconTextView**: https://github.com/AAkira/CompoundIconTextView
+
+支持矢量图展示的 TextView
+
+<img src="https://github.com/AAkira/CompoundIconTextView/raw/master/arts/preview.png" width="320"/>
+
+---
+
+**HorizontalScrollSelectedView**: https://github.com/385841539/HorizontalScrollSelectedView
+
+横向滚动的，可以支持大量文本选择的 自定义View ，一行代码 ， 简单易用 ， 无OOM情况
+
+<img src="https://github.com/385841539/HorizontalScrollSelectedView/raw/master/horizontalselectedviewlibrary/src/main/res/drawable/xiaoguo2.gif" width="320"/>
+
+---
+
+**ParticleTextView**: https://github.com/Yasic/ParticleTextView
+
+一个用粒子动画显示文字的 Android 自定义 View
+
+<img src="https://github.com/Yasic/ParticleTextView/raw/master/Screenshot/Total.gif?raw=true" width="320"/>
+
+---
+
+**MaterialChipsInput**: https://github.com/pchmn/MaterialChipsInput
+
+Implementation of Material Design Chips component for Android
+
+<img src="https://raw.githubusercontent.com/pchmn/MaterialChipsInput/master/docs/demo2.gif" width="320"/>
+
+---
+
+**android-round-textview**: https://github.com/apg-mobile/android-round-textview
+
+android-round-textview
+
+<img src="https://raw.githubusercontent.com/apg-mobile/android-round-textview/master/preview.png" width="320"/>
+
+---
+
+**AdaptiveTableLayout**: https://github.com/Cleveroad/AdaptiveTableLayout
+
+利用 TabLayout 实现的 CSV 文件加载和预览
+
+<img src="https://raw.githubusercontent.com/Cleveroad/AdaptiveTableLayout/master/images/demo.gif" width="600"/>
+
+---
+
+**CharCountTextView**: https://github.com/xbroak/CharCountTextView
+
+Twitter 风格 TextView 输入字数统计
+
+<img src="https://camo.githubusercontent.com/b390d94864e09e4c888becbbd99c1ea43529873e/687474703a2f2f692e696d6775722e636f6d2f566770467766792e706e67" width="400"/> <img src="https://camo.githubusercontent.com/c34a91e575c0b34425bcaeb39f8bb94e7ee4af4f/687474703a2f2f692e696d6775722e636f6d2f41334e4b3477432e706e67" width="400"/>
+
+---
+
+**Text-Length-Bar**: https://github.com/minube/Text-Length-Bar
+
+统计 TextView 输入字数
+
+<img src="https://raw.githubusercontent.com/minube/Text-Length-Bar/master/art/text_length_bar.gif" width="320"/>
+
+---
+
+**SimpleNumberPicker**: https://github.com/StephaneBg/SimpleNumberPicker
+
+A customisable decimal and hexadecimal material picker view for Android
+
+<img src="https://raw.githubusercontent.com/StephaneBg/SimpleNumberPicker/master/artwork/decimal_picker.png" width="225"/> <img src="https://raw.githubusercontent.com/StephaneBg/SimpleNumberPicker/master/artwork/hexa_picker.png" width="225"/>
+
+---
+
+**TextCounter**: https://github.com/BullyBoo/TextCounter
+
+TextCounter 动画
+
+---
+
+**HtmlCompat**: https://github.com/Pixplicity/HtmlCompat
+
+让 Android HTML 类支持显示更多 Tag，极大的丰富了 TextView 可以展示的 Tag 类型
+
+---
+
+**QueryHighlighter**: https://github.com/cyrilmottier/QueryHighlighter
+
+Android 查询高亮辅助组件
+
+<img src="https://raw.githubusercontent.com/cyrilmottier/QueryHighlighter/master/art/query-highlighter.png" width="320"/>
+
+---
+
+**HorizontalPicker**: https://github.com/GoodieBag/HorizontalPicker
+
+A HorizontalPicker view for android, which supports both text and icon
+
+<img src="https://raw.githubusercontent.com/GoodieBag/HorizontalPicker/master/gif/HPtap.gif" width="270"/>
+
+---
+
+**tailor**: https://github.com/lovoo/tailor
+
+EditText 一键清空
+
+<img src="https://raw.githubusercontent.com/lovoo/tailor/master/tailor-demo.gif" width="320"/>
+
+---
+
+**MRichEditor**: https://github.com/Even201314/MRichEditor
+
+Android 富文本（HTML）解析库，渲染的非常漂亮
+
+<img src="https://github.com/Even201314/MRichEditor/raw/master/gif/Screenshot_2.gif" width="320"/> <img src="https://github.com/Even201314/MRichEditor/raw/master/gif/Screenshot_3.png" width="320"/>
+
+---
+
+**dante**: https://github.com/fourlastor/dante
+
+Android 富文本（HTML）解析库，渲染的非常漂亮
+
+<img src="https://raw.githubusercontent.com/fourlastor/dante/master/images/screencast.gif" width="320"/>
+
+---
+
+**stencil**: https://github.com/thoughtbot/stencil
+
+Android library, written exclusively in kotlin, for animating the path created from text
+
+<img src="https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966" width="150"/>
+
+---
+
+**ValidationUtilsLibrary**: https://github.com/sgaikar1/ValidationUtilsLibrary
+
+Android 表单校验功能
+
+<img src="https://raw.githubusercontent.com/sgaikar1/ValidationUtilsLibrary/master/screen/ezgif.com-resize%20(1).gif" width="150"/>
+
+---
+
+**TagViewGroup**: https://github.com/shellljx/TagViewGroup
+
+Android 仿小红书图片标签Group
+
+<img src="https://camo.githubusercontent.com/5c7618004034e41b5eea5cca839d23ba3f11da59/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f657a6769662e636f6d2d646339663232313539302e676966" width="300"/>
+
+---
+
+**FadingTextView**: https://github.com/rosenpin/FadingTextView
+
+Android Textview Fading 动画效果
+
+<img src="https://camo.githubusercontent.com/ce4876c7895bc08b7920d584f7809536b569299c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f56473545594374746d7330357a5246724f78526b38464c7a397433727652305169316458313271365043695f5a736c7258306c6165474145494731754e59466f754b52456e46724a354855534e726f6138474f5f4e354648704c73526c4477306f7444496f555f475250393039664641386c4e586f346d7775615a6b64756f6d654f553754654e49644439564d374332374879745651685a696766477872464939724444512d3266457837417041384c5f62716c496646343934664e66344473362d497148656974616b5a5333754679617a736b6968596d6d4a4a6377746f3270396b75556e706f7533625474454e4d6630345a6556334446743750696b59477542564231337a792d3054504a645f7731526b47783741533261634e69476f347867596b7350385042726d76385478576d3477584839754438324262654467737a6757427a4f4137314c6e54304268344f41576d386c6e3775515448475839634f686d317135375f4b526e52704c46694f525f614b566f614a624441796c7a6f667341584c51655369394a4d6568366971485741554a6357454a7351346a527335722d49447a59575a787a4e324e384f41686f4363564a615852315935486b705a467070736f3853384f4264574a7253394a3944463466694d4e774568692d71512d4c4269746a3876564e334776387855413565396352773444756632626f7154756d6850386a49356e39382d7270446d587632556f5a47424571536e394778785f6d30623846446d7043426a6c30346c4576636a32304b4d38544c52696a4c78656552664e66436f6374704b424f474c4a52516a386c4d71537a5651566b5031706779776552417248632d5f3272737567526954423552597631474e3958684e4d3075704c7352487648766271465a31714a4f523071414b6a6b747966766342637646754e397a6a59673d773830302d683233312d6e6f" width="400"/>
+
+---
+
+**text-decorator**: https://github.com/nntuyen/text-decorator
+
+简单易用的TextView装饰库
+
+<img src="https://raw.githubusercontent.com/nntuyen/text-decorator/master/screenshot/screenshot2.gif" width="320"/>
+
+---
+
+**LyricViewDemo**: https://github.com/zhengken/LyricViewDemo
+
+歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码 
+
+<img src="https://raw.githubusercontent.com/zhengken/LyricViewDemo/master/screenshot/lyricview.png" width="640"/>
+
+---
+
+**html-builder**: https://github.com/jrummyapps/html-builder
+
+Android HTML to TextView Builder 辅助工具库
+
+<img src="https://raw.githubusercontent.com/jrummyapps/html-builder/master/art/screenshot.png" width="320"/>
+
+---
+
+**TextLayoutBuilder**: https://github.com/facebookincubator/TextLayoutBuilder
+
+Facebook 开源文本布局库
+
+---
+
+**autofittextview**: https://github.com/mniami/autofittextview
+
+Android Autofiting view content into the boundaries
+
+---
+
+**BufferTextInputLayout**: https://github.com/bufferapp/BufferTextInputLayout
+
+MD 风格的 EditText，精致
+
+<img src="https://raw.githubusercontent.com/bufferapp/BufferTextInputLayout/master/art/standard.gif" width="270"/> <img src="https://raw.githubusercontent.com/bufferapp/BufferTextInputLayout/master/art/descending.gif" width="270"/>
+
+---
+
+**AndroidDigitClassifier**: https://github.com/harjot-oberai/AndroidDigitClassifier
+
+Android 手写体数字识别
+
+<img src="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_2.jpg" width="320"/> <img src="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_3.jpg" width="320"/>
+
+---
+
+**Zaman**: https://github.com/Morxander/Zaman
+
+The library provides a custom TextView and Helper for Android to convert timestamp to time String
+
+<img src="https://raw.githubusercontent.com/Morxander/Zaman/master/screenshot.png" width="300"/>
+
+---
+
+**TagEditText**: https://github.com/limedroid/TagEditText
+
+类似微博标签的文本控件
+
+<img src="https://raw.githubusercontent.com/limedroid/TagEditText/master/art/tagedittext.png" width="320"/>
+
+---
+
+**NumberAnimTextView**: https://github.com/Bakumon/NumberAnimTextView
+
+数字增加动画的 TextView
+
+<img src="https://raw.githubusercontent.com/Bakumon/NumberAnimTextView/master/gif/GIF.gif" width="300"/>
+
+---
+
+**PinchZoomTextView**: https://github.com/androidessence/PinchZoomTextView
+
+支持放大缩小的 TextView
+
+<img src="https://raw.githubusercontent.com/androidessence/PinchZoomTextView/master/sample.gif" width="320"/>
+
+---
+
+**ExpandableTextView**: https://github.com/Chen-Sir/ExpandableTextView
+
+支持展开的 TextView
+
+<img src="https://raw.githubusercontent.com/Chen-Sir/ExpandableTextView/master/art/sample.gif" width="320"/>
+
+---
+
+**SRML**: https://github.com/jasonwyatt/SRML
+
+String Resource Markup Language. Style your localized strings for Android
+
+<img src="https://raw.githubusercontent.com/jasonwyatt/SRML/develop/docs/srml.gif" width="320"/>
+
+---
+
+**SimpleText**: https://github.com/jaychang0917/SimpleText
+
+A simple spannable string helper
+
+<img src="https://raw.githubusercontent.com/jaychang0917/SimpleText/master/SimpleText_v1_2_0.gif" width="320"/>
+
+---
+
+**GetWordTextView**: https://github.com/burgessjp/GetWordTextView
+
+一个支持选词的 TextView，类似与单词 app 中点击单词翻译的效果
+
+<img src="https://raw.githubusercontent.com/burgessjp/GetWordTextView/master/capture/capture.gif" width="320"/>
+
+---
+
+**TyperEditText**: https://github.com/andyxialm/TyperEditText
+
+Android 仿业问 打字机效果
+
+<img src="https://raw.githubusercontent.com/andyxialm/TyperEditText/master/art/screenshot.gif" width="265"/>
+
+---
+
+**TextHighlighter**: https://github.com/akshay-naik/TextHighlighter
+
+TextHighlighter is a simple android API for developers to show highlighted and styled text in android apps
+
+<img src="https://raw.githubusercontent.com/akshay-naik/TextHighlighter/master/screenshot.png" width="270"/>
+
+---
+
+**SuperTextView**: https://github.com/lygttpod/SuperTextView
+
+一个功能强大的TextView，可以满足日常大部分布局方式
+
+<img src="https://raw.githubusercontent.com/lygttpod/SuperTextView/master/screenshot.png" width="320"/>
 
 ---
 
@@ -10,7 +376,7 @@
 
 模仿 Smartisan OS 的 BigBang 功能
 
-<img ="https://raw.githubusercontent.com/baoyongzhang/BigBang/master/design/bigbang_demo.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/baoyongzhang/BigBang/master/design/bigbang_demo.gif" width="320"/>
 
 ---
 
@@ -18,7 +384,7 @@
 
 自定义 自动补充 email 的 EditText
 
-<img ="https://raw.githubusercontent.com/wangshaolei/AutoFillEmailEditText/master/img/1.png" width="320"/>
+<img src="https://raw.githubusercontent.com/wangshaolei/AutoFillEmailEditText/master/img/1.png" width="320"/>
 
 ---
 
@@ -26,7 +392,13 @@
 
 自定义EditText实现右下角计数控件
 
-<img ="https://camo.githubusercontent.com/07d924eb9645dc9a7485992707b08bf4e5f27fe5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323037313736342d376265333762653437323531623764342e676966" width="320"/>
+<img src="https://camo.githubusercontent.com/07d924eb9645dc9a7485992707b08bf4e5f27fe5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323037313736342d376265333762653437323531623764342e676966" width="320"/>
+
+---
+
+**linkable-text-android**: https://github.com/fobid/linkable-text-android
+
+Clickable @mentions, #hashtags and links
 
 ---
 
@@ -34,7 +406,7 @@
 
 TextViews 中处理超链接
 
-<img ="https://raw.githubusercontent.com/Saketme/Better-Link-Movement-Method/master/EXAMPLE.gif" width="640"/>
+<img src="https://raw.githubusercontent.com/Saketme/Better-Link-Movement-Method/master/EXAMPLE.gif" width="640"/>
 
 ---
 
@@ -42,7 +414,7 @@ TextViews 中处理超链接
 
 支持 at 别人效果的 EditText
 
-<img ="https://raw.githubusercontent.com/luckyandyzhang/MentionEditText/master/art/demo.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/luckyandyzhang/MentionEditText/master/art/demo.gif" width="320"/>
 
 ---
 
@@ -50,7 +422,7 @@ TextViews 中处理超链接
 
 百分比显示
 
-<img ="https://cloud.githubusercontent.com/assets/3179872/18619207/44e432da-7dff-11e6-8988-91d1faf4eed0.gif" width="320"/>
+<img src="https://cloud.githubusercontent.com/assets/3179872/18619207/44e432da-7dff-11e6-8988-91d1faf4eed0.gif" width="320"/>
 
 ---
 
@@ -58,7 +430,7 @@ TextViews 中处理超链接
 
 Material Design 风格的投票效果
 
-<img ="https://raw.githubusercontent.com/hiteshsahu/Material-UpVote/master/Art/demo_upvote.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/hiteshsahu/Material-UpVote/master/Art/demo_upvote.gif" width="320"/>
 
 ---
 
@@ -66,7 +438,7 @@ Material Design 风格的投票效果
 
 Colors for TextViews
 
-<img ="https://raw.githubusercontent.com/apocalx/colortextview/master/screenshot.png" width="320"/>
+<img src="https://raw.githubusercontent.com/apocalx/colortextview/master/screenshot.png" width="320"/>
 
 ---
 
@@ -74,7 +446,7 @@ Colors for TextViews
 
 数字自动添加分割 EditText
 
-<img ="https://camo.githubusercontent.com/df9757767f491bed46b18bb6f2575ccf4f09f950/687474703a2f2f696d672e796f75747562652e636f6d2f76692f384566373955717748666b2f302e6a7067" width="480"/>
+<img src="https://camo.githubusercontent.com/df9757767f491bed46b18bb6f2575ccf4f09f950/687474703a2f2f696d672e796f75747562652e636f6d2f76692f384566373955717748666b2f302e6a7067" width="480"/>
 
 ---
 
@@ -82,7 +454,7 @@ Colors for TextViews
 
 带动画、加密、解密 EditText
 
-<img ="https://camo.githubusercontent.com/e075cf282998a371e6c988adc055b3b2a06a6a9a/687474703a2f2f7777772e64726167616e6b72737469632e636f6d2f6175746f7479706574657874766965772f616c6c616e696d6174696f6e2e676966" width="320"/>
+<img src="https://camo.githubusercontent.com/e075cf282998a371e6c988adc055b3b2a06a6a9a/687474703a2f2f7777772e64726167616e6b72737469632e636f6d2f6175746f7479706574657874766965772f616c6c616e696d6174696f6e2e676966" width="320"/>
 
 ---
 
@@ -90,7 +462,7 @@ Colors for TextViews
 
 可显示省略号的 EditText
 
-<img ="https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300" width="320"/>
+<img src="https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300" width="320"/>
 
 ---
 
@@ -98,7 +470,15 @@ Colors for TextViews
 
 提示可变化的 EditText
 
-<img ="https://raw.githubusercontent.com/cctanfujun/HintAnim-EditText/master/img/Hint-Anim.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/cctanfujun/HintAnim-EditText/master/img/Hint-Anim.gif" width="320"/>
+
+---
+
+**SmsVerifyCatcher**: https://github.com/stfalcon-studio/SmsVerifyCatcher
+
+获取短信验证码
+
+<img src="https://camo.githubusercontent.com/64fdbaf413bcb5dc688e6112fee2353535008870/687474703a2f2f692e696d6775722e636f6d2f374b7a7a6b357a2e676966" width="320"/>
 
 ---
 
@@ -106,7 +486,15 @@ Colors for TextViews
 
 识别短信中的验证码并复制
 
-<img ="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+<img src="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+
+---
+
+**XRichText**: https://github.com/limedroid/XRichText
+
+显示富文本的TextView
+
+<img src="https://github.com/limedroid/XRichText/raw/master/art/xrichtext.gif" width="320"/>
 
 ---
 
@@ -114,7 +502,7 @@ Colors for TextViews
 
 目前来看 Android 上最棒的一款富文本编辑器
 
-<img ="https://raw.githubusercontent.com/wasabeef/richeditor-android/master/art/demo2.gif" width="270"/>
+<img src="https://raw.githubusercontent.com/wasabeef/richeditor-android/master/art/demo2.gif" width="270"/>
 
 ---
 
@@ -122,7 +510,7 @@ Colors for TextViews
 
 仿 medium 富文本展示
 
-<img ="https://raw.githubusercontent.com/angebagui/medium-textview/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="200"/>
+<img src="https://raw.githubusercontent.com/angebagui/medium-textview/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="200"/>
 
 ---
 
@@ -141,6 +529,14 @@ represent any prices in Russian rouble currency
 **FormattEditText**: https://github.com/PaXLiCh/FormattEditText
 
 支持自动格式化的 EditText，比如货币、电话号码等等
+
+---
+
+**android-EmojiCompat**: https://github.com/googlesamples/android-EmojiCompat
+
+Android Emoji 兼容包，彻底解决 Android Emoji 不一致问题
+
+<img src="https://github.com/googlesamples/android-EmojiCompat/raw/master/screenshots/1-main.png" width="270" />
 
 ---
 
@@ -184,12 +580,6 @@ Implementation of LineBackgroundSpan that adds rounded rectangle backgrounds to 
 
 ---
 
-**FontZip**: https://github.com/forJrking/FontZip
-
-字体资源文件压缩神器
-
----
-
 **LongTextView**: https://github.com/metalurgus/LongTextView
 
 Very long text support for Android
@@ -204,11 +594,27 @@ Very long text support for Android
 
 ---
 
-**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
+**Stepper-Touch**: https://github.com/DanielMartinus/Stepper-Touch
 
-Brought to you by cepheuen http://www.cepheuen.com
+一款萌萌的计数器组件
 
-<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
+<img src="https://raw.githubusercontent.com/DanielMartinus/Stepper-Touch/master/media/demo.gif" width="320" />
+
+---
+
+**BadgeHolderView**: https://github.com/steelkiwi/BadgeHolderView
+
+购物车
+
+<img src="https://github.com/steelkiwi/BadgeHolderView/raw/master/assets/animation.gif" width="320" />
+
+---
+
+**AnimShopButton**: https://github.com/mcxtzhang/AnimShopButton
+
+一个带伸缩位移旋转动画的购物车按钮
+
+<img src="https://raw.githubusercontent.com/mcxtzhang/AnimShopButton/master/gif/new.gif" width="320" /> <img src="https://raw.githubusercontent.com/mcxtzhang/AnimShopButton/master/gif/testAttr.gif" width="320" />
 
 ---
 
@@ -217,6 +623,22 @@ Brought to you by cepheuen http://www.cepheuen.com
 仿饿了么点击购物效果
 
 <img src="https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966" width="300" />
+
+---
+
+**IncrementProductView**: https://github.com/steelkiwi/IncrementProductView
+
+有趣的购物车按钮
+
+<img src="https://github.com/steelkiwi/IncrementProductView/raw/master/assets/animation.gif" width="320" />
+
+---
+
+**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
+
+Brought to you by cepheuen http://www.cepheuen.com
+
+<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
 
 ---
 
@@ -244,11 +666,59 @@ A simple Android TextView to display amounts of money in different formats
 
 ---
 
+**etiyabadgetab**: https://github.com/egemenmede/etiyabadgetab
+
+Badge 徽章
+
+<img src="https://camo.githubusercontent.com/75d8641010dca7f47d0726a288f5381c57844406/687474703a2f2f7777772e64656c6970656e6775656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30332f62616467655f73616d706c652e706e67" width="480" />
+
+---
+
+**MaterialBadgeTextView**: https://github.com/matrixxun/MaterialBadgeTextView
+
+Badge 风格的 TextView，支持 Shadow 和 Elevation
+
+<img src="https://raw.githubusercontent.com/matrixxun/MaterialBadgeTextView/master/MaterialBadgeTextView/art/device-2016-11-17-171018.png" width="320" />
+
+---
+
+**BadgeView**: https://github.com/qstumn/BadgeView
+
+一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView
+
+<img src="https://raw.githubusercontent.com/qstumn/BadgeView/master/demo_gif.gif" width="320" />
+
+---
+
+**BadgeView**: https://github.com/AlexLiuSheng/BadgeView
+
+a BadeView base on android
+
+<img src="https://raw.githubusercontent.com/AlexLiuSheng/BadgeView/master/library/gif.png" width="320" />
+
+---
+
+**badgebutton**: https://github.com/czy1121/badgebutton
+
+带有徽标(数字，小红点)的按钮
+
+<img src="https://raw.githubusercontent.com/czy1121/badgebutton/master/screenshot.png" width="640" />
+
+---
+
 **ShortcutBadger**: https://github.com/leolin310148/ShortcutBadger
 
 为你的应用程序加上数字角标
 
 <img src="https://camo.githubusercontent.com/8d6b5fc29b1c73689def6598b144a70bf3a0c2eb/68747470733a2f2f7261772e6769746875622e636f6d2f6c656f6c696e3331303134382f53686f72746375744261646765722f6d61737465722f73637265656e73686f74732f73735f617375732e706e67" width="120" />
+
+---
+
+**AvatarLabelView**: https://github.com/yanbober/AvatarLabelView
+
+一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果
+
+<img src="https://raw.githubusercontent.com/yanbober/AvatarLabelView/master/.picture/demo.png" width="320" />
 
 ---
 
@@ -300,6 +770,22 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
+**MarkdownView**: https://github.com/tiagohm/MarkdownView
+
+Makrdown 显示 
+
+<img src="https://raw.githubusercontent.com/tiagohm/MarkdownView/master/3.png" width="270" /> <img src="https://raw.githubusercontent.com/tiagohm/MarkdownView/master/4.png" width="270" /> <img src="https://raw.githubusercontent.com/tiagohm/MarkdownView/master/5.png" width="270" />
+
+---
+
+**MarkdownIME**: https://github.com/laobubu/MarkdownIME
+
+实时预览的线上 Makrdown 编辑器
+
+<img src="https://camo.githubusercontent.com/1b03ccd2c170b030d4b61753203b3df8e9f94989/687474703a2f2f6c616f627562752e6769746875622e696f2f4d61726b646f776e494d452f64656d6f2e6769663f636163686533" width="400" />
+
+---
+
 **MarkdownView**: https://github.com/fiskurgit/MarkdownView
 
 Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
@@ -321,14 +807,6 @@ MarkdownView is an Android webview with the capability of loading Markdown text 
 Android平台下的原生Markdown解析器
 
 <img src="https://raw.githubusercontent.com/zzhoujay/Markdown/master/image/img1.jpg" width="320" />
-
----
-
-**RxMarkdown**: https://github.com/yydcdut/RxMarkdown
-
-Markdown for Android
-
-<img src="https://raw.githubusercontent.com/yydcdut/RxMarkdown/master/art/rxmarkdown.gif" width="320" />
 
 ---
 
@@ -356,6 +834,14 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**KeyboardNumber**: https://github.com/policante/KeyboardNumber
+
+KeyboardNumber
+
+<img src="https://raw.githubusercontent.com/policante/KeyboardNumber/master/resource/dialog1.png" width="320" /> <img src="https://raw.githubusercontent.com/policante/KeyboardNumber/master/resource/dialog4.png" width="320" />
+
+---
+
 **NumberKeyboard**: https://github.com/wangshaolei/NumberKeyboard
 
 仿美团和糯米商家验证版的一个数字校验键盘
@@ -372,11 +858,25 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**MarkupAndroid**: https://github.com/shree-vastava/MarkupAndroid
+
+文本高亮
+
+---
+
 **codeview-android**: https://github.com/Softwee/codeview-android
 
 代码格式高亮 in native way
 
 <img src="https://camo.githubusercontent.com/b4924dc4d61df4ae4716aa65bff1329bd170f4d5/68747470733a2f2f7331302e706f7374696d672e6f72672f636b7a7639786d6d312f436f64655f566965775f416e64726f69645f53637265656e73686f742e706e67" width="320" />
+
+---
+
+**Codeview**: https://github.com/tiagohm/CodeView
+
+代码格式高亮
+
+<img src="https://raw.githubusercontent.com/tiagohm/CodeView/master/1.png" width="320" /> <img src="https://raw.githubusercontent.com/tiagohm/CodeView/master/3.png" width="320" />
 
 ---
 
@@ -495,6 +995,38 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**RotatingText**: https://github.com/sdsmdg/RotatingText
+
+记分牌效果的单词轮换
+
+<img src="https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_example_3.gif" width="400" />
+
+---
+
+**MarqueeViewLibrary**: https://github.com/gongwen/MarqueeViewLibrary
+
+一个帮您快速实现跑马灯效果的library
+
+<img src="https://raw.githubusercontent.com/gongwen/MarqueeViewLibrary/master/screenshot/screen_shot.gif" width="300" />
+
+---
+
+**MarqueeViewDemo**: https://github.com/gongwen/MarqueeViewDemo
+
+为跑马灯效果而写的View
+
+<img src="https://raw.githubusercontent.com/gongwen/MarqueeViewDemo/master/screenshot/screen_shot.gif" width="300" />
+
+---
+
+**noticeview**: https://github.com/czy1121/noticeview
+
+滚动播放的公告控件
+
+<img src="https://raw.githubusercontent.com/czy1121/noticeview/master/screenshot.png" width="320" />
+
+---
+
 **MarqueeView**: https://github.com/sfsheng0322/MarqueeView
 
 垂直跑马灯 —— 垂直翻页公告
@@ -513,6 +1045,22 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**mask-edittext**: https://github.com/santalu/mask-edittext
+
+支持格式自动识别和展示的 EditBox
+
+<img src="https://github.com/santalu/mask-edittext/raw/master/screens/sample.png" width="320" />
+
+---
+
+**input-mask-android**: https://github.com/RedMadRobot/input-mask-android
+
+给用户输入自动加上特定格式
+
+<img src="https://raw.githubusercontent.com/RedMadRobot/input-mask-android/assets/assets/gif-animations/direct-input.gif" width="320" />
+
+---
+
 **MaskedEditText**: https://github.com/VicMikhailau/MaskedEditText
 
 包含隐藏文本的 EditText，可快速输入电话，网址等文本
@@ -526,6 +1074,96 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 密码的显示隐藏
 
 <img src="https://raw.githubusercontent.com/pucamafra/android-edittextpassword/master/screenshots/sample.png" width="320" />
+
+---
+
+**MultiFontView-Android**: https://github.com/shashkiranr/MultiFontView-Android
+
+Multifont library can be used to select custom fonts for the view dynamically in your XML
+
+<img src="https://github.com/shashkiranr/MultiFontView-Android/raw/master/Screenshot.png?raw=true" width="320" />
+
+---
+
+**CustomFontView**: https://github.com/anitaa1990/CustomFontView
+
+CustomFontView
+
+<img src="https://user-images.githubusercontent.com/22608780/29374593-9d9f71d4-82cf-11e7-915d-dcead8093d40.png" width="320" />
+
+---
+
+**fonttools**: https://github.com/fonttools/fonttools
+
+A library to manipulate font files from Python
+
+---
+
+**android-DownloadableFonts**: https://github.com/googlesamples/android-DownloadableFonts
+
+This sample demonstrates how to use the Downloadable Fonts feature introduced in Android O
+
+<img src="https://github.com/googlesamples/android-DownloadableFonts/raw/master/screenshots/screenshot-1.png" width="300" />
+
+---
+
+**Fonty**: https://github.com/MarcinOrlowski/Fonty
+
+Android library allowing you to easily change the typeface of your UI elements
+
+<img src="https://raw.githubusercontent.com/MarcinOrlowski/Fonty/master/img/shot.png" width="360" />
+
+---
+
+**CustomTypeface**: https://github.com/TheBrownArrow/CustomTypeface
+
+Custom-Typeface is a library to add custom fonts in android
+
+<img src="https://raw.githubusercontent.com/thebrownarrow/CustomTypeface/master/screenshot.png" width="320" />
+
+---
+
+**FontZip**: https://github.com/forJrking/FontZip
+
+字体资源文件压缩神器
+
+---
+
+**EasyFont**: https://github.com/natiginfo/EasyFont
+
+Android Library to set font of TextView, Button, EditText, and RadioButton in XML without editing Java code to set Typeface
+
+<img src="https://github.com/natiginfo/EasyFont/blob/master/screenshots/screenshot1.png" width="270" />
+
+---
+
+**EasyFont**: https://github.com/vishal259/EasyFont
+
+Easy Font for Android is a Library which makes it easy to use Custom Fonts in Android Application
+
+---
+
+**AACustomFont**: https://github.com/EngrAhsanAli/AACustomFont
+
+AACustomFont is a lightweight custom font binder in XML directly in TextView, Button, EditText, RadioButton, CheckBox tags
+
+<img src="https://github.com/EngrAhsanAli/AACustomFont/raw/master/Screenshots/demo.png" width="270" />
+
+---
+
+**ontometricsLibrary**: https://github.com/Ishmeetsingh97/FontometricsLibrary
+
+更方便的调整 Android 中的字体，这个库自带了一些第三方英文字体
+
+<img src="https://raw.githubusercontent.com/Ishmeetsingh97/FontometricsLibrary/master/FontometricsArtwork.jpg" width="640" />
+
+---
+
+**SmartFonts**: https://github.com/smart-fun/SmartFonts
+
+Smart Fonts for Android is a Library which makes it easy to use Custom Fonts in Apps
+
+<img src="https://raw.githubusercontent.com/smart-fun/SmartFonts/master/app/extras/editor_screenshot.png" width="320" />
 
 ---
 
@@ -573,11 +1211,11 @@ A library to help with custom fonts and text sizes
 
 ---
 
-**RichEditText**: https://github.com/chen-xiao-dong/RichEditText
+**HRichEditor**: https://github.com/huangdali/HRichEditor
 
-可替换 EditText 的富文本 View
+Android端富文本编辑器HEichEditor
 
-<img src="https://raw.githubusercontent.com/eastearly/RichEditText/master/raw/screen-shot/addlink.png" width="320" />
+<img src="https://github.com/huangdali/HRichEditor/raw/master/images/changitem.gif" width="320" />
 
 ---
 

@@ -6,6 +6,142 @@
 
 ---
 
+**SlidingUpPanelLayout**: https://github.com/woxingxiao/SlidingUpPanelLayout
+
+一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果
+
+<img src="https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo1.gif" width="320" /> <img src="https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo2.gif" width="320" />
+ 
+---
+
+**MaterialShadows**: https://github.com/harjot-oberai/MaterialShadows
+
+MaterialShadows
+
+<img src="https://github.com/harjot-oberai/MaterialShadows/raw/master/screens/example_3.png" width="320" />
+
+---
+
+**trianglify**: https://github.com/sdsmdg/trianglify
+
+自定义三角形特效组件
+
+<img src="https://github.com/sdsmdg/trianglify/raw/develop/resources/gifs/cell_size.gif" width="320" />
+
+---
+
+**android-magic-surface-view**: https://github.com/gplibs/android-magic-surface-view
+
+一个使用openGL渲染的炫丽Android动画库
+
+<img src="https://github.com/gplibs/resources/raw/master/android/magic-surface-view/readme/launch.gif" width="320" /> <img src="https://github.com/gplibs/resources/raw/master/android/magic-surface-view/readme/mac_window_anim.gif" width="320" />
+
+---
+
+**Isometric**: https://github.com/FabianTerhorst/Isometric
+
+Android 透视三维体效果实现
+
+<img src="https://raw.githubusercontent.com/FabianTerhorst/Isometric/master/lib/screenshots/io.fabianterhorst.isometric.screenshot.IsometricViewTest_doScreenshotThree.png" width="400" /> <img src="https://raw.githubusercontent.com/FabianTerhorst/Isometric/master/lib/screenshots/io.fabianterhorst.isometric.screenshot.IsometricViewTest_doScreenshotRotateZ.png" width="400" />
+
+---
+
+**android-pile-layout**: https://github.com/xmuSistone/android-pile-layout
+
+横向堆叠效果的自定义Layout
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-pile-layout/master/capture/capture1.gif" width="320" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-pile-layout/master/capture/capture2.gif" width="320" />
+
+---
+
+**expanding-collection-android**: https://github.com/Ramotion/expanding-collection-android
+
+Ramotion 出品：Android 页面展开效果
+
+<img src="https://github.com/Ramotion/expanding-collection-android/raw/master/preview.gif" width="400" />
+
+---
+
+**DiscrollView2**: https://github.com/egek92/DiscrollView2
+
+Android Library for fancy layouts
+
+<img src="https://camo.githubusercontent.com/56d7806855aa6593a7093b2414e452bdba29a151/68747470733a2f2f6769616e742e6766796361742e636f6d2f46656d696e696e655761726c696b654571756573747269616e2e676966" width="320" />
+
+---
+
+**ShimmerLayout**: https://github.com/team-supercharge/ShimmerLayout
+
+ShimmerLayout
+
+<img src="https://github.com/team-supercharge/ShimmerLayout/raw/master/shimmerlayout.gif" width="320" />
+
+---
+
+**OneDrawable**: https://github.com/maoruibin/OneDrawable
+
+仅使用一张资源图片为 View 设置具有按下效果的背景-OneDrawable
+
+<img src="https://camo.githubusercontent.com/f22ad937bb1b62dd89144538e90c592a4ccbf6c1/687474703a2f2f3778723967782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f73746174656261636b67726f756e6476322e676966" width="320" />
+
+---
+
+**CardView**: https://github.com/vivian8725118/CardView
+
+Android小票效果
+
+<img src="https://raw.githubusercontent.com/vivian8725118/CardView/master/art/S61201-155859.jpg" width="320" /> <img src="https://raw.githubusercontent.com/vivian8725118/CardView/master/art/S61201-163058.jpg" width="320" />
+
+---
+
+**IconSwitch**: https://github.com/polyak01/IconSwitch
+
+Custom Android Switch widget
+
+<img src="https://raw.githubusercontent.com/polyak01/IconSwitch/master/data/3J8gYHy.gif" width="480" />
+
+---
+
+**Vorolay**: https://github.com/Quatja/Vorolay
+
+在 Android 上，实现沃漂亮的罗诺伊图
+
+<img src="https://raw.githubusercontent.com/Quatja/Vorolay/master/Screenshots/screenshot_1.png" width="220" /> <img src="https://raw.githubusercontent.com/Quatja/Vorolay/master/Screenshots/screenshot_2.png" width="220" /> <img src="https://raw.githubusercontent.com/Quatja/Vorolay/master/Screenshots/screenshot_3.png" width="220" /> <img src="https://raw.githubusercontent.com/Quatja/Vorolay/master/Screenshots/screenshot_4.png" width="220" />
+
+---
+
+**Android-DragDismissActivity**: https://github.com/klinker24/Android-DragDismissActivity
+
+Android Activity 下拉上拉滑动消失效果，类似 Chrome 的 Tab 效果
+
+<img src="https://raw.githubusercontent.com/klinker24/Android-DragDismissActivity/master/artwork/animation.gif" width="320" />
+
+---
+
+**EasyFlipView**: https://github.com/wajahatkarim3/EasyFlipView
+
+Android 横向翻转效果，支持双面的 View 场景
+
+<img src="https://raw.githubusercontent.com/wajahatkarim3/EasyFlipView/master/Art/demo.gif" width="252" />
+
+---
+
+**PathAnimView**: https://github.com/mcxtzhang/PathAnimView
+
+用于做Path动画的自定义View
+
+<img src="https://raw.githubusercontent.com/mcxtzhang/PathAnimView/master/gif/tieta.gif" width="320" /> <img src="https://raw.githubusercontent.com/mcxtzhang/PathAnimView/master/gif/qianbihua.gif" width="320" />
+
+---
+
+**SlideUp-Android**: https://github.com/mancj/SlideUp-Android
+
+Android 卡片滑动出现和消失效果
+
+<img src="https://github.com/mancj/SlideUp-Android/raw/master/art/art1.gif" width="320" /> <img src="https://github.com/mancj/SlideUp-Android/raw/master/art/art2.gif" width="320" />
+
+---
+
 **FanLayoutManager**: https://github.com/Cleveroad/FanLayoutManager
 
 风车效果的 LayoutManager
@@ -46,11 +182,27 @@ Android 搜索 过度效果
 
 ---
 
+**FallingView**: https://github.com/DingMouRen/FallingView
+
+FallingView可以实现碎片飘落效果的控件
+
+<img src="https://github.com/DingMouRen/FallingView/raw/master/imgs/img.gif" width="320" /> <img src="https://github.com/DingMouRen/FallingView/raw/master/imgs/img2.gif" width="320" />
+
+---
+
 **SnowingView**: https://github.com/HelloVass/SnowingView
 
 一个看起来还不错的下雪动画
 
 <img src="https://raw.githubusercontent.com/HelloVass/SnowingView/master/design/SnowingView.gif" width="320" />
+
+---
+
+**android-snowfall**: https://github.com/JetradarMobile/android-snowfall
+
+Android 实现的漂亮的下雪效果
+
+<img src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/snowfall-demo.gif" width="270" />
 
 ---
 
@@ -81,14 +233,6 @@ Android 搜索 过度效果
 example of carousel browsing
 
 <img src="https://github.com/Jaouan/Carousel-Browsing-Example/raw/master/art/demo.gif" width="320" />
-
----
-
-**ShapeRipple**: https://github.com/poldz123/ShapeRipple
-
-多种形状波纹特效
-
-<img src="https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966" width="270" />
 
 ---
 
@@ -148,6 +292,22 @@ Android水波动画帮助类，一行代码实现View显示/隐藏/startActivity
 
 ---
 
+**Roll3DImageView**: https://github.com/zhangyuChen1991/Roll3DImageView
+
+一个实现图片花式3D翻转效果的自定义View
+
+<img src="https://raw.githubusercontent.com/zhangyuChen1991/some_sources/master/3DView/2d.gif" width="200" /> <img src="https://raw.githubusercontent.com/zhangyuChen1991/some_sources/master/3DView/whole3D.gif" width="200" /> <img src="https://raw.githubusercontent.com/zhangyuChen1991/some_sources/master/3DView/inturn.gif" width="200" />
+
+---
+
+**android-PageFlip**: https://github.com/eschao/android-PageFlip
+
+3D Style Page Flip on Android
+
+<img src="https://cloud.githubusercontent.com/assets/20178358/20646731/20f6ebc6-b4bc-11e6-9857-efd8367db80c.png" width="500" />
+
+---
+
 **Android-3DTouch-PeekView**: https://github.com/klinker24/Android-3DTouch-PeekView
 
 Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android
@@ -180,11 +340,52 @@ MD 风格飞出效果菜单选择
 
 ---
 
-**Pulsator4Droid**: https://github.com/booncol/Pulsator4Droid
+**WaveView**: https://github.com/1139618418/WaveView
 
-脉动效果，可用于设备查找之类的特效
+仿百度外卖的酷炫水波纹效果
 
-<img src="https://raw.githubusercontent.com/booncol/Pulsator4Droid/master/demo.gif" width="220" />
+<img src="https://raw.githubusercontent.com/booncol/Pulsator4Droid/master/demo.gif" width="320" />
+
+---
+
+**android-ripple-background**: https://github.com/skyfishjy/android-ripple-background
+
+A beautiful ripple animation for your app
+
+<img src="https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleSimple.gif" width="320" />
+<img src="https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleFoundDevice.gif" width="320" />
+
+---
+
+**GLRippleView**: https://github.com/r21nomi/GLRippleView
+
+Custom GLSurfaceView for Android to show image with ripple effect using OpenGL
+
+<img src="https://github.com/1139618418/WaveView/raw/master/art/wave_view.gif" width="320" />
+
+---
+
+**GLRippleView**: https://github.com/r21nomi/GLRippleView
+
+Custom GLSurfaceView for Android to show image with ripple effect using OpenGL
+
+<img src="https://github.com/r21nomi/GLRippleView/raw/master/art/fade.gif" width="270" />
+
+---
+
+**ShapeRipple**: https://github.com/poldz123/ShapeRipple
+
+多种形状波纹特效
+
+<img src="https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966" width="270" />
+
+---
+
+**RippleLayout**: https://github.com/liuguangqiang/RippleLayout
+
+一个真正的Ripple效果，需要考虑Ripple的圆心变化
+
+<img src="https://raw.githubusercontent.com/liuguangqiang/RippleLayout/master/arts/ripple2.gif" width="320" />
 
 ---
 
@@ -233,6 +434,14 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 各种密码输入动画特效
 
 <img src="https://raw.githubusercontent.com/ldoublem/PassWordInput/master/screen/signup.gif" width="320" /> <img src="https://github.com/ldoublem/PassWordInput/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="320" />
+
+---
+
+**smart-app-rate**: https://github.com/codemybrainsout/smart-app-rate
+
+An Android library to encourage users to rate the app on the Google PlayStore
+
+<img src="https://raw.githubusercontent.com/codemybrainsout/smart-app-rate/master/preview/preview.png" width="640" />
 
 ---
 
@@ -316,6 +525,14 @@ A slider that allows a user to select a value at one of the specified tickmarks
 
 ---
 
+**Konfetti**: https://github.com/DanielMartinus/Konfetti
+
+粒子爆炸节日祝贺效果
+
+<img src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="270" />
+
+---
+
 **Popview-Android**: https://github.com/krishnarb3/Popview-Android
 
 粒子爆炸效果
@@ -365,11 +582,36 @@ Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
 
 ---
 
+**blurkit-android**: https://github.com/wonderkiln/blurkit-android
+
+目测是目前来看做 Blur 效果速度最快的库
+
+<img src="https://github.com/wonderkiln/blurkit-android/raw/master/.repo/demo.gif" width="320" />
+
+---
+
+**GaussianBlur**: https://github.com/jrvansuita/GaussianBlur
+
+A easy and simple library to apply Gaussian blur on images
+
+<img src="https://raw.githubusercontent.com/jrvansuita/GaussianBlur/master/screenshot/screenshot.jpg" width="320" />
+
+---
+
 **RealtimeBlurView**: https://github.com/mmin18/RealtimeBlurView
 
 Android 高性能实时模糊（Blur） View 效果Android 高性能实时模糊（Blur） View 效果
 
 <img src="https://raw.githubusercontent.com/mmin18/RealtimeBlurView/master/imgs/1.gif" width="320" />
+
+---
+
+**android-stackblur**: [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
+
+Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
+
+<img src="https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/821ae0abdf62af50624fc429f79b2d47f4f22d53/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74322e706e67" width="320" />
 
 ---
 
@@ -399,15 +641,6 @@ A velocimeter View for Android
 
 ---
 
-**android-stackblur**: [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
-
-Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
-
-<img src="https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/821ae0abdf62af50624fc429f79b2d47f4f22d53/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74322e706e67" width="320" />
-
----
-
 **EdgeEffectOverride**: [https://github.com/AndroidAlliance/EdgeEffectOverride](https://github.com/AndroidAlliance/EdgeEffectOverride)
 
 Override the Holo EdgeEffect colors.
@@ -424,6 +657,30 @@ An Android library allowing images to exhibit a parallax effect that reacts to t
 
 ---
 
+**Luhn**: https://github.com/KingsMentor/Luhn
+
+Android 信用卡交易效果 UI 
+
+<img src="https://raw.githubusercontent.com/KingsMentor/Luhn/master/screenshots/add_card_collage.jpg" width="320" />
+
+---
+
+**android-sumbit-credit-card-flow**: https://github.com/adonixis/android-sumbit-credit-card-flow
+
+Android 信用卡提交效果
+
+<img src="https://cloud.githubusercontent.com/assets/1766863/22521376/afb55130-e8d9-11e6-92e2-e6bcbf2ba6aa.gif" width="320" />
+
+---
+
+**CreditCardEntry**: https://github.com/dbachelder/CreditCardEntry
+
+Smooth UI for Credit Card Entry on Android device, regex check for supported credit card types and luhn check. Inspired by Square credit card entry interface
+
+<img src="https://camo.githubusercontent.com/6d7229538227b001c51bf534e0ec05f598d2fa5d/68747470733a2f2f7261772e6769746875622e636f6d2f6462616368656c6465722f43726564697443617264456e7472792f6d61737465722f64656d6f2e676966" width="320" />
+
+---
+
 **MaterialColdStart**: https://github.com/DreaminginCodeZH/MaterialColdStart
 
 Utilize the window background during cold start time to make your app look faster.
@@ -431,6 +688,38 @@ Utilize the window background during cold start time to make your app look faste
 Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Preserves visual consistency):
 
 ![Blank cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/blank_cold_start.gif)![Material cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/material_cold_start.gif)
+
+---
+
+**ChromeLikeTabSwitcher**: https://github.com/michael-rapp/ChromeLikeTabSwitcher
+
+ChromeLikeTabSwitcher
+
+<img src="https://github.com/michael-rapp/ChromeLikeTabSwitcher/raw/master/doc/images/reveal_animation.gif" width="320" />
+
+---
+
+**RossDeckView**: https://github.com/diogobernardino/RossDeckView
+
+Lite Android swipeable deck view
+
+<img src="https://github.com/diogobernardino/RossDeckView/raw/master/art/derdiedas.gif" width="270" />
+
+---
+
+**Android-InfiniteCards**: https://github.com/BakerJQ/Android-InfiniteCards
+
+可自定义动画的卡片切换视图
+
+<img src="https://raw.githubusercontent.com/BakerJQ/Android-InfiniteCards/master/screenshot/sample.gif" width="144" />
+
+---
+
+**StackLayout**: https://github.com/fashare2015/StackLayout
+
+Android 层叠卡片控件，仿"探探app"
+
+<img src="https://github.com/fashare2015/StackLayout/raw/master/screen-record/stack_layout.gif" width="320" />
 
 ---
 
@@ -479,14 +768,6 @@ A Tinder-like Android library to create the swipe cards effect. You can swipe le
 A view that allows to paint and saves the result as a bitmap.[http://panavtec.me](http://panavtec.me)
 
 <img src="https://github.com/PaNaVTEC/DrawableView/blob/master/art/DrawableView.gif" width="320" />
-
----
-
-**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
-
-A custom view with keyboard and character display to be used for authentication
-
-<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
 
 ---
 

@@ -6,11 +6,433 @@
 
 ---
 
+**CBRatingBar**: https://github.com/CB-ysx/CBRatingBar
+
+等级评分控件，支持填充渐变，支持设置颜色、调整大小等，支持监听点击事件
+ 
+<img src = "https://github.com/CB-ysx/CBRatingBar/raw/master/raw/ratingbar.gif" width = "320"/>
+
+---
+
+**CBEmotionsKeyBoard**: https://github.com/CB-ysx/CBEmotionsKeyBoard
+
+表情键盘
+ 
+<img src = "https://github.com/CB-ysx/CBEmotionsKeyBoard/raw/master/screenshot/showGif.gif" width = "320"/>
+
+---
+
+**ChatBar**: https://github.com/CenkGun/ChatBar
+
+自定义聊天 ChatBar
+
+<img src="https://camo.githubusercontent.com/2f2a141b062c8a1b1670fc792ca5d4a5b02099ed/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f31674764476a2e706e67" width="320" />
+
+---
+
+**chameleon**: https://github.com/KNOLSKAPE/chameleon
+
+CSS like framework for Android
+
+<img src="https://raw.githubusercontent.com/KNOLSKAPE/chameleon/master/app/src/main/assets/chameleon.jpg" width="640" />
+
+---
+
+**SelectorInjection**: https://github.com/tianzhijiexian/SelectorInjection
+
+一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
+
+<img src="https://github.com/tianzhijiexian/SelectorInjection/raw/master/demoPic/demo.gif" width="320" />
+
+---
+
+**Sequent**: https://github.com/fujiyuu75/Sequent
+
+A simple continuous animation library for Android UI
+
+<img src="https://github.com/fujiyuu75/sequent/raw/res/demo.gif" width="320" />
+
+---
+
+**DividerDrawable**: https://github.com/nekocode/DividerDrawable
+
+不要再新建 View 来画分隔符了，用 Drawable 吧
+
+<img src="https://github.com/nekocode/DividerDrawable/raw/master/art/screenshot.png" width="320" />
+
+---
+
+**InDoorSurfaceView**: https://github.com/karonl/InDoorSurfaceView
+
+Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示
+
+<img src="https://camo.githubusercontent.com/3b1efaac234a75ca6c833ea05384cc7b2570e5d9/68747470733a2f2f6c65616e636c75622e636e2f3734313639302d303163363131613236623235313636312e706e67" width="320" />
+
+---
+
+**QuestionnaireView**: https://github.com/alfredayibonte/QuestionnaireView
+
+答题布局
+
+<img src="https://github.com/alfredayibonte/QuestionnaireView/blob/master/device-2017-05-08-072515.png" width="320" />
+
+---
+
+**Katex**: https://github.com/lingarajsankaravelu/Katex
+
+常用数学公式布局
+
+<img src="https://cloud.githubusercontent.com/assets/8025146/24969740/628856d2-1fcf-11e7-9daf-01e7fd5452db.gif" width="200" />
+
+---
+
+**WaveView**: https://github.com/developer-shivam/WaveView
+
+正弦曲线绘制动画
+
+<img src="https://raw.githubusercontent.com/developer-shivam/WaveView/master/screenshots/wave_gif.gif" width="320" />
+
+---
+
+**SineView**: https://github.com/guiguegon/SineView
+
+正弦曲线绘制动画
+
+<img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/animating.gif" width="320" />
+
+---
+
+**AttributionPresenter**: https://github.com/franmontiel/AttributionPresenter
+
+开源库属性展示
+
+<img src = "https://github.com/franmontiel/AttributionPresenter/raw/master/screenshot-dialog.png" width = "320"/> <img src = "https://github.com/franmontiel/AttributionPresenter/raw/master/screenshot-dark-theme.png" width = "320"/>
+
+---
+
+**material-about-library**: https://github.com/daniel-stoneuk/material-about-library
+
+Material Design 风格的 About 页面设计
+
+<img src = "https://camo.githubusercontent.com/b55c8897390fa16e51750958d88cd0304d146a51/687474703a2f2f692e696d6775722e636f6d2f326436334e46532e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/899450b935187b66a26cbef93e31b73b39ab2131/687474703a2f2f692e696d6775722e636f6d2f316b3472634e372e706e67" width = "320"/>
+
+---
+
+**AboutLibraries**: https://github.com/mikepenz/AboutLibraries
+
+AboutLibraries is a library to offer some information of libraries
+
+<img src = "https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot1_small.png" width = "320"/> <img src = "https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot2_small.png" width = "320"/>
+
+---
+
+**calibrator-sensor**: https://github.com/xenione/calibrator-sensor
+
+方向传感器矫正
+
+<img src="https://cloud.githubusercontent.com/assets/4138527/25778832/1844ba4a-330a-11e7-9d0e-63f85ca63cdf.gif" width="240"/>
+
+---
+
+**AndroidGpsStatus**: https://github.com/hzw1199/AndroidGpsStatus
+
+显示GPS定位状态和信号强度的控件，实时刷新，使用方便，可定制，适合运动类及出行类APP
+
+<img src="https://raw.githubusercontent.com/hzw1199/AndroidGpsStatus/master/media/anglerM4B30Xwuzongheng04042017015425.gif" width="320"/>
+
+---
+
+**UCMainViewForBehavior**: https://github.com/huyongli/UCMainViewForBehavior
+
+使用Behavior高仿实现UC浏览器首页上下滑动效果
+
+<img src="https://raw.githubusercontent.com/huyongli/UCMainViewForBehavior/master/gif/uc-main-view-behavior.gif" width="320"/>
+
+---
+
+**UCIndexAnimation**: https://github.com/huyongli/UCIndexAnimation
+
+自定义View高仿实现UC浏览器首页上下滑动效果
+
+<img src="https://camo.githubusercontent.com/7ef3b032eebe518306c652b3b2c39fd81f6deabc/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630353236323332323233323337" width="320"/>
+
+---
+
+**FooterNavigationView**: https://github.com/borjabravo10/FooterNavigationView
+
+FooterNavigationView helps to show a footer inside the NavigationView
+
+<img src="https://raw.githubusercontent.com/borjabravo10/FooterNavigationView/master/FooterNavigationView.png" width="320"/>
+
+---
+
+**LazyLoadingViews**: https://github.com/jineshfrancs/LazyLoadingViews
+
+Loading effect for the child views in Adapter View before binding data from service
+
+<img src="https://raw.githubusercontent.com/jineshfrancs/LazyLoadingViews/master/screens/loading.gif" width="270"/>
+
+---
+
+**TimerView**: https://github.com/fashare2015/TimerView
+
+一个解耦良好的计时控件，可自由扩展
+
+<img src="https://raw.githubusercontent.com/fashare2015/TimerView/master/screen-record/dtv_fire.gif" width="240"/> <img src="https://raw.githubusercontent.com/fashare2015/TimerView/master/screen-record/mtv.gif" width="240"/>
+
+---
+
+**SharePanel**: https://github.com/architjn/SharePanel
+
+A small Behavior Example
+
+<img src="https://github.com/architjn/SharePanel/raw/master/demo.gif" width="260"/>
+
+---
+
+**EdgeTranslucent**: https://github.com/qinci/EdgeTranslucent
+
+Android 任意View边沿渐变透明
+
+<img src="https://raw.githubusercontent.com/qinci/EdgeTranslucent/master/image/image.gif" width="260"/>
+
+---
+
+**proteus**: https://github.com/flipkart-incubator/proteus
+
+Android 通过 JSON 实现原生 UI 布局，太棒了这个
+
+<img src = "https://raw.githubusercontent.com/flipkart-incubator/proteus/master/assets/example-full.png" width = "320"/>
+
+---
+
+**Swipper**: https://github.com/pkarira/Swipper
+
+手势控制库
+
+<img src = "https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal2.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal1.gif" width = "320"/>
+
+---
+
+**AndroidAppShortcuts**: https://github.com/michelelacorte/AndroidAppShortcuts
+
+支持7.0的快捷方式
+
+<img src = "https://camo.githubusercontent.com/0dcaa4bf8273844bc99207a8b9f9c159b509a078/687474703a2f2f692e67697068792e636f6d2f32366759426b38705178756477775751772e676966" width = "320"/>
+
+---
+
+**Carousel-Notification**: https://github.com/shaileshmamgain5/Carousel-Notification
+
+Carousel-Notification lets you make carousel type notification where user can navigate within the notification. Selected item can be obtained using a broadcast receiver
+
+<img src = "https://raw.githubusercontent.com/shaileshmamgain5/Carousal-Notification/master/app/screenshots/carousal.png" width = "300"/> <img src = "https://raw.githubusercontent.com/shaileshmamgain5/Carousal-Notification/master/app/screenshots/carousal-notification.gif" width = "300"/>
+
+---
+
+**ViewSpreadTranslationController**: https://github.com/zhangke3016/ViewSpreadTranslationController
+
+两行代码搞定Android视图扩散切换效果
+
+<img src = "https://raw.githubusercontent.com/zhangke3016/ViewSpreadTranslationController/master/gif/screen1.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/zhangke3016/ViewSpreadTranslationController/master/gif/screen2.gif" width = "320"/>
+
+---
+
+**Android-SwitchIcon**: https://github.com/zagum/Android-SwitchIcon
+
+Android 状态切换按钮效果
+
+<img src = "https://raw.githubusercontent.com/zagum/Android-SwitchIcon/master/art/sample.gif" width = "300"/>
+
+---
+
+**ChatMessageView**: https://github.com/bassaer/ChatMessageView
+
+聊天布局
+
+<img src = "https://raw.githubusercontent.com/bassaer/ChatMessageView/master/screens.png" width = "640"/>
+
+---
+
+**InstagramLikeColorTransitionAndroid**: https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid
+
+Instagram风格颜色过渡
+
+<img src = "https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid/raw/master/images/screenshot.gif?raw=true" width = "270"/>
+
+---
+
+**PlayWidget**: https://github.com/Cleveroad/PlayWidget
+
+新颖独特的音乐播放布局
+
+<img src = "https://raw.githubusercontent.com/Cleveroad/PlayWidget/master/images/header.png" width = "640"/>
+
+---
+
+**Android-ExpandIcon**: https://github.com/zagum/Android-ExpandIcon
+
+实现 Google 风格的上下箭头动态效果
+
+<img src = "https://raw.githubusercontent.com/zagum/Android-ExpandIcon/master/art/expand_icon_demo.gif" width = "320"/>
+
+---
+
+**ZuiMeiTAG**: https://github.com/huage2580/ZuiMeiTAG
+
+仿最美应用的底栏，使用recyclerView实现
+
+<img src = "https://raw.githubusercontent.com/huage2580/ZuiMeiTAG/master/hello.gif" width = "290"/>
+
+---
+
+**HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
+
+仿ios输入法点击输入框以外区域 自动隐藏软键盘轻量级库
+
+<img src = "https://raw.githubusercontent.com/yingLanNull/HideKeyboard/master/show/show.gif" width = "290"/>
+
+---
+
+**TContributionsView**: https://github.com/barryhappy/TContributionsView
+
+Android：用以显示类似github贡献度的View，当然，也绝不仅限于此~
+
+<img src = "https://raw.githubusercontent.com/barryhappy/TContributionsView/master/images/overview.png" width = "640"/>
+
+---
+
+**WebViewDemo**:https://github.com/Ansh1234/WebViewDemo
+
+WebView 使用示例
+
+<img src = "https://github.com/Ansh1234/WebViewDemo/raw/master/images/two.png" width = "320"/>
+
+---
+
+**AdBlockedWebView-Android**: https://github.com/AmniX/AdBlockedWebView-Android
+
+Adblock Webview，支持自动屏蔽广告
+
+<img src = "https://camo.githubusercontent.com/7d15198ddb087ae09141ea29becb661bfaa96d21/687474703a2f2f7777772e67756964696e67746563682e636f6d2f6173736574732f706f7374696d616765732f323031362f30312f626c6f636b2d6164732d6f6e2d656467652d62726f777365722e706e67" width = "640"/>
+
+---
+
+**SwipeCaptcha**: https://github.com/mcxtzhang/SwipeCaptcha
+
+仿斗鱼滑动验证码
+
+<img src = "https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966" width = "320"/>
+
+---
+
+**CaptchaImageView**: https://github.com/jineshfrancs/CaptchaImageView
+
+验证码图片 ImageView，相当实用
+
+<img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen.gif" width = "270"/> <img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen_2.gif" width = "270"/>
+
+---
+
+**Rx.Widgets**: https://github.com/andrefio/Rx.Widgets
+
+Materially inspired widgets and views that expose RxJava bindings
+
+---
+
+**mismeter**: https://github.com/yongjhih/mismeter
+
+简单的仪表盘
+
+<img src="https://raw.githubusercontent.com/yongjhih/mismeter/master/art/screenshot.png" width="300" />
+
+---
+
+**Android-Water-Gauge**: https://github.com/mhmtk/Android-Water-Gauge
+
+An water gauge-like view to display the devices orientation
+
+<img src="https://github.com/mhmtk/Android-Water-Gauge/raw/master/demo/water_gauge.gif" width="320" />
+
+---
+
+**Thermometer**: https://github.com/kofigyan/Thermometer
+
+android温度计
+
+<img src="https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif" width="320" />
+
+---
+
+**ArcLayout**: https://github.com/florent37/ArcLayout
+
+漂亮的弧形顶部布局效果
+
+<img src="https://raw.githubusercontent.com/florent37/ArcLayout/master/media/video1.gif" width="320" />
+
+---
+
+**Timecon**: https://github.com/alxrm/Timecon
+
+Easy-to-use animated clock icon
+
+<img src="https://raw.githubusercontent.com/alxrm/Timecon/master/imgs/timecon.gif" width="320" />
+
+---
+
+**ClearScreenHelper**: https://github.com/Yellow5A5/ClearScreenHelper
+
+几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播
+
+<img src="https://raw.githubusercontent.com/Yellow5A5/ClearScreenHelper/master/image/demo_image1.gif" width="270" /> <img src="https://raw.githubusercontent.com/Yellow5A5/ClearScreenHelper/master/image/demo_image2.gif" width="270" />
+
+---
+
+**TinyDancer**: https://github.com/friendlyrobotnyc/TinyDancer
+
+Android 上展示 FPS(每秒显示帧数) 的悬浮组件
+
+<img src="https://raw.githubusercontent.com/brianPlummer/TinyDancer/master/assets/tinydancer1.gif" width="270" />
+
+---
+
 **SGiOSViews**: https://github.com/Shubhank101/SGiOSViews
 
 IOS 风格选择控制
 
 <img src="https://camo.githubusercontent.com/92bdc502c25ff25dca9596e0246d1afd994d2f84/687474703a2f2f692e696d6775722e636f6d2f59434f67487a722e676966" width="270" />
+
+---
+
+**EditCodeView**: https://github.com/Onum/EditCodeView
+
+Simple custom view implementation that allows you to control the input of a numeric code
+
+<img src="https://github.com/Onum/EditCodeView/raw/assets/assets/gif-animations/animation_1.gif?raw=true" width="320" /> <img src="https://github.com/Onum/EditCodeView/raw/assets/assets/gif-animations/animation_3.gif?raw=true" width="320" />
+
+---
+
+**PinCodeView**: https://github.com/antoxa2584x/PinCodeView
+
+Android PinCode 密码输入效果
+
+<img src="https://github.com/antoxa2584x/PinCodeView/raw/master/images/preview.jpg" width="320" />
+
+---
+
+**PasscodeView**: https://github.com/kevalpatel2106/PasscodeView
+
+pin和指纹识别解锁
+
+<img src="https://raw.githubusercontent.com/kevalpatel2106/PasscodeView/master/resource/fingerprint_success.gif" width="320" /> <img src="https://raw.githubusercontent.com/kevalpatel2106/PasscodeView/master/resource/fingerprint_failed.gif" width="320" />
+
+---
+
+**PatternLockView**: https://github.com/aritraroy/PatternLockView
+
+可能是目前最漂亮的 Android 手势解锁
+
+<img src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_small.gif" width="320" /> <img src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_2_small.gif" width="320" />
 
 ---
 
@@ -22,7 +444,16 @@ IOS 风格选择控制
 
 ---
 
-**LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
+**Pinview**: https://github.com/GoodieBag/Pinview
+
+Pin 码效果的 UI 裤子
+
+<img src="https://camo.githubusercontent.com/4ca257787bd8b888b0dc811f490adb30f3217b0a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5535425035676b397a516171732f67697068792e676966" width="270" />
+<img src="https://camo.githubusercontent.com/ad933014f6134c4b490fa2ca0836d3ad5e56885a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436e43764c68394e543648696f2f67697068792e676966" width="270" />
+
+---
+
+**LolliPin**: https://github.com/OrangeGangsters/LolliPin
 
 A Material design Android pincode library. Supports Fingerprint
 
@@ -39,6 +470,14 @@ A clean, minimal, highly customizable pin lock view
 
 ---
 
+**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
+
+A custom view with keyboard and character display to be used for authentication
+
+<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
+
+---
+
 **CouponView**: https://github.com/dongjunkun/CouponView
 
 锯齿边框，类似优惠劵效果的自定义 View
@@ -51,15 +490,7 @@ A clean, minimal, highly customizable pin lock view
 
 仿锤子时间View
 
-<img src="https://camo.githubusercontent.com/00382740283c9ad1bd7c6ab9fdac33058e58624d/687474703a2f2f3778773030782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f736d6172746973616e5f74696d652e676966" width="320" />
-
----
-
-**StateLayout**: https://github.com/lufficc/StateLayout
-
-A custom layout that can easily switch different states(like empty,error,progress,content) with animations
-
-<img src="https://raw.githubusercontent.com/lufficc/StateLayout/master/pics/state_layout.gif" width="320" />
+https://raw.githubusercontent.com/SpiritMan/SmartisanTime/master/images/smartisanTime.gif" width="320" />
 
 ---
 
@@ -159,6 +590,30 @@ MIUI8 悬浮球
 
 ---
 
+**SimpleRatingBar**: https://github.com/ome450901/SimpleRatingBar
+
+A simple RatingBar with scale animation
+
+<img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="320" />
+
+---
+
+**SmileyRating**: https://github.com/sujithkanna/SmileyRating
+
+卡通萌萌系 Rating 组件，快用这个让你的用户去商店给你的 App 评分吧
+
+<img src="https://raw.githubusercontent.com/sujithkanna/SmileyRating/master/app/src/main/assets/demo.gif" width="400" />
+
+---
+
+**MaterialRatingBar**: https://github.com/DreaminginCodeZH/MaterialRatingBar
+
+一款漂亮的打分效果
+
+<img src="https://raw.githubusercontent.com/DreaminginCodeZH/MaterialRatingBar/master/screenshot/sample_app.jpg" width="320" />
+
+---
+
 **SimpleRatingBar**: https://github.com/FlyingPumba/SimpleRatingBar
 
 A simple RatingBar for Android
@@ -180,6 +635,14 @@ A simple RatingBar for Android
 等级评分
 
 <img src="https://raw.githubusercontent.com/eugeneek/SmileBar/master/img/screenshot.png" width="320" />
+
+---
+
+**AndroidGooView**: https://github.com/smartbetter/AndroidGooView
+
+一个自定义粘性控件，拖动GooView，在一定的范围内具有粘性效果，当超出范围时，GooView消失
+
+<img src="https://raw.githubusercontent.com/smartbetter/AndroidGooView/master/website/static/screenshot.gif" width="150" />
 
 ---
 
@@ -220,6 +683,14 @@ showcasing specific features in the app
 首次使用软件时指导用户操作
 
 <img src="https://raw.githubusercontent.com/MajeurAndroid/Android-Cling/master/web_art/device_example.png" width="320" />
+
+---
+
+**RadarChart**: https://github.com/qstumn/RadarChart
+
+一个可以自由定制、旋转交互的Android雷达图Lib
+
+<img src="https://raw.githubusercontent.com/qstumn/RadarChart/master/demo.gif" width="310" />
 
 ---
 
@@ -273,6 +744,14 @@ HorizontalWheelView
 
 ---
 
+**DragPointView**: https://github.com/javonleee/DragPointView
+
+QQ 未读气泡拖拽组件，轻松集成
+
+<img src="https://github.com/javonleee/DragPointView/raw/master/static/example_1.gif" width="320" />
+
+---
+
 **QQBubbleView**: https://github.com/Yasic/QQBubbleView
 
 利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效
@@ -321,7 +800,15 @@ B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 ---
 
-**DanmakuFlameMaster**: [https://github.com/Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
+**DanmukuLight**: https://github.com/hpdx/DanmukuLight
+
+Android上专为视屏直播打造的轻量级弹幕库（100多kb）
+
+<img src="https://raw.githubusercontent.com/hpdx/DanmukuLight/master/result_image.jpg" width="320" />
+
+---
+
+**DanmakuFlameMaster**: https://github.com/Bilibili/DanmakuFlameMaster
 
 大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧!
 
@@ -329,7 +816,7 @@ B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 ---
 
-**StickerView**: [https://github.com/sangmingming/StickerView](https://github.com/sangmingming/StickerView)
+**StickerView**: https://github.com/sangmingming/StickerView
 
 a sticker view for android application
 
@@ -343,7 +830,7 @@ Phrase is an Android string resource templating library
 
 ---
 
-**TourGuide**: [https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
+**TourGuide**: https://github.com/worker8/TourGuide
 
 TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
 
@@ -351,7 +838,7 @@ TourGuide is an Android library that aims to provide an easy way to add pointers
 
 ---
 
-**cheesesquare**: [https://github.com/chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
+**cheesesquare**: https://github.com/chrisbanes/cheesesquare
 
 Demos the new Android Design library.
 
@@ -359,7 +846,7 @@ Demos the new Android Design library.
 
 ---
 
-**ImageProcessing**: [https://github.com/pepoc/ImageProcessing](https://github.com/pepoc/ImageProcessing)
+**ImageProcessing**: https://github.com/pepoc/ImageProcessing
 
 这个贴纸Demo是基于 http://blog.isming.me/2015/05/10/sticker-view/ 现有基础的优化。
 
@@ -367,7 +854,7 @@ Demos the new Android Design library.
 
 ---
 
-**QuantityView**: [https://github.com/himanshu-soni/QuantityView](https://github.com/himanshu-soni/QuantityView)
+**QuantityView**: https://github.com/himanshu-soni/QuantityView
 
 Android quantity view with add and remove button.
 
@@ -377,7 +864,7 @@ Android quantity view with add and remove button.
 
 ---
 
-**BubbleView**: [https://github.com/lguipeng/BubbleView](https://github.com/lguipeng/BubbleView)
+**BubbleView**: https://github.com/lguipeng/BubbleView
 
 Bubble View 聊天气泡
 
@@ -488,14 +975,6 @@ A 'Google Fit' like activity indicator for Android
 Bootstrap style widgets for Android, with Glyph Icons
 
 <img src="https://camo.githubusercontent.com/51755d59ed6fd53158a0d84696e6d184c3a6f4d5/68747470733a2f2f7261772e6769746875622e636f6d2f426561726465642d48656e2f416e64726f69642d426f6f7473747261702f6d61737465722f696d616765732f626f6f7473747261705f627574746f6e2e706e67" width="320" />
-
----
-
-**CreditCardEntry**: [https://github.com/dbachelder/CreditCardEntry](https://github.com/dbachelder/CreditCardEntry)
-
-Smooth UI for Credit Card Entry on Android device, regex check for supported credit card types and luhn check. Inspired by Square credit card entry interface
-
-<img src="https://camo.githubusercontent.com/6d7229538227b001c51bf534e0ec05f598d2fa5d/68747470733a2f2f7261772e6769746875622e636f6d2f6462616368656c6465722f43726564697443617264456e7472792f6d61737465722f64656d6f2e676966" width="320" />
 
 ---
 

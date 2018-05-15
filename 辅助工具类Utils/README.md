@@ -6,9 +6,69 @@
 
 ---
 
+**Awesome_API**: https://github.com/marktony/Awesome_API/blob/master/Chinese.md
+
+收集中国国内可用API
+
+---
+
 **commons-lang**: https://github.com/apache/commons-lang
 
 Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang.
+
+---
+
+**Lightweight-Stream-API**: https://github.com/aNNiMON/Lightweight-Stream-API
+
+java 7 及以下使用Stream api
+
+---
+
+**okio**: https://github.com/square/okio
+
+A modern I/O API for Java http://square.github.io/okio/1.x/okio
+
+---
+
+**Multiples**: https://github.com/MFlisar/Multiples
+
+Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 items)
+
+---
+
+**SQLite2XL**: https://github.com/androidmads/SQLite2XL
+
+Library to Convert SQLite to Excel
+
+---
+
+**jsoup-annotations**: https://github.com/fcannizzaro/jsoup-annotations
+
+Java JSOUP 标注方案，不用自己费劲解析了
+
+---
+
+**jOOR**: https://github.com/jOOQ/jOOR
+
+简单易用的安卓反射库
+
+---
+
+**ARTIST**: https://github.com/Lukas-Dresel/ARTIST
+
+The Android Runtime Instrumentation Toolkit
+
+---
+
+**PDD**: https://github.com/jparkie/PDD
+
+Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams
+
+---
+
+**realjavascript**: https://github.com/sanjulr/realjavascript
+
+RealJavaScript enables dynamic scripting in Java
 
 ---
 
@@ -18,9 +78,309 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**adbons**: https://github.com/dbaelz/adbons
+
+A wrapper for the Android adb tool. It's just adb on steroids
+
+---
+
+**DateTimeUtils**: https://github.com/thunder413/DateTimeUtils
+
+时间工具
+
+---
+
+**android-shake-detector**: https://github.com/safetysystemtechnology/android-shake-detector
+
+Android 晃动检测小工具
+
+---
+
+**shortcut-helper**: https://github.com/marcoscgdev/shortcut-helper
+
+An android library to create the new Android 7.1 shortcuts easily
+
+<img src="https://raw.githubusercontent.com/marcoscgdev/shortcut-helper/master/screenshots/IMG_20170502_122417.jpg" width="320"/>
+
+---
+
+**CommonPrintProvider**: https://github.com/GrassQing/CommonPrintProvider
+
+通用型热敏打印机接口（wifi，蓝牙）
+
+---
+
+**wcdb**: https://github.com/Tencent/wcdb
+
+微信数据库组件
+
+---
+
+**SQLiteToExcel**: https://github.com/li-yu/SQLiteToExcel
+
+SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，使得 SQLite 和 Excel 之间相互转换更加便捷
+
+---
+
+**AppDataReader**: https://github.com/Ansh1234/AppDataReader
+
+应用中读取 sp 和数据库
+
+<img src="https://raw.githubusercontent.com/Ansh1234/AppDataReader/master/appstoragereader.gif" width="320"/>
+
+---
+
+**AppMethodOrder**: https://github.com/zjw-swun/AppMethodOrder
+
+一个能让你了解所有函数调用顺序的Android库（无需侵入式代码）
+
+<img src="https://camo.githubusercontent.com/7f9fe86c1371f5435aafb998df2d6952fa2ea000/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313835373838372d656236313962313831356436346261332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320"/>
+
+---
+
+**StrictModeCompat**: https://github.com/kirich1409/StrictModeCompat
+
+低版本使用StrictMode
+
+---
+
+**IsInstalled**: https://github.com/Morxander/IsInstalled
+
+判断一个安卓应用是否安装
+
+---
+
+**AnalysisApp**: https://github.com/fengzhizi715/AnalysisApp
+
+快速分析某个app使用哪些sdk的java小工具
+
+---
+
+**android-shell**: https://github.com/jrummyapps/android-shell
+
+Execute shell commands on Android
+
+<img src="https://raw.githubusercontent.com/jrummyapps/android-shell/master/demo/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+
+---
+
+**Encryption**: https://github.com/simbiose/Encryption
+
+java 字符串加解密
+
+---
+
+**java-aes-crypto**: https://github.com/tozny/java-aes-crypto
+
+java 字符串加解密
+
+---
+
+**Store**: https://github.com/NYTimes/Store
+
+Store是一个异步数据加载和缓存数据的库
+
+---
+
+**BuildPropEditor**: https://github.com/jrummyapps/BuildPropEditor
+
+Easily edit your build.prop file on Android
+
+---
+
+**ResourceInspector**: https://github.com/nekocode/ResourceInspector
+
+从一个大型项目中快速找到当前页面元素用到的布局文件
+
+<img src="https://github.com/nekocode/ResourceInspector/raw/master/img/screenshot.png" width="320"/>
+
+---
+
+**redexer**: https://github.com/plum-umd/redexer
+
+The Redexer binary instrumentation framework for Dalvik bytecode
+
+---
+
+**adt4j**: https://github.com/sviperll/adt4j
+
+adt4j - Algebraic Data Types for Java
+
+---
+
+**droidReverse**: https://github.com/Juude/droidReverse
+
+android 逆向工程工具集
+
+---
+
+**AndroidProcesses**: https://github.com/jaredrummler/AndroidProcesses
+
+Get running processes on Android
+
+---
+
+**HFunc**: https://github.com/TangXiaoLv/HFunc
+
+Java实现高阶函数，类似Python，支持串行并行计算，适用于Java和Android
+
+---
+
+**r2d2**: https://github.com/moldedbits/r2d2
+
+安卓数据加密解密
+
+---
+
+**android-api-SecureKeys**: https://github.com/saantiaguilera/android-api-SecureKeys
+
+简单好用的安卓数据加密存储
+
+---
+
+**scytale**: https://github.com/yakivmospan/scytale
+
+Android Key 生成，存储，加密工具库
+
+---
+
+**AccessibilityUtil**: https://github.com/xuyisheng/AccessibilityUtil
+
+AccessibilityService Utils
+
+---
+
+**overlaypermission**: https://github.com/czy1121/overlaypermission
+
+悬浮窗权限兼容库
+
+<img src="https://raw.githubusercontent.com/czy1121/overlaypermission/master/screenshot2.png" width="320"/>
+
+---
+
+**XiaomiPJ**: https://github.com/CankingApp/XiaomiPJ
+
+小米悬浮窗全自动完美一键开启
+
+<img src="https://camo.githubusercontent.com/00207b0c98de0cec744b2c2a696cf4e4e5cc454c/687474703a2f2f63616e6b696e676170702e6769746875622e696f2f323031362f30362f30322f6163636573732d666c6f61742f616374696f6e2e676966" width="320"/>
+
+---
+
+**stf**: https://github.com/openstf/stf
+
+浏览器控制管理手机引用
+
+<img src="https://raw.githubusercontent.com/openstf/stf/master/doc/7s_usage.gif" width="700"/>
+
+---
+
+**smart-scheduler-android**: https://github.com/hypertrack/smart-scheduler-android
+
+Android 智能 Scheduler，根据用户手机场景，决定任务执行方式
+
+<img src="https://camo.githubusercontent.com/32f13ca5e698e3a40fa04b4f83df9240dbbee063/687474703a2f2f692e696d6775722e636f6d2f5835336b6c555a2e6769663f31" width="320"/>
+
+---
+
+**ijkplayer**: https://github.com/l123456789jy/ijkplayer
+
+在ijkplayer编译的bilibili开源编译版本上，去掉失败的依赖，增加对https支持
+
+<img src="https://raw.githubusercontent.com/l123456789jy/ijkplayer/master/66.png" width="320"/>
+
+---
+
+**MemoryMonitor**: https://github.com/Kyson/MemoryMonitor
+
+内存监控器
+
+<img src="https://raw.githubusercontent.com/Kyson/MemoryMonitor/master/ART/mm_preview.gif" width="320"/>
+
+---
+
+**mathjs-android**: https://github.com/niltonvasques/mathjs-android
+
+An android wrapper library to mathjs.org javascript library
+
+---
+
+**ThinRPlugin**: https://github.com/mogujie/ThinRPlugin
+
+apk 瘦身之去除android中的R.class
+
+---
+
+**Prevent-Screen-Off**: https://github.com/kevalpatel2106/Prevent-Screen-Off
+
+用户盯着屏幕时保持屏幕常亮
+
+<img src="https://raw.githubusercontent.com/kevalpatel2106/Prevent-Screen-Off/master/assets/Prevent_screen_off.gif" width="540"/>
+
+---
+
+**ForceTouch**: https://github.com/michelelacorte/ForceTouch
+
+Simple implementation of ForceTouch on Android
+
+<img src="https://camo.githubusercontent.com/ba1666aa84ec083accb9fc982e961e7a05fd0361/68747470733a2f2f7331342e706f7374696d672e6f72672f3573337363716639742f73637265656e2e706e67" width="320"/>
+
+---
+
+**soter**: https://github.com/Tencent/soter
+
+腾讯开源的可信指纹认证，获得与微信指纹支付一致的安全快捷认证体验
+
+<img src="https://github.com/WeMobileDev/article/raw/master/assets/soter/SoterFramework.png" width="600"/>
+
+---
+
+**FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
+
+APP一秒接入指纹识别SDK，0奔溃，0闪退，炒鸡稳定！额外支持三星和魅族6.0以下系统
+
+<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/other/QRCode_en.png" width="320"/>
+
+---
+
+**Fingerprint2Sleep**: https://github.com/ztc1997/Fingerprint2Sleep
+
+自定义 Android 指纹识别快捷方式
+
+---
+
+**RootHelper**: https://github.com/AndroidDeveloperLB/RootHelper
+
+An extension to use libsuperuser library more easily
+
+---
+
+**AndroidPush**: https://github.com/jiang111/AndroidPush
+
+更方便的将各个rom厂商自己的推送服务进行集成,并统一管理
+
+---
+
+**SQLiteParser**: https://github.com/jrvansuita/SQLiteParser
+
+This project comes in handy when you want to write a sql statement easily and smarter
+
+---
+
 **AndroidMapperObject**: https://github.com/Gperez88/AndroidMapperObject
 
 MapperObject which it is a library that allows you to transfer data between two objects
+
+---
+
+**SensorAnnotations**: https://github.com/dvoiss/SensorAnnotations
+
+Sensor 注解：实现当传感器参数发生变化的时候，自动调用特定函数
+
+---
+
+**MaterialValues**: https://github.com/AoDevBlue/MaterialValues
+
+Material Design 中那些标准的设计常量
 
 ---
 
@@ -30,45 +390,29 @@ MapperObject which it is a library that allows you to transfer data between two 
 
 ---
 
-**IpGetter**: https://github.com/brunodles/IpGetter
-
-The IpGetter is a plugin which will help us to get the Ip of the current machine to use on a build.gradle
-
----
-
 **StanKoUtils**: https://github.com/stan-ko/StanKoUtils
 
 Set of handy classes
 
 ---
 
-**CallRecorder**: https://github.com/aykuttasil/CallRecorder
-
-通话录音
-
----
-
-**android_silk_v3_decoder**: https://github.com/ketn4391/android_silk_v3_decoder
-
-转换微信QQ语音格式为MP3格式
-
----
-
-**RxLoader**: https://github.com/L4Digital/RxLoader
-
-An Android Loader that wraps an RxJava Observable
-
----
-
-**RxAwareness**: https://github.com/patloew/RxAwareness
-
-Reactive Awareness API Library for Android and RxJava
-
----
-
 **intentbuilder**: https://github.com/Trikke/intentbuilder
 
 IntentBuilder is a type safe way of creating intents and populating them with extras. Use them with your Activities and Services
+
+---
+
+**HybridBridge**: https://github.com/YouJZ/HybridBridge
+
+A basic framework for Android hybrid development, bridge between JavaScript and java
+
+<img src="https://raw.githubusercontent.com/YouJZ/HybridBridge/master/demo.gif" width="320" />
+
+---
+
+**WebViewJavascriptBridge**: https://github.com/jesse01/WebViewJavascriptBridge
+
+WebViewJavascriptBridge for Android
 
 ---
 
@@ -87,14 +431,6 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 **medium-android-sdk-unofficial**: https://github.com/KingsMentor/medium-android-sdk-unofficial
 
 Unoffical implementation of medium api for android
-
----
-
-**android-data-binding-rxjava**: https://github.com/TangoAgency/android-data-binding-rxjava
-
-Demo that shows how to use RxJava with Android Data Binding ObservableFields
-
-<img src="https://cloud.githubusercontent.com/assets/469111/18312397/db8996fc-7509-11e6-9bcd-0cee0bac0754.gif" width="320"/>
 
 ---
 
@@ -118,13 +454,25 @@ Light version of the concept of ButterKnife
 
 **truetime-android**: https://github.com/instacart/truetime-android
 
-获取当前时间
+获取当前时间，可自定义时间服务器
+
+---
+
+**location-tracker-background**: https://github.com/safetysystemtechnology/location-tracker-background
+
+后台实时获取追踪
 
 ---
 
 **SamLocationAndGeocoding**: https://github.com/kingsammalik/SamLocationAndGeocoding
 
 跟踪用户位置地址
+
+---
+
+**LocationManager**: https://github.com/yayaa/LocationManager
+
+Simplify getting user's location for Android
 
 ---
 
@@ -154,12 +502,6 @@ Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，G
 
 ---
 
-**PlayVideo-OpenGL**: https://github.com/ChouRay/PlayVideo-OpenGL
-
-通过Opengl ES去绘制视频的demo(可实现视频画中画)
-
----
-
 **XTML**: https://github.com/metalurgus/XTML
 
 GSON analog for serialization/deserialization of Java objects into HTML code and back
@@ -180,6 +522,18 @@ Fluent design by contract constructs for android
 
 ---
 
+**WifiConnHelper**: https://github.com/BirdGuo/WifiConnHelper
+
+Wifi扫描和连接
+
+---
+
+**WiseFy**: https://github.com/isuPatches/WiseFy
+
+Wrapper around WifiManager and ConnectivityManager for Android
+
+---
+
 **LocalNetwork**: https://github.com/itsJoKr/LocalNetwork
 
 两设备通过 Wifi 通信
@@ -192,27 +546,29 @@ Analytics framework for Android
 
 ---
 
-**RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
+**icepick**: https://github.com/frankiesardo/icepick
 
-RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
-
----
-
-**RxComprehensions**: https://github.com/pakoito/RxComprehensions
-
-Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
+好用的状态保存库
 
 ---
 
-**RxLifecycle**: https://github.com/trello/RxLifecycle
+**SyncIt**: https://github.com/jineshfrancs/SyncIt
 
-Lifecycle handling APIs for Android apps using RxJava
+SyncIt will call a method implemented in your activity to notify data connection changes
+
+<img src="https://raw.githubusercontent.com/jineshfrancs/SyncIt/master/screens/screen1.gif" width="270"/>
 
 ---
 
 **SafelyAndroid**: https://github.com/Piasy/SafelyAndroid
 
 打造健壮的安卓APP，从此告别 Activity Not Found、Activity State Loss 和 fragment transaction 中的 NPE
+
+---
+
+**FragmentStateManager**: https://github.com/okaybroda/FragmentStateManager
+
+An Android library that holds fragment states for bottom navigation view even when activity rotates
 
 ---
 
@@ -225,12 +581,6 @@ Lifecycle handling APIs for Android apps using RxJava
 **AirCycle**: https://github.com/simonpercic/AirCycle
 
 Flexible binding of Android Activity lifecycle callbacks to fields
-
----
-
-**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
-
-RxJava 处理 Activity Result
 
 ---
 
@@ -254,9 +604,35 @@ Fragment 参数传递
 
 ---
 
-**AndroidAudioConverter**: https://github.com/adrielcafe/AndroidAudioConverter
+**FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
 
-音频转换 支持：WAV, AAC, MP3, M4A, WMA and FLAC
+安卓指纹识别库（安卓官方+三星SDK+魅族SDK）
+
+<img src="https://raw.githubusercontent.com/uccmawei/FingerprintIdentify/master/demo.png" width="320"/>
+
+---
+
+**android-fingerprint-authentication**: https://github.com/multidots/android-fingerprint-authentication
+
+指纹集成，管理工具
+
+<img src="https://raw.githubusercontent.com/multidots/android-fingerprint-authentication/master/screens/screen-capture.gif" width="320"/>
+
+---
+
+**FingerprintManager**: https://github.com/JesusM/FingerprintManager
+
+简洁的指纹管理工具
+
+<img src="https://raw.githubusercontent.com/JesusM/FingerprintManager/master/resources/images/sample_light_theme.png" width="320"/> <img src="https://raw.githubusercontent.com/JesusM/FingerprintManager/master/resources/images/sample_dark_theme.png" width="320"/>
+
+---
+
+**FingerprintAuthHelper**: https://github.com/pro100svitlo/FingerprintAuthHelper
+
+指纹认证
+
+<img src="https://raw.githubusercontent.com/pro100svitlo/FingerprintAuthHelper/master/screenshots/sc_0.png" width="320"/> <img src="https://raw.githubusercontent.com/pro100svitlo/FingerprintAuthHelper/master/screenshots/sc_1.png" width="320"/>
 
 ---
 
@@ -286,12 +662,6 @@ Android HashTag Lib
 
 ---
 
-**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
-
-An Rx wrapper for receiving results from startActivityForResult() as an Observable
-
----
-
 **Save-to-Activity**: https://github.com/Metroxe/Save-to-Activity
 
 This library is an easy to use series of commands to interact with a hashmap across multiple fragments attached to any running activity
@@ -307,12 +677,6 @@ Android由于系统内存不足时，activity被杀死时的数据存取方案
 **Preservely**: https://github.com/samiuelson/Preservely
 
 安卓横竖屏变化处理库
-
----
-
-**RxJava2Interop**: https://github.com/akarnokd/RxJava2Interop
-
-RxJava 1.x and 2.x 转换
 
 ---
 
@@ -367,6 +731,18 @@ An anti-bikeshedding Kotlin linter with built-in formatter
 **tiger**: https://github.com/google/tiger
 
 java依赖注入
+
+---
+
+**DaggerAutoInject**: https://github.com/florent37/DaggerAutoInject
+
+DaggerAutoInject
+
+---
+
+**Napkin**: https://github.com/AleksanderMielczarek/Napkin
+
+Common scopes and qualifiers for Dagger 2
 
 ---
 
@@ -438,9 +814,63 @@ Android 上使用 NDK 编写 OpenGL ES 3.0
 
 ---
 
+**usb-serial-for-android**: https://github.com/mik3y/usb-serial-for-android
+
+Android USB host serial driver library for CDC, FTDI, Arduino and other devices
+
+---
+
+**USB-Device-Info---Android**: https://github.com/alt236/USB-Device-Info---Android
+
+从linux层和android层获取usb设备信息的应用
+
+---
+
+**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
+
+Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
+
+---
+
+**libaums**: https://github.com/magnusja/libaums
+
+在非root设备上访问usb大容量存储设备
+
+---
+
 **UsbSerial**: https://github.com/felHR85/UsbSerial
 
 Usb serial controller for Android
+
+---
+
+**OkDeepLink**: https://github.com/HongJun2046/OkDeepLink
+
+Android 轻量级 DeepLink 解决方案
+
+<img src="https://raw.githubusercontent.com/HongJun2046/OkDeepLink/master/snapshot/intercept_preview.png" width="320"/>
+
+---
+
+**AntCaves**: https://github.com/themores/AntCaves
+
+Android Router 框架，取名为AntCaves，中文名”蚁穴“
+
+<img src="https://raw.githubusercontent.com/themores/AntCaves/master/img/IMG_3063(20170311-183321).jpg" width="320"/>
+
+---
+
+**Meepo**: https://github.com/nekocode/Meepo
+
+实现仿 Retrofit 的跳转路由
+
+---
+
+**Router**: https://github.com/chenenyu/Router
+
+简单、灵活的路由框架
+
+<img src="https://raw.githubusercontent.com/chenenyu/Router/master/static/screenshot.gif" width="320"/>
 
 ---
 
@@ -462,9 +892,9 @@ Dynamic in app URL router for Android
 
 ---
 
-**RxGpsService**: https://github.com/miguelbcr/RxGpsService
+**KeyHide**: https://github.com/Hamadakram/KeyHide
 
-An Android service to retrieve GPS locations and route stats using RxJava
+KeyHide
 
 ---
 
@@ -473,6 +903,12 @@ An Android service to retrieve GPS locations and route stats using RxJava
 Dismiss your keyboard by tapping anywhere outside it
 
 <img src="https://camo.githubusercontent.com/e3fa7baf5a19bbd47d2cdede656262c9d300e791/687474703a2f2f692e67697068792e636f6d2f6c33765261764e4c306151664c327476612e676966" width="260"/>
+
+---
+
+**Teleprinter**: https://github.com/Commit451/Teleprinter
+
+Android keyboard helper
 
 ---
 
@@ -518,14 +954,6 @@ Android APK Decompiler
 
 ---
 
-**AndroidAudioRecorder**: https://github.com/adrielcafe/AndroidAudioRecorder
-
-安卓音频录制库
-
-<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="800"/>
-
----
-
 **Endoscope**: https://github.com/hypeapps/Endoscope
 
 Endoscope - RTSP live video streamer for android devices via Wi-Fi
@@ -542,27 +970,87 @@ Endoscope - RTSP live video streamer for android devices via Wi-Fi
 
 ---
 
-**findbugs-android**: https://github.com/ChaitanyaPramod/findbugs-android
+**ResourceInspector**: https://github.com/nekocode/ResourceInspector
 
-Gradle plugin that creates FindBugs reports for android projects
+类似 Stetho 的 Layout 资源视察工具
 
----
-
-**assert-rx**: https://github.com/peter-tackage/assert-rx
-
-Fluent assertions for RxJava's TestSubscriber
+<img src="https://camo.githubusercontent.com/fca4d6ebedcef761b39f3f4fda56c5cbef1a45ac/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f31322f31332f353834663761303434653166612e706e67" width="600"/>
 
 ---
 
-**gradle-download-task**: https://github.com/michel-kraemer/gradle-download-task
+**Dream-Catcher**: https://github.com/misakuo/Dream-Catcher
 
-Adds a download task to Gradle that displays progress information
+在Chrome DevTools内查看Android设备上所有HTTP(S)流量
+
+<img src="https://camo.githubusercontent.com/fca4d6ebedcef761b39f3f4fda56c5cbef1a45ac/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f31322f31332f353834663761303434653166612e706e67" width="320"/> <img src="https://camo.githubusercontent.com/ffff627417220fc33fd868a092a7419db48d476c/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f31322f31332f353834663761343233306162612e706e67" width="540"/>
 
 ---
 
-**gradle-tips**: https://github.com/shekhargulati/gradle-tips
+**Stetho-Couchbase**: https://github.com/RobotPajamas/Stetho-Couchbase
 
-Gradle tips for all of us
+Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Android Couchbase databases in Chrome
+
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-Debug-Database/master/assets/debugdb.png" width="640"/>
+
+---
+
+**SessionManager-Android**: https://github.com/Chingiz/SessionManager-Android
+
+Small Shared Preference Library for Android
+
+---
+
+**SimpleConfig**: https://github.com/BCsl/SimpleConfig
+
+这是一个基于 SharePreference 简化应用配置信息读取和保存的库, 灵感来自于 retrofit
+
+---
+
+**tray**: https://github.com/grandcentrix/tray
+
+多进程安全的SharedPreferences
+
+---
+
+**binaryprefs**: https://github.com/iamironz/binaryprefs
+
+Rapidly fast implementation of SharedPreferences which stores each preference in files separately, performs disk IO via NIO with memory mapped byte buffers and works IPC (between processes)
+
+---
+
+**prefdata**: https://github.com/xelevra/prefdata
+
+Pref Data – the Android SharedPreferences wrapper
+
+---
+
+**ProbeTools**: https://github.com/pavel163/ProbeTools
+
+ProbeTools displays the data from the Database and SharedPreferences in the browser
+
+<img src="https://raw.githubusercontent.com/pavel163/ProbeTools/master/1.png" width="640"/>
+
+---
+
+**Android-Debug-Database**: https://github.com/amitshekhariitbhu/Android-Debug-Database
+
+通过网页来查看 Android 本机数据库和 SharedPreference 数据
+
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-Debug-Database/master/assets/debugdb.png" width="640"/>
+
+---
+
+**SQLiteOnWeb-Android**: https://github.com/skyhacker2/SQLiteOnWeb-Android
+
+通过浏览器管理sqlite数据库
+
+<img src="https://raw.githubusercontent.com/skyhacker2/SQLiteOnWeb-Android/master/screenshots/2.png" width="640"/>
+
+---
+
+**LitePal**: https://github.com/LitePalFramework/LitePal
+
+Android Sqlite ORM，让数据库操作更便捷 
 
 ---
 
@@ -620,12 +1108,6 @@ Library what helps getting photo or video from device gallery, from a cloud or f
 
 ---
 
-**RxLoader**: https://github.com/kmdupr33/RxLoader
-
-RxLoader
-
----
-
 **InputValidator**: https://github.com/jordanterry/InputValidator
 
 An Android library helps to validate input content
@@ -649,12 +1131,6 @@ Library for easy call JS-functions from Java
 **AndroidStudioTemplates**: https://github.com/WanAndroid/AndroidStudioTemplates
 
 Templates for Android Studio
-
----
-
-**ixjava**: https://github.com/akarnokd/ixjava
-
-Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
 
 ---
 
@@ -692,21 +1168,17 @@ Blorm is a field validation lib for android
 
 ---
 
-**ReactiveWiFi**: https://github.com/pwittchen/ReactiveWiFi
+**IpcEventBus**: https://github.com/NewtronLabs/IpcEventBus
 
-WiFi Access Points and related information with RxJava Observables
+进程通信事件总线
+
+<img src="https://github.com/NewtronLabs/IpcEventBus/raw/master/Diagram.png" width="400"/>
 
 ---
 
 **Hermes**: https://github.com/Xiaofei-it/Hermes
 
 简单易用的安卓进程间通信IPC框架
-
----
-
-**rxHub**: https://github.com/apptik/rxHub
-
-Reactive Event Hub
 
 ---
 
@@ -734,9 +1206,33 @@ A lightweight eventbus library for android, simplifies communication between Act
 
 ---
 
+**eventbus3-intellij-plugin**: https://github.com/likfe/eventbus3-intellij-plugin
+
+eventbus3 可用事件跳转 Android Studio 插件
+
+---
+
 **EventBus**: https://github.com/greenrobot/EventBus
 
 Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. http://greenrobot.org/eventbus/
+
+---
+
+**sdk3rd**: https://github.com/czy1121/sdk3rd
+
+第三方SDK集成库，授权/分享/支付
+
+---
+
+**EasyPay**: https://github.com/xiong-it/EasyPay
+
+简单易用的第三方可扩展支付框架
+
+---
+
+**Android-Pay**: https://github.com/mayubao/Android-Pay
+
+支持微信和支付宝两种主流支付的集成库， 两行代码实现微信支付， 三行代码实现支付宝支付
 
 ---
 
@@ -752,24 +1248,6 @@ Android 表单验证库，用方法链构建你的验证规则
 
 ---
 
-**rxlist**: https://github.com/s0nerik/rxlist
-
-RxJava 方式对 List 的封装
-
----
-
-**OmRecorder**: https://github.com/kailash09dabhi/OmRecorder
-
-A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.io/OmRecorder/
-
----
-
-**ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
-
-Rx wrapper library for Android's AudioRecord API
-
----
-
 **artdumper**: https://github.com/Qihoo360/artdumper
 
 android5.0之后，从oat文件中dump出来dex的工具
@@ -782,29 +1260,11 @@ android5.0之后，从oat文件中dump出来dex的工具
 
 ---
 
-**OkCacheControl**: https://github.com/ncornette/OkCacheControl
-
-OkHttp 和 Retrofit 缓存工具
-
----
-
 **packagehunter**: https://github.com/nisrulz/packagehunter
 
 捕获安卓应用信息
 
 <img src="https://raw.githubusercontent.com/nisrulz/packagehunter/master/img/sc1.png" width="300"/> <img src="https://raw.githubusercontent.com/nisrulz/packagehunter/master/img/sc2.png" width="300"/>
-
----
-
-**ExoPlayer**: https://github.com/google/ExoPlayer
-
-An extensible media player for Android
-
----
-
-**exoplayer-textureview**: https://github.com/satorufujiwara/exoplayer-textureview
-
-ExoPlayer's wrapper for using with TextureView
 
 ---
 
@@ -817,14 +1277,6 @@ Fragment 管理
 **PullSwitcher**: https://github.com/loopeer/PullSwitcher
 
 方便 Fragment 切换的工具
-
----
-
-**YUVDroidTools**: https://github.com/Jhuster/YUVDroidTools
-
-安卓预览 YUV 原始数据
-
-<img src="https://raw.githubusercontent.com/Jhuster/YUVDroidTools/master/screenshots/home.png" width="320"/>
 
 ---
 
@@ -874,6 +1326,12 @@ Simple random data generator for Android
 
 ---
 
+**Lyra**: https://github.com/Fondesa/Lyra
+
+安卓组件状态保存及恢复
+
+---
+
 **reminder**: https://github.com/OneCodeLabs/reminder
 
 保持 View 状态直到下次数据更新
@@ -886,33 +1344,29 @@ When Android's Pair class is just not enough
 
 ---
 
-**MediaFacade**: https://github.com/Drivemode/MediaFacade
-
-多媒体处理
-
----
-
 **user-validator**: https://github.com/ShootrNetwork/user-validator
 
 Library to validate username, email and passwords
 
 ---
 
-**RxBus**: https://github.com/Dimezis/RxBus
-
-Simple Rx Event Bus implementation using Kotlin for Android and RxKotlin (RxJava)
-
----
-
-**RxGroups**: https://github.com/airbnb/RxGroups
-
-Easily group RxJava Observables together and tie them to your Android Activity lifecycle
-
----
-
 **agera-event-bus**: https://github.com/drakeet/agera-event-bus
 
 一个关于 Agera 的裤子 用法和 RxBus 基本一样的 Agera Event Bus
+
+---
+
+**AppUpdate**: https://github.com/fccaikai/AppUpdate
+
+app更新
+
+<img src="https://camo.githubusercontent.com/7a478c9eb83af712d69eec9cea62f7e0f74222f6/68747470733a2f2f7777332e73696e61696d672e636e2f6c617267652f303036744e62527767793166646875673136646e686a33306b6d306234676c752e6a7067" width="600"/>
+
+---
+
+**LessCode-Update**: https://github.com/openproject/LessCode-Update
+
+兼容 Android7.0+ app更新
 
 ---
 
@@ -925,6 +1379,14 @@ app 强制更新
 **UpdateApp**: https://github.com/yaming116/UpdateApp
 
 开箱即用的app更新，主要负责软件下载、软件安装等
+
+---
+
+**update**: https://github.com/czy1121/update
+
+清晰灵活简单易用的应用更新库
+
+<img src="https://github.com/czy1121/update/raw/master/screenshot1.png" width="320"/> <img src="https://github.com/czy1121/update/raw/master/screenshot4.png" width="320"/>
 
 ---
 
@@ -960,9 +1422,9 @@ A safe JsBridge framework!
 
 ---
 
-**RxValidator**: https://github.com/phajduk/RxValidator
+**android-proguards**: https://github.com/yongjhih/android-proguards
 
-RxJava 和 RxBinding 结合的格式验证库
+AAR proguards
 
 ---
 
@@ -972,9 +1434,9 @@ RxJava 和 RxBinding 结合的格式验证库
 
 ---
 
-**RealmRxNotifications**: https://github.com/ZherebtsovAlexandr/RealmRxNotifications
+**RealmRepository**: https://github.com/AleksanderMielczarek/RealmRepository
 
-Reactive layer (similar to the pattern repository) for the Realm
+Generate Realm repositories
 
 ---
 
@@ -1008,6 +1470,12 @@ MD 设计中的尺寸和颜色指导
 
 ---
 
+**BleDemo**: https://github.com/Alex-Jerry/BleDemo
+
+android BLE蓝牙项目
+
+---
+
 **FastBle**: https://github.com/Jasonchenlijian/FastBle
 
 Android BLE 蓝牙开发框架，使用回调方式处理，搜索、连接、notify、indicate、读、写等一系列蓝牙操作
@@ -1017,6 +1485,18 @@ Android BLE 蓝牙开发框架，使用回调方式处理，搜索、连接、no
 **android-lite-bluetoothLE**: https://github.com/litesuits/android-lite-bluetoothLE
 
 Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单
+
+---
+
+**UReflection**: https://github.com/mnayef95/UReflection
+
+A light-weight android library that can be quickly integrated into any app to use android utils
+
+---
+
+**android-utility**: https://github.com/aaabidunique/android-utility
+
+A handy set of utility for android
 
 ---
 
@@ -1082,6 +1562,14 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 
 ---
 
+**Aria**: https://github.com/AriaLyy/Aria
+
+文件下载管理
+
+<img src="https://github.com/AriaLyy/DownloadUtil/raw/master/img/download_img.gif" width="640" />
+
+---
+
 **lib_download**: https://github.com/wangdanlizhiyun/lib_download
 
 处理异步下载的库
@@ -1094,9 +1582,11 @@ Kotlin 语言编写的安卓 cache 库
 
 ---
 
-**ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
+**ShareUtil**: https://github.com/shaohui10086/ShareUtil
 
-更好的管理线程间跳转的库
+简单的Android社会化分享登录库，一行代码搞定
+
+<img src="https://raw.githubusercontent.com/shaohui10086/ShareUtil/master/preview/shareutil_share.gif" width="320" /> <img src="https://raw.githubusercontent.com/shaohui10086/ShareUtil/master/preview/shareutil_login.gif" width="320" />
 
 ---
 
@@ -1142,8 +1632,6 @@ AsyncTask 替代者
 
 ---
 
-
-
 **multibackstack**: https://github.com/JetradarMobile/multibackstack
 
 安卓 回退栈管理
@@ -1156,27 +1644,15 @@ AsyncTask 替代者
 
 ---
 
-**UVCCamera**: https://github.com/saki4510t/UVCCamera
-
-library and sample to access to UVC web camera on non-rooted Android device
-
----
-
-**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
-
-Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
-
----
-
 **ParcelCheck**: https://github.com/Commit451/ParcelCheck
 
 Simple test to see if all models in project correctly implement Parcelable
 
 ---
 
-**license-tools-plugin**: https://github.com/cookpad/license-tools-plugin
+**SimpleNFC**: https://github.com/tawaasalage/SimpleNFC
 
-Gradle plugin to check library licenses and generate license pages
+This is a sample project that include NFC value reading using insanely easy way
 
 ---
 
@@ -1195,6 +1671,22 @@ The Android Support Library for NFC
 **android-UCToast**: https://github.com/liaohuqiu/android-UCToast
 
 开机自动启动的 Service 监听剪切板。复制之后，在屏幕顶部显示一个悬浮窗，显示剪贴板内容。点击悬浮窗，跳转到 Activity 页面显示
+
+---
+
+**HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
+
+仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库
+
+<img src="https://raw.githubusercontent.com/yingLanNull/HideKeyboard/master/show/show.gif" width="320" />
+
+---
+
+**AwesomeKeyboard**: https://github.com/hoanganhtuan95ptit/AwesomeKeyboard
+
+emoticons, sticker, photo and color keyboard
+
+<img src="https://github.com/hoanganhtuan95ptit/AwesomeKeyboard/raw/master/output/Screenshot_2017-07-06-12-54-22.png" width="320" /> <img src="https://github.com/hoanganhtuan95ptit/AwesomeKeyboard/raw/master/output/Screenshot_2017-07-06-12-55-15.png" width="320" />
 
 ---
 
@@ -1234,79 +1726,6 @@ facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with 
 
 ---
 
-**img-optimizer-gradle-plugin**: https://github.com/chenenyu/img-optimizer-gradle-plugin
-
-一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
-
-|原图|极限压缩(lossy)|无损压缩(lossless)|
-|:---:|:---:|:---:|
-|526K|195K(减少63%)|473K(减少10%)|
-|![原图](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna.png)|![极限压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossy.png)|![无损压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossless.png)|
-
----
-
-**drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
-
-Gradle plugin to optimize png files and reduce resultant apk size within an Android project
-
----
-
-**WxRecoderVideo**: https://github.com/maimingliang/WxRecoderVideo
-
-基于VCamera，仿微信录制短视频
-
-<img src="https://github.com/maimingliang/WxRecoderVideo/raw/master/recoder.gif" width="320" />
-
----
-
-**Camera2-Video**: https://github.com/WesleyElliott/Camera2-Video
-
-A simple Android wrapper for interfacing with the new Camera2 API for video capture
-
----
-
-**VidEffects**: https://github.com/krazykira/VidEffects
-
-实时视频滤镜
-
-<img src="https://cloud.githubusercontent.com/assets/2201511/9244232/ded8b760-41b2-11e5-9e4b-54d7c0b9cfca.png" width="400" /> <img src="https://cloud.githubusercontent.com/assets/2201511/9244236/ea09d344-41b2-11e5-9e71-f04601fd61e9.png" width="400" />
-
----
-
-**VCL-Android**: https://github.com/hanhailong/VCL-Android
-
-编译好的VCL-Android版本，打了四种架构的so包，armeabi-v7a、armeabi、x86、mips
-
-<img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/vlc_2.png" width="320" /> <img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/vlc_3.png" width="320" />
-
----
-
-**simplest_ffmpeg_mobile**: https://github.com/leixiaohua1020/simplest_ffmpeg_mobile
-
-ffmpeg examples in Android / IOS / WinPhone http://leixiaohua1020.github.com/
-
----
-
-*MediaPlayer-Extended**: https://github.com/protyposis/MediaPlayer-Extended
-
-Android MediaPlayer API-compatible media player library with exact seek and DASH support
-
----
-
-**360-video-player-for-android**: https://github.com/fbsamples/360-video-player-for-android
-
-Sample code for creating a 360 video player on Android
-
----
-
-**easy-video-player**: https://github.com/afollestad/easy-video-player
-
-Video playback on Android, made easy, wrapping around the stock MediaPlayer API. https://aidanfollestad.com
-
-<img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase1.png" width="320" />
-
----
-
 **enjarify**: https://github.com/google/enjarify
 
 Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
@@ -1325,15 +1744,45 @@ Composition over inheritance for Android components like Activity or Fragment
 
 ---
 
+**kstools**: https://github.com/fourbrother/kstools
+
+Android中自动爆破签名工具
+
+---
+
 **android-classyshark**: https://github.com/google/android-classyshark
 
 apk 反编译工具
 
 ---
 
+**EasySharedPreference**: https://github.com/kingfisherphuoc/EasySharedPreference
+
+简单易用的可存储任意对象的 SharedPreference
+
+---
+
+**CipherSharedPrefs**: https://github.com/Ufkoku/CipherSharedPrefs
+
+Android shared preferences 加解密
+
+---
+
+**secure-preferences**: https://github.com/HussainDerry/secure-preferences
+
+Android shared preferences AES 加解密
+
+---
+
 **easyPrefs**: https://github.com/Xstar97/easyPrefs
 
 easily use android preferences(the easy way!)
+
+---
+
+**preferator**: https://github.com/Sloy/preferator
+
+开发辅助工具，帮助你快速的在 Android 端修改 SharedPreference，以达到测试的目的
 
 ---
 
@@ -1391,6 +1840,12 @@ Simple Android SharedPreferences wrapper
 
 ---
 
+**TurboDex**: https://github.com/asLody/TurboDex
+
+在Android瞬间加载Dex
+
+---
+
 **legend**: https://github.com/asLody/legend
 
 A framework for hook java methods
@@ -1433,6 +1888,14 @@ Router activities
 
 ---
 
+**Sherlock**: https://github.com/ajitsing/Sherlock
+
+异常捕获
+
+<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
+
+---
+
 **AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
 
 ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
@@ -1455,9 +1918,61 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
-**gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
+**PermissionManager**:https://github.com/karanchuri/PermissionManager
 
-Helper to generate Javadocs within a Gradle Android library
+搜索清单权限并动态申请
+
+<img src="https://github.com/karanchuri/PermissionManager/raw/master/demo.gif?raw=true" width="320" />
+
+---
+
+**PermissionGrantor**: https://github.com/dfqin/PermissionGrantor
+
+一行代码搞定Android6.0动态权限授权
+
+<img src="https://raw.githubusercontent.com/dfqin/PermissionGrantor/master/grant1.gif" width="270" /> <img src="https://raw.githubusercontent.com/dfqin/PermissionGrantor/master/grant2.gif" width="270" /> <img src="https://raw.githubusercontent.com/dfqin/PermissionGrantor/master/grant3.gif" width="270" />
+
+---
+
+**PermissionManager**: https://github.com/TheBrownArrow/PermissionManager
+
+Permission Manager is easily manage Android Marshmallow and nougat runtime permissions
+
+---
+
+**PermissionsWrapper**: https://github.com/lolucosmin/PermissionsWrapper
+
+PermissionsWrapper is the easiest way to manage Android Marshmallow and Nougat runtime permissions
+
+---
+
+**PermissionManager**: https://github.com/AdamMc331/PermissionsManager
+
+PermissionsManager library that has base activity and fragment that extend from AppCompatActivity to ease with the handling of runtime permissions
+
+---
+
+**PermissionHelper**: https://github.com/pankaj89/PermissionHelper
+
+PermissionHelper for Android M
+
+---
+
+**PermissionHelper**: https://github.com/nirav-tukadiya/PermissionHelper
+
+6.0 运行时权限助手
+
+---
+
+**Simplify-Permissions**: https://github.com/anshulagarwal06/Simplify-Permissions
+
+Framework to simplify android marshmallow permission support
+
+---
+
+**permissionHelper**: https://github.com/firetrap/permissionHelper
+
+Android 6.0 Permission Helper
 
 ---
 
@@ -1469,25 +1984,11 @@ Android 6.0权限管理 Kotlin way
 
 ---
 
-**RxPermissions**: https://github.com/raviteja06/RxPermissions
-
-Android 6.0权限管理 ReactiveX/RxAndroid way
-
-<img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
-
----
-
 **Permissify**: https://github.com/holidaycheck/Permissify
 
 Android 又一个6.0权限管理
 
 <img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
-
----
-
-**RxPermissionsResult**: https://github.com/VictorAlbertos/RxPermissionsResult
-
-RxJava + 6.0权限申请
 
 ---
 
@@ -1537,15 +2038,21 @@ Check marshmallow permission easily https://rebus007.github.io/PermissionUtils/
 
 ---
 
-**rx-android-permissions**: https://github.com/beworker/rx-android-permissions
-
-Simple RxJava library for requesting and observing Android runtime permissions
-
----
-
 **permissionHelper**: https://github.com/ayz4sci/permissionHelper
 
 permissionHelper for Android M
+
+---
+
+**EasyPermissions**: https://github.com/lalosoft/EasyPermissions
+
+A simple android library to request permissions in runtime
+
+---
+
+**EffortlessPermissions**: https://github.com/DreaminginCodeZH/EffortlessPermissions
+
+An Android permission library extending Google's EasyPermissions with convenient additions.
 
 ---
 
@@ -1609,6 +2116,12 @@ Library enables to request a permission from any Context(Service, IntentService,
 
 ---
 
+**keytool-importkeypair**: https://github.com/getfatday/keytool-importkeypair
+
+为已存在的签名文件添加系统权限签名，可直接编译运行
+
+---
+
 **apkReSign**: https://github.com/pengwei1024/apkReSign
 
 安卓一键重签名工具
@@ -1647,9 +2160,73 @@ App-local sql logging with viewer activity
 
 ---
 
+**Daffodil**：https://github.com/saymagic/Daffodil
+
+基于注解的日志库
+
+---
+
+**ALog**：https://github.com/Blankj/ALog
+
+一个精简、全面、方便的AndroidLog库--ALog
+
+<img src="https://raw.githubusercontent.com/Blankj/ALog/master/img/detail.png" width="640" />
+
+---
+
+**EzyLogger**：https://github.com/afiqiqmal/EzyLogger
+
+Simple Logger for Android
+
+---
+
+**FLogger**：https://github.com/cyfonly/FLogger
+
+基于双缓冲队列、多刷盘机制的超轻量级 java 日志
+
+---
+
+**LogFilter**：https://github.com/smart-fun/LogFilter
+
+Simple Android library which filters Logs, for example by keeping only ERROR LOGS in RELEASE MODE
+
+---
+
 **XLog**：https://github.com/Qiu800820/XLog
 
 追踪上线BUG,自动保存,管理LOG,一键上传
+
+---
+
+**xLog**：https://github.com/elvishew/xLog
+
+Android logger, simple and pretty, powerful and flexible, all you need is here
+
+<img src="https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png" width="640" />
+
+---
+
+**debugkit**：https://github.com/hulab/debugkit
+
+Android 浮动 Debug 工具箱，直接在浮动窗口执行 Android 测试功能
+
+<img src="https://github.com/hulab/debugkit/raw/master/resources/screenshot.png" width="320" />
+
+---
+
+**DebugOverlay-Android**：https://github.com/Manabu-GT/DebugOverlay-Android
+
+App 端，查看 Logcat 信息
+
+<img src="https://raw.githubusercontent.com/Manabu-GT/DebugOverlay-Android/master/art/overlay_with_configurations.png" width="320" />
+
+---
+
+**LogcatTextView**：https://github.com/munix/LogcatTextView
+
+帮助你在 App 端，查看 Logcat 输出信息
+
+<img src="https://raw.githubusercontent.com/munix/LogcatTextView/master/screenshots/example.png" width="400" />
 
 ---
 
@@ -1685,9 +2262,23 @@ jlog是一款针对Android开发者的日志工具
 
 ---
 
-**KLog**: https://github.com/ZhaoKaiQiang/KLog
+**Android-PLog**: https://github.com/JumeiRdGroup/Android-PLog
 
-This is a useful log tool for Android
+A Pure, Pretty and Powerful logging library for android
+
+<img src="https://github.com/JumeiRdGroup/Android-PLog/raw/master/ScreenShot.png" width="640" />
+
+---
+
+**Android-PLog**: https://github.com/Muyangmin/Android-PLog
+
+Android 专用日志封装库，轻巧易用，高扩展性
+
+<img src="https://raw.githubusercontent.com/Muyangmin/Android-PLog/master/ScreenShot.png" width="640" />
+
+---
+
+**KLog**: https://github.com/ZhaoKaiQiang/KLog
 
 Android LogCat 工具类，支持行号、所在函数、点击自动跳转、Json格式自定解析打印等功能。
 
@@ -1758,6 +2349,28 @@ Debug and QA tool for android
 
 ---
 
+**walle**: https://github.com/Meituan-Dianping/walle
+
+Android Signature V2 Scheme签名下的新一代渠道包打包神器
+
+---
+
+**ApkMultiChannelPlugin**: https://github.com/nukc/ApkMultiChannelPlugin
+
+Android 多渠道打包的 Android Studio / IDEA 插件
+
+<img src="https://raw.githubusercontent.com/nukc/ApkMultiChannelPlugin/master/art/setting.png" width="320" />
+
+---
+
+**ApkChannelBuilder**: https://github.com/baoyongzhang/ApkChannelBuilder
+
+一个 Mac App，用于 Apk 多渠道打包
+
+<img src="https://raw.githubusercontent.com/baoyongzhang/ApkChannelBuilder/master/Screenshots/storyboard.png" width="480" />
+
+---
+
 **ApkCustomizationTool**: https://github.com/SSOOnline/ApkCustomizationTool
 
 apk多渠道打包定制工具
@@ -1794,25 +2407,6 @@ Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-proces
 
 ---
 
-**android-appversion-gradle-plugin**: https://github.com/hamsterksu/android-appversion-gradle-plugin
-
-下一代Android渠道打包工具Gradle插件，支持极速打包，1000个渠道包只需要5秒钟
-
----
-
-**packer-ng-plugin**: https://github.com/mcxiaoke/packer-ng-plugin
-
-Add extra information to output file name. Add build number to the application version
-批量命名应用输出文件名
-
----
-
-**dexcount-gradle-plugin**: https://github.com/KeepSafe/dexcount-gradle-plugin
-
-A Gradle plugin to report the number of method references in your APK on every build.
-
----
-
 **leakcanary**: https://github.com/square/leakcanary
 
 A memory leak detection library for Android and Java.
@@ -1821,9 +2415,29 @@ A memory leak detection library for Android and Java.
 
 ---
 
-**blockcanary**: https://github.com/moduth/blockcanary
+**AndroidPerformanceTools**: https://github.com/D-clock/AndroidPerformanceTools
 
-A ui-block detection library for Android. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/
+检测ANR
+
+---
+
+**ANR-WatchDog**: https://github.com/SalomonBrys/ANR-WatchDog
+
+ANR 卡顿检测
+
+---
+
+**BlockCanaryEx**: https://github.com/lqcandqq13/BlockCanaryEx
+
+blockcanary 升级版
+
+<img src="https://raw.githubusercontent.com/lqcandqq13/BlockCanaryEx/master/sample.png" width="320" />
+
+---
+
+**AndroidPerformanceMonitor**: https://github.com/markzhai/AndroidPerformanceMonitor
+
+(blockcanary)安卓卡顿检测. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/
 
 <img src="https://github.com/moduth/blockcanary/blob/master/art/shot1.png" width="320" />
 
@@ -1843,15 +2457,15 @@ A modern JSON library for Android and Java.
 
 ---
 
-**LocationManager**: https://github.com/yayaa/LocationManager
-
-Simplify getting user's location for Android
-
----
-
 **MarsDaemon**: https://github.com/Marswin/MarsDaemon
 
 一个轻量级的库，配置几行代码，就可以实现在 android 上实现进程常驻，也就是在系统强杀下，以及 360 获取 root 权限下，clean master 获取 root 权限下都无法杀死进程
+
+---
+
+**AndroidBluetoothLibrary**: https://github.com/douglasjunior/AndroidBluetoothLibrary
+
+AndroidBluetoothLibrary
 
 ---
 
@@ -1861,21 +2475,9 @@ Bluetooth Helper Library.—-蓝牙操作库
 
 ---
 
-**RxBluetoothAuto**: https://github.com/tawaasalage/RxBluetoothAuto
-
-rxAndroid Bluetooth NFC
-
----
-
 **Bleep**: https://github.com/tamir7/Bleep
 
 Thin wrapper around the Android Bluetooth LE API
-
----
-
-**RxBluetooth**: https://github.com/IvBaranov/RxBluetooth
-
-Android reactive bluetooth
 
 ---
 

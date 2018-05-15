@@ -6,6 +6,371 @@
 
 ---
 
+**iosched**: https://github.com/google/iosched
+
+Google I/O 大会 App 的最新源代码
+
+---
+
+**NoticeDog**: https://github.com/bunnyblue/NoticeDog
+
+一个基于NotificationListenerService 的Android通知管理app，可以防止微信消息撤回
+
+---
+
+**android-permission-checker-app**: https://github.com/Arjun-sna/android-permission-checker-app
+
+识别应用中的各种权限
+
+<img src = "https://camo.githubusercontent.com/ea2bd2a4d471b587fb1ee28dfc7a5bda208d7f97/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f7065726d697373696f6e5f6170705f73322e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/48edd1405c89172e9640030c6f4a369f166d2d88/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f7065726d697373696f6e5f6170705f73332e706e67" width = "320"/>
+
+---
+
+**DarkCalculator**: https://github.com/HK-SHAO/DarkCalculator
+
+一款支持复数运算等功能的计算器
+
+<img src = "https://camo.githubusercontent.com/d32b4ee63f4afcdb207b25e89a0ac83ed1df4baf/687474703a2f2f696d6167652e636f6f6c61706b2e636f6d2f61706b5f696d6167652f323031372f303831352f53637265656e73686f745f313530323737353635382d666f722d3135353237372d6f5f31626e696231303971313735396c6a61316b3168713663316531302d7569642d3631363234372e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/655002da7547c6dd9c2add98b32cd9bd2455cadf/687474703a2f2f696d6167652e636f6f6c61706b2e636f6d2f61706b5f696d6167652f323031372f303831352f53637265656e73686f745f313530323737353831342d666f722d3135353237372d6f5f31626e696231366768726e32316c65393171676e3973343164696f31632d7569642d3631363234372e706e67" width = "320"/>
+
+---
+
+**CNode-android**: https://github.com/shellljx/CNode-android
+
+https://cnodejs.org/ 非官方客户端
+
+<img src = "https://raw.githubusercontent.com/shellljx/CNode-android/master/art/01.jpg" width = "270"/> <img src = "https://raw.githubusercontent.com/shellljx/CNode-android/master/art/01.jpg" width = "270"/> <img src = "https://raw.githubusercontent.com/shellljx/CNode-android/master/art/01.jpg" width = "270"/>
+
+---
+
+**Now**: https://github.com/XunMengWinter/Now
+
+Jsoup + MaterialViewPager + RxAndroid + Retrofit + Realm + Fresco + Retrolambda example 一款Android图文精选app，通过抓取网页获得图文列表。目前包含站酷（Zcool）精选、国家地理（National Geographic）每日一图、知乎日报、豆瓣一刻（Moment）
+
+---
+
+**Anti-recall**: https://github.com/JasonQS/Anti-recall
+
+QQ，微信防撤回神器
+
+<img src = "https://github.com/JasonQS/Anti-recall/raw/master/demo/demo01.gif" width = "320"/> <img src = "https://github.com/JasonQS/Anti-recall/raw/master/demo/demo02.gif" width = "320"/>
+
+---
+
+**codeKK-Android**: https://github.com/7449/codeKK-Android
+
+codeKK-Android
+
+<img src = "https://github.com/7449/codeKK-Android/raw/master/screenshots/opa_image.gif" width = "270"/> <img src = "https://github.com/7449/codeKK-Android/raw/master/screenshots/blog_image.gif" width = "270"/> <img src = "https://github.com/7449/codeKK-Android/raw/master/screenshots/job_image.gif" width = "270"/>
+
+---
+
+**MessageRelayer**: https://github.com/HaoFeiWang/MessageRelayer
+
+短信转发工具
+
+<img src = "https://raw.githubusercontent.com/HaoFeiWang/MessageRelayer/master/screen/screen_main2.jpg" width = "210"/> <img src = "https://raw.githubusercontent.com/HaoFeiWang/MessageRelayer/master/screen/screen_email.jpg" width = "210"/> <img src = "https://raw.githubusercontent.com/HaoFeiWang/MessageRelayer/master/screen/screen_key.jpg" width = "210"/>
+
+---
+
+**Espresso**: https://github.com/TonnyL/Espresso
+
+快递查询App, 基于MVP架构和Material Design设计风格，采用RxJava2, Retrofit2, Realm and ZXing开发
+
+<img src = "https://raw.githubusercontent.com/TonnyL/Espresso/master/art/screenshot0.png" width = "600"/>
+
+---
+
+**FlipsideCamera**: https://github.com/andyb129/FlipsideCamera
+
+从两个摄像头同时拍下某一个瞬间的 app
+
+<img src = "https://raw.githubusercontent.com/andyb129/FlipsideCamera/master/screenshots/flipside_camera_screen_1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/andyb129/FlipsideCamera/master/screenshots/flipside_camera_screen_3.png" width = "320"/>
+
+---
+
+**rebase-android**: https://github.com/drakeet/rebase-android
+
+日常 是一款由 drakeet 负责推荐和分享各种好玩新鲜的栏目应用，基于 Rebase 服务， 学习型非常强
+
+<img src = "https://camo.githubusercontent.com/e94868f1f6f224e3478a7a1a26eafac258e3330f/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f38366532666638356779316663726a3332366e67796a32313869307830313032" width = "640"/>
+
+---
+
+**MinimalistWeather**: https://github.com/BaronZ88/MinimalistWeather
+
+Android平台开源天气App，采用MVP+RxJava+Retrofit2+OKHttp3+Dagger2+RetroLambda等开源库来实现
+
+<img src = "https://raw.githubusercontent.com/BaronZ88/MinimalistWeather/master/framework_minimalist_weather.png" width = "320"/>
+
+---
+
+**LQRWeChat**: https://github.com/GitLqr/LQRWeChat
+
+高仿微信6.3.31，使用网易云信SDK 3.2.0版本完成主要的聊天功能（单聊、群聊）、好友关系管理、群组管理等功能
+
+<img src = "https://raw.githubusercontent.com/GitLqr/LQRWeChat/master/screenshots/main/1.gif" width = "320"/>
+
+---
+
+**Minimal-Todo**: https://github.com/avjinder/Minimal-Todo
+
+Minimal-Todo
+
+<img src = "https://raw.githubusercontent.com/avjinder/Minimal-Todo/master/screenshots/main_full_light.png" width = "320"/> <img src = "https://raw.githubusercontent.com/avjinder/Minimal-Todo/master/screenshots/todo_time_dark.png" width = "320"/> <img src = "https://raw.githubusercontent.com/avjinder/Minimal-Todo/master/screenshots/main_empty_light.png" width = "320"/>
+
+---
+
+**BusyBox**: https://github.com/jrummyapps/BusyBox
+
+Install BusyBox on an Android device
+
+<img src = "https://raw.githubusercontent.com/jrummyapps/BusyBox/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width = "140"/>
+
+---
+
+**GDG**: https://github.com/peekler/GDG
+
+一些不常用的安卓api示例
+
+---
+
+**wechat_no_revoke**: https://github.com/rarnu/wechat_no_revoke
+
+最新可用防止微信撤回xposed插件
+
+---
+
+**Hijacker**: https://github.com/chrisk44/Hijacker
+
+Aircrack-ng Android GUI程序，用于攻击无线网络
+
+---
+
+**MovieHub**: https://github.com/lawloretienne/MovieHub
+
+非常漂亮的一款 Android Movie 工具
+
+<img src="https://raw.githubusercontent.com/lawloretienne/MovieHub/master/images/MovieHub_Screenshot_1.png" width="320" /> <img src="https://raw.githubusercontent.com/lawloretienne/MovieHub/master/images/MovieHub_Screenshot_10.png" width="320" />
+
+---
+
+**QQ**: https://github.com/HuTianQi/QQ
+
+一款高仿腾讯QQ的IM软件，主UI框架采用侧滑菜单+底部导航的方式，核心聊天功能基于bmob SDK，已经实现文本，表情，图片，位置，语音等信息的发送
+
+<img src="https://github.com/HuTianQi/QQ/raw/master/QQ.gif" width="320" />
+
+---
+
+**wifi-bruteforcer-fsecurify**: https://github.com/faizann24/wifi-bruteforcer-fsecurify
+
+Android 下实现的 Wifi 暴力破解工具
+
+<img src="https://raw.githubusercontent.com/faizann24/wifi-bruteforcer-fsecurify/master/1280.jpg" width="640" />
+---
+
+**ZhiHu-TopAnswer**: https://github.com/jiang111/ZhiHu-TopAnswer
+
+知乎热门榜
+
+<img src="https://raw.githubusercontent.com/jiang111/ZhiHu-TopAnswer/master/art/1.png" width="320" /> <img src="https://raw.githubusercontent.com/jiang111/ZhiHu-TopAnswer/master/art/3.png" width="320" />
+
+---
+
+**ActivityLauncher**: https://github.com/jp1017/ActivityLauncher
+
+打开任意app的任意Activity并可创建快捷方式，非系统应用会因权限问题失败
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/21418384/dca2a876-c85b-11e6-9e7a-9d42096341ec.png" width="320" /> <img src="https://cloud.githubusercontent.com/assets/7868514/21418385/dcb032ac-c85b-11e6-9b27-1bf03baa5696.png" width="320" />
+
+---
+
+**android-oss**: https://github.com/kickstarter/android-oss
+
+Kickstarter Android 源码开源
+
+<img src="https://raw.githubusercontent.com/kickstarter/android-oss/master/.github/app.png" width="800" />
+
+---
+
+**MyDiary**: https://github.com/erttyy8821/MyDiary
+
+In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version is
+
+<img src="https://raw.githubusercontent.com/erttyy8821/MyDiary/master/screenshot/s_2.png" width="240" /> <img src="https://raw.githubusercontent.com/erttyy8821/MyDiary/master/screenshot/s_3.png" width="240" /> <img src="https://raw.githubusercontent.com/erttyy8821/MyDiary/master/screenshot/s_5.png" width="240" />
+
+---
+
+**FingerColoring-Android**: https://github.com/SwiftyWang/FingerColoring-Android
+
+一个自己做的填图应用
+
+<img src="https://raw.githubusercontent.com/SwiftyWang/FingerColoring-Android/master/screenshot/S61118-20264887.jpg" width="320" /> <img src="https://raw.githubusercontent.com/SwiftyWang/FingerColoring-Android/master/screenshot/S61118-20275245.jpg" width="320" />
+
+---
+
+**u2020**: https://github.com/JakeWharton/u2020
+
+A sample Android app which showcases advanced usage of Dagger among other open source libraries
+
+<img src="https://github.com/JakeWharton/u2020/raw/master/u2020.gif" width="320" />
+
+---
+
+**wally**: https://github.com/Musenkishi/wally
+
+简洁易用的壁纸应用
+
+---
+
+**LoveWallpaper**: https://github.com/LiuGuiLinAndroid/LoveWallpaper
+
+高仿爱壁纸App | Material Design
+
+<img src="https://github.com/LiuGuiLinAndroid/LoveWallpaper/raw/master/preview/preview1.0.png?raw=true" width="800" />
+
+---
+
+**Mysplash**: https://github.com/WangDaYeeeeee/Mysplash
+
+一款轻量化的第三方Unsplash客户端
+
+<img src="https://raw.githubusercontent.com/WangDaYeeeeee/Mysplash/master/preview/thumbnails/preview_home.png" width="320" /> <img src="https://raw.githubusercontent.com/WangDaYeeeeee/Mysplash/master/preview/thumbnails/preview_drawer.png" width="320" /> 
+
+---
+
+**wallsplash-android**: https://github.com/mikepenz/wallsplash-android
+
+android client for the awesome unsplash.com
+
+<img src="https://camo.githubusercontent.com/46eab443adaf9ab0064ea6d7a01c62b182ac6247/687474703a2f2f77616c6c73706c6173686170702e636f6d2f696d616765732f73637265656e73686f74732f312e706e67" width="320" /> <img src="https://camo.githubusercontent.com/1662c6a55b5ee068b302cc799e5c77b77b336114/687474703a2f2f77616c6c73706c6173686170702e636f6d2f696d616765732f73637265656e73686f74732f362e706e67" width="320" /> 
+
+---
+
+**DrawView**: https://github.com/ByoxCode/DrawView
+
+Android 画板 View，随心所欲的画画
+
+<img src="https://raw.githubusercontent.com/ByoxCode/DrawView/master/2016.11.10_17.57.50.gif" width="240" /> <img src="https://raw.githubusercontent.com/ByoxCode/DrawView/master/2016.11.10_18.00.25.gif" width="240" /> <img src="https://raw.githubusercontent.com/ByoxCode/DrawView/master/2016.11.10_18.03.14.gif" width="240" />
+
+---
+
+**RecordWave**: https://github.com/CarGuo/RecordWave
+
+MP3音频录制，支持类似IOS原生的单边或者双边波形显示，低版本音频权限兼容，本地或者在线音频播放的波形显示，录制波形和播放波形会根据声音频率变色的功能
+
+<img src="https://raw.githubusercontent.com/CarGuo/RecordWave/master/02.gif" width="320" />
+
+---
+
+**AlgorithmVisualizer-Android**: https://github.com/naman14/AlgorithmVisualizer-Android
+
+Android 实现的算法可是工具，随时随地帮助学习算法
+
+<img src="https://raw.githubusercontent.com/naman14/AlgorithmVisualizer-Android/master/screenshots/screen1.png" width="320" /> <img src="https://raw.githubusercontent.com/naman14/AlgorithmVisualizer-Android/master/screenshots/screen4.png" width="320" />
+
+---
+
+**android-TopActivity**: https://github.com/109021017/android-TopActivity
+
+Android 逆向实用小插件：展示页面 Top Activity 的名称和包名
+
+---
+
+**AcClient**: https://github.com/Thereisnospon/AcClient
+
+杭电OJ客户端
+
+<img src="https://camo.githubusercontent.com/6e33f148de972eb67326b2e1ea83c6123d6bbc28/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313035313933363031343638" width="640" />
+
+---
+
+**ABR-App-Backup-Restore**: https://github.com/samanyougarg/ABR-App-Backup-Restore
+
+App 备份和恢复，做的很完整
+
+<img src="https://raw.githubusercontent.com/samanyougarg/ABR-App-Backup-Restore/master/screenshots.png" width="600" />
+
+---
+
+**FastAccess**: https://github.com/k0shk0sh/FastAccess
+
+仿三星桌面的浮动工具
+
+<img src="https://raw.githubusercontent.com/k0shk0sh/FastAccess/master/art/1024x500.png" width="640" />
+
+---
+
+**monotweety**: https://github.com/yshrsmz/monotweety
+
+Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach
+
+<img src="https://raw.githubusercontent.com/yshrsmz/monotweety/master/assets/screenshots/screenshot_setting.png" width="320" /> <img src="https://raw.githubusercontent.com/yshrsmz/monotweety/master/assets/screenshots/screenshot_editor_1.png" width="320" />
+
+---
+
+**Villains-and-Heroes**: https://github.com/andremion/Villains-and-Heroes
+
+App using Marvel Comics API that allows developers everywhere to access information about Marvel's vast library of comics
+
+<img src="https://raw.githubusercontent.com/andremion/Villains-and-Heroes/master/art/home-github.png" width="320" /> <img src="https://raw.githubusercontent.com/andremion/Villains-and-Heroes/master/art/detail-github.png" width="320" />
+
+---
+
+**mirror**: https://github.com/zhihu/mirror
+
+一款 Android 第三方 Sketch Mirror 软件
+
+<img src="https://raw.githubusercontent.com/zhihu/mirror/master/example.png" width="800" />
+
+---
+
+**NotificationBox**: https://github.com/gavinliu/NotificationBox
+
+实现系统通知拦截功能的 App
+
+<img src="https://raw.githubusercontent.com/gavinliu/NotificationBox/master/screenshots.png" width="800" />
+
+---
+
+**leanback-showcase**: https://github.com/googlesamples/leanback-showcase
+
+Showcases different components that come with the Leanback library for Android TV
+
+<img src="https://raw.githubusercontent.com/googlesamples/leanback-showcase/master/screenshots/Showcase-Snapshots.png" width="800" />
+
+---
+
+**LivePlayback**: https://github.com/hejunlin2013/LivePlayback
+
+Android TV直播电视节目 ,包含各央视频道及卫视频道
+
+<img src="https://raw.githubusercontent.com/hejunlin2013/LivePlayback/master/images/device-2016-10-28-183212.jpg" width="400" /> <img src="https://raw.githubusercontent.com/hejunlin2013/LivePlayback/master/images/device-2016-10-28-190258.jpg" width="400" />
+
+---
+
+**AndroidShortcuts**: https://github.com/pcevikogullari/AndroidShortcuts
+
+Android Support 25.0 中 Shortcut Demo
+
+<img src="https://raw.githubusercontent.com/pcevikogullari/AndroidShortcuts/master/shortcut1.gif" width="320" /> <img src="https://raw.githubusercontent.com/pcevikogullari/AndroidShortcuts/master/shortcut2.gif" width="320" />
+
+---
+
+**dns66**: https://github.com/julian-klode/dns66
+
+基于 DNS 实现的 Android 广告拦截
+
+---
+
+**debug-bottle**: https://github.com/kiruto/debug-bottle
+
+Android Java 程序员开发调试与测试工具
+
+<img src="https://raw.githubusercontent.com/kiruto/debug-bottle/1.0.1/screenshots/introduction.gif" width="220" /> <img src="https://raw.githubusercontent.com/kiruto/debug-bottle/1.0.1/screenshots/quick-toggles.png" width="220" /> <img src="https://raw.githubusercontent.com/kiruto/debug-bottle/1.0.1/screenshots/features-2.png" width="220" />
+
+---
+
 **AndroidHttpCapture**: https://github.com/JZ-Darkal/AndroidHttpCapture
 
 AndroidHttpCapture网络诊断工具 是一款针对于移动流量劫持而开发的手机抓包软件
@@ -46,6 +411,14 @@ Sqlite 数据库查看
 
 ---
 
+**Currency-Converter-Android**: https://github.com/samanyougarg/Currency-Converter-Android
+
+一款完整的货币转换的 App
+
+<img src="https://raw.githubusercontent.com/samanyougarg/Currency-Converter-Android/master/screenshots.png" width="640" />
+
+---
+
 **Currency**: https://github.com/yiyuanliu/Currency
 
 一个简洁的汇率转换软件，使用 kotlin 编写，通过 anko 框架编写 UI 并实现漂亮的主题动态切换效果
@@ -54,19 +427,27 @@ Sqlite 数据库查看
 
 ---
 
-**Telecine**: https://github.com/JakeWharton/Telecine
-
-屏幕录制
-
-<img src="https://raw.githubusercontent.com/JakeWharton/Telecine/master/art/feature.png" width="640" />
-
----
-
 **NetGuard**: https://github.com/M66B/NetGuard
 
 非root禁止应用联网
 
 <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/01-main.png" width="320" /> <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/08-notifications.png" width="320" />
+
+---
+
+**turbo-editor**: https://github.com/vmihalachi/turbo-editor
+
+Simple and powerful File Editor for Android
+
+<img src="https://camo.githubusercontent.com/26e85b1e6f305d9259e916f032554ff8e1b6fa43/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d304748756b7747515057342f5643557045684b6e5a43492f41414141414141414148342f63636c4937304b37395f512f773334372d683532302d6e6f2f50686f6e65437573746f6d5f372e706e67" width="300" />
+
+---
+
+**FolioReader-Android**: https://github.com/FolioReader/FolioReader-Android
+
+完成度很高的一款 ePub Android 阅读器
+
+<img src="https://cloud.githubusercontent.com/assets/1277242/19012915/0661c7b2-87e0-11e6-81d6-8c71051e1074.gif" width="300" /> <img src="https://cloud.githubusercontent.com/assets/1277242/19012908/d61f3ce2-87df-11e6-8652-d72b6a1ad9a3.gif" width="300" />
 
 ---
 
@@ -153,14 +534,6 @@ React Native app (Android / iOS) 阅读
 高德定位demo
 
 <img src="https://raw.githubusercontent.com/amapapi/Android_UsingCar_Example/master/pic/result.png" width="320" />
-
----
-
-**ifanr**: https://github.com/iCodeForever/ifanr
-
-高仿 爱范儿
-
-<img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/1.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/2.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/3.gif" width="270" />
 
 ---
 
@@ -270,69 +643,6 @@ A simple implementation of swipe card like StreetView!!
 
 ---
 
-**StylishMusicPlayer**: https://github.com/ryanhoo/StylishMusicPlayer
-
-A stylish music player for android device 16+
-
-<img src="https://raw.githubusercontent.com/ryanhoo/StylishMusicPlayer/develop/materials/Artboard.png" width="640" />
-
----
-
-**SupermanMusicPlayer**: https://github.com/tedhappy/SupermanMusicPlayer
-
-本地音乐播放器源码, 该音乐播放器除了实现基本的播放音乐之外, 还可以睡眠定时, 剪辑铃声, 第三方分享等功能
-
-<img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/1.gif" width="270" /> <img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/5.gif" width="270" />
-
----
-
-**android-UniversalMusicPlayer**: https://github.com/googlesamples/android-UniversalMusicPlayer
-
-多平台（手机，平板，手表）音乐播放器
-
-<img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone.png" width="270" /> <img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone_lockscreen.png" width="270" /> <img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone_fullscreen_player.png" width="270" />
-
----
-
-**ApolloModMusic**: https://github.com/jp1017/ApolloModMusic
-
-Apollo 音乐播放器，Android Studio 版本
-
-<img src="https://camo.githubusercontent.com/183ab7e13a9fd2a385d9295e1c66e6742ba71311/687474703a2f2f692e696d6775722e636f6d2f49616b65666c732e706e67" width="400" /> <img src="https://camo.githubusercontent.com/0f41fe134384b66530a0b3f1907d4045cfa216b7/687474703a2f2f692e696d6775722e636f6d2f554f3067394c642e706e67" width="400" />
-
----
-
-**Hide-Music-Player**: [https://github.com/w9xhc/Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
-
-Hide音乐播放器
-
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
-
----
-
-**Timber**: [https://github.com/naman14/Timber](https://github.com/naman14/Timber)
-
-Material Design Music Player
-
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-05-14-23-03.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-29-22-44-26.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-31-11-50-50.png" width="160" />
-
----
-
-**Auro**:  https://github.com/architjn/Auro
-
-1st Most Fastest, Latest Designed and open source `Music player`
-
-<img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
-
----
-
 **DeepDiveIntoAndroidDataBinding**: https://github.com/radzio/DeepDiveIntoAndroidDataBinding
 
 DataBinding demo
@@ -398,11 +708,40 @@ A Demo with Retrofit2 Okhttp3 Dagger RxJava RxAndroid ButterKnife...
 
 ---
 
+**KnowWeather**: https://github.com/SilenceDut/KnowWeather
+
+知天气——天气尽在掌握之中
+
+<img src="https://camo.githubusercontent.com/c9b87b7e25da0017371c2595aa0f724be8bb2e0d/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f30303679386c566167773166616965636d787878326a333132773064777463692e6a7067" width="800" />
+---
+
 **WeatherAlarmClock**: https://github.com/kaku2015/WeatherAlarmClock
 
 天气闹钟
 
 <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/2.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/5.jpeg" width="270" />
+
+---
+
+**GithubContributionsWidget**: https://github.com/donglua/GithubContributionsWidget
+
+Android桌面小部件：展示你的 Github 贡献图
+
+<img src="https://camo.githubusercontent.com/2f626ff1e8ee39034a24f43d6a86e8b1f233fb47/687474703a2f2f6f676b6236376f63382e626b742e636c6f7564646e2e636f6d2f453243344439433343313646312e6a7067" width="320" />
+
+---
+
+**FastHub**: https://github.com/k0shk0sh/FastHub
+
+终极版 GitHub 客户端
+
+<img src="https://raw.githubusercontent.com/k0shk0sh/FastHub/master/.github/assets/mobile_light.png" width="320" /> <img src="https://raw.githubusercontent.com/k0shk0sh/FastHub/master/.github/assets/mobile_night.png" width="320" />
+
+---
+
+**Gitskarios**: https://github.com/gitskarios/Gitskarios
+
+好用的 GitHub 客户端
 
 ---
 
@@ -502,22 +841,6 @@ ReactNative亲戚称谓计算器
 
 ---
 
-**TVSample**: https://github.com/hejunlin2013/TVSample
-
-1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页
-
-<img src="https://raw.githubusercontent.com/hejunlin2013/TVSample/master/images/device-2016-10-13-170829.png" width="640" />
-
----
-
-**IPTVFree**: https://github.com/michelelacorte/IPTVFree
-
-Simple IPTV
-
-<img src="https://camo.githubusercontent.com/553b6dbbc319eb280221f91d6ca54085f6f7c97f/687474703a2f2f7333322e706f7374696d672e6f72672f636469306672676f352f73637265656e312e706e67" width="270" /> <img src="https://camo.githubusercontent.com/441f7cda6342de392b288611c008a98cefebe1b6/687474703a2f2f7333322e706f7374696d672e6f72672f3567617a30726533702f73637265656e322e706e67" width="270" /> <img src="https://camo.githubusercontent.com/2e5425d81011b38834f85b761d7ac6c68b0b877b/687474703a2f2f7333322e706f7374696d672e6f72672f3462637331306a36742f73637265656e342e706e67" width="270" />
-
----
-
 **FriendCircle**: https://github.com/razerdp/FriendCircle
 
 高仿微信朋友圈项目
@@ -558,6 +881,62 @@ A third party app for androidweekly.net
 
 ---
 
+**Cashew**: https://github.com/wheat7/Cashew
+
+腰果Cashew是一个gank.io的客户端
+
+<img src="https://github.com/wheat7/Cashew/raw/master/screenshots/cashew2.png" width="320" /> <img src="https://github.com/wheat7/Cashew/raw/master/screenshots/cashew8.png" width="320" />
+
+---
+
+**ganguo**: https://github.com/yanyiqun001/ganguo
+
+干果——简洁易用的gank客户端
+
+<img src="https://github.com/yanyiqun001/ganguo/raw/master/screenshots/Screenshot_20170605-165508_%E7%BC%96%E8%BE%91.png?raw=true" width="320" /> <img src="https://github.com/yanyiqun001/ganguo/raw/master/screenshots/Screenshot_20170605-165525_%E7%BC%96%E8%BE%91.png?raw=true" width="320" />
+
+---
+
+**MyGank**: https://github.com/mask-hao/MyGank
+
+一个具有用户登录注册，干货收藏功能的干货集中营第三方客户端。个人学习项目，前端使用Android展示，后端使用javaee中转，数据来源干货集中营
+
+<img src="https://github.com/mask-hao/MyGank/raw/master/screenshot/screenshot1.png" width="320" /> <img src="https://github.com/mask-hao/MyGank/raw/master/screenshot/screenshot4.png" width="320" />
+
+---
+
+**GankGirl**: https://github.com/dalingge/GankGirl
+
+使用Jsoup抓取干货集中营闲读数据, 闲读和gank干货app： http://dalingge.com/2017/05/09/%E4%BD%BF%E7%94%A8Jsoup%E6%8A%93%E5%8F%96%E5%B9%B2%E8%B4%A7%E9%9B%86%E4%B8%AD%E8%90%A5%E9%97%B2%E8%AF%BB%E6%95%B0%E6%8D%AE/
+
+<img src="https://github.com/dalingge/GankGirl/raw/master/screenshots/play.gif" width="320" />
+
+---
+
+**FakeWeather**: https://github.com/li-yu/FakeWeather
+
+『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
+
+<img src="https://raw.githubusercontent.com/li-yu/FakeWeather/master/screenshot.png" width="640" />
+
+---
+
+**RxGank**: https://github.com/sfsheng0322/RxGank
+
+干货集中营Android客户端
+
+<img src="https://raw.githubusercontent.com/sfsheng0322/RxGank/master/res/RxGank.gif" width="320" />
+
+---
+
+**FlipGank**: https://github.com/yiyuanliu/FlipGank
+
+FlipBoard 翻页风格的 Gank.io 客户端
+
+<img src="https://raw.githubusercontent.com/yiyuanliu/FlipGank/master/images/screenshot3.png" width="320" /><img src="https://raw.githubusercontent.com/yiyuanliu/FlipGank/master/images/screenshot4.png" width="320" />
+
+---
+
 **StudyProject**: https://github.com/HotBitmapGG/StudyProject
 
 A Material Design style Gank. Io unofficial client App
@@ -566,11 +945,27 @@ A Material Design style Gank. Io unofficial client App
 
 ---
 
+**react-native-Gank**: https://github.com/wangdicoder/react-native-Gank
+
+主题换色，夜间模式，省流量策略。。。这可能是最友好的Gank.io(干货集中营)客户端了
+
+<img src="https://raw.githubusercontent.com/wangdicoder/react-native-Gank/master/screenshot/discoverytab.png" width="320" /><img src="https://raw.githubusercontent.com/wangdicoder/react-native-Gank/master/screenshot/theme.gif" width="320" />
+
+---
+
+**UGank**: https://github.com/Bakumon/UGank
+
+有干货」—— 体验别具一格的 Gank.io Android 客户端 http://bakumon.me/UGank/
+
+<img src="https://raw.githubusercontent.com/Bakumon/UGank/master/art/ugank2.png" width="600" />
+
+---
+
 **Gank**: https://github.com/JohnnyShieh/Gank
 
 An unofficial client of gank.io, based on Flux pattern and Rx series
 
-<img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/navigation.jpg" width="270" /><img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/android.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/navigation.jpg" width="270" /> <img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/android.jpg" width="320" />
 
 ---
 
@@ -578,7 +973,7 @@ An unofficial client of gank.io, based on Flux pattern and Rx series
 
 RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等
 
-<img src="https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif" width="320" /><img src="https://raw.githubusercontent.com/gaolonglong/GankGirl/master/Screenshot/33.png" width="320" />
+<img src="https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif" width="320" /> <img src="https://raw.githubusercontent.com/gaolonglong/GankGirl/master/Screenshot/33.png" width="320" />
 
 ---
 
@@ -614,7 +1009,7 @@ gank.io unofficial client, RxJava & Retrofit
 
 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
 
-<img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/clearCache.png" width="320" /><img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/navigation.png" width="320" /><img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/about.png" width="320" />
+<img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/clearCache.png" width="320" /> <img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/navigation.png" width="320" /> <img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/about.png" width="320" />
 
 ---
 
@@ -640,6 +1035,14 @@ gank.io unofficial client, RxJava & Retrofit
 
 <img src="https://camo.githubusercontent.com/e43d83c43fdbefe9a41582cf676c6d792df09d58/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f30393136303165626f783975747a6d39663931316d632e706e67" width="320" />
 <img src="https://camo.githubusercontent.com/e5851858c3e548a46604f950a38f6617d310cc63/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f3039333135356f7275736d6477756a6d7661347576772e706e67" width="320" />
+
+---
+
+**AnExplorer**: https://github.com/1hakr/AnExplorer
+
+Another Android Explorer ( File Manager ) is an All-in-One Open source file manager
+
+<img src="https://raw.githubusercontent.com/1hakr/AnExplorer/master/header.jpg" width="640" />
 
 ---
 
@@ -735,10 +1138,18 @@ GitHot is an Android App that will help you to find the world most popular proje
 
 **jianshi**: [https://github.com/wingjay/jianshi](https://github.com/wingjay/jianshi)
 
-A beautiful app 简诗 for recording anything in your life with traditional Chinese style.
+A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style
 
 <img src="https://camo.githubusercontent.com/b5cd7b49447c88ceac096b4e969b8c1b94f3b10a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d623563343465393034323639376539332e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 <img src="https://camo.githubusercontent.com/3f9940a080521d28fa2ad1e6bc40c25d104f411f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d613539613063336165326532616630342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
+
+---
+
+**KuaiChuan**: https://github.com/mayubao/KuaiChuan
+
+仿茄子快传的一款文件传输应用
+
+<img src="https://raw.githubusercontent.com/mayubao/KuaiChuan/master/ScreenShot/home.gif" width="320" /> <img src="https://raw.githubusercontent.com/mayubao/KuaiChuan/master/ScreenShot/fr_1.gif" width="320" />
 
 ---
 
@@ -761,6 +1172,14 @@ A todo list app base Material Design
 
 ---
 
+**MLManager**: https://github.com/javiersantos/MLManager
+
+MD风格的用于传送、提取APK文件(包含系统apk)的开源工具软件
+
+<img src="https://raw.githubusercontent.com/javiersantos/MLManager/master/Screenshots/header-basic.png" width="640" />
+
+---
+
 **AppPlus**: [https://github.com/maoruibin/AppPlus](https://github.com/maoruibin/AppPlus)
 
 App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[http://fir.im/appplus](http://fir.im/appplus)
@@ -779,7 +1198,7 @@ App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[h
 <img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/qrcode.gif" width="320" />
 <img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg" width="640" />
 
----  
+---
 
 **ZhiHuDaily-React-Native**: https://github.com/race604/ZhiHuDaily-React-Native
 
@@ -789,7 +1208,7 @@ A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" width="260" />
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" width="260" />
 
----   
+---
 
 **ToolWizAppLock**: https://github.com/Toolwiz/ToolWizAppLock
 
@@ -799,7 +1218,7 @@ Smart App Lock for Android http://www.toolwiz.com/
 <img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/6.pic_hd.jpg" width="260" />
 <img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/7.pic_hd.jpg" width="260" />
 
----    
+---
 
 **archi**: https://github.com/ivacf/archi
 
@@ -808,7 +1227,7 @@ Repository that showcases 3 Android app architectures: "Standard Android", MVP a
 <img src="https://github.com/ivacf/archi/blob/master/images/archi-screenshots.png" width="320" />
 <img src="https://github.com/ivacf/archi/blob/master/images/archi-screenshots.png" width="320" />
 
----     
+---
 
 **Clip-Stack**: https://github.com/heruoxin/Clip-Stack
 
@@ -836,12 +1255,19 @@ An Android App for Github
 
 ---
 
+**Protein**: https://github.com/gejiaheng/Protein
+
+目前最漂亮的一个 Dribbble 客户端
+
+<img src="https://github.com/gejiaheng/Protein/raw/master/image/screenshot_main.png" width="320" /> <img src="https://github.com/gejiaheng/Protein/raw/master/image/screenshot_shot.png" width="320" />
+
+---
+
 **Watch**: https://github.com/tuesda/Watch
 
 dribbble 客户端
 
-<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" />
-<img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" /> <img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
 
 ---
 
@@ -868,27 +1294,15 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 ---
 
-**v2ex-android**: https://github.com/greatyao/v2ex-android/
+**v2ex-android**: https://github.com/CzBiX/v2ex-android
 
-掌上V2EX
+V2EX client for Android
 
 ---
 
-**OhMyBiliBili**: https://github.com/HotBitmapGG/OhMyBiliBili
+**v2ex-android**: https://github.com/greatyao/v2ex-android/
 
-高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~
-
-<img src="https://raw.githubusercontent.com/HotBitmapGG/bilibili/master-x/art/01.png" width="270" /> 
-<img src="https://raw.githubusercontent.com/HotBitmapGG/bilibili/master-x/art/001.png" width="540" />
-
----         
-
-**BiliClient**: https://github.com/android-cjj/BiliClient
-
-这是仿bilibili客户端，是我一个刚学android的朋友写的，原作地址：https://github.com/winkstu/ABPlayer
-
-<img src="https://camo.githubusercontent.com/33d99a3ca4afc9b1691eb124a97979aebaa25177/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f313634303330656e396e623472736d736f396e7170632e706e67" width="320" /> 
-<img src="https://camo.githubusercontent.com/9224340e3f03ad8daebf08041b989ccbbdfe2000/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530352f32362f31383136353472677a7776767a356774396d78677a6d2e676966" width="320" />
+掌上V2EX
 
 ---            
 
@@ -974,43 +1388,73 @@ Material Design Notes App
 
 ---
 
-**superCleanMaster**:  https://github.com/joyoyao/superCleanMaster
+**MobileGuard**: https://github.com/ittianyu/MobileGuard
 
- 一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+一款比较完整的 Android 安全管理 App
 
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="180" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="180" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="180" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="180" />
+<img src="https://raw.githubusercontent.com/ittianyu/MobileGuard/master/read_me_images/anti-virus.gif" width="270" />
+<img src="https://raw.githubusercontent.com/ittianyu/MobileGuard/master/read_me_images/clear_cache.gif" width="270" />
+<img src="https://raw.githubusercontent.com/ittianyu/MobileGuard/master/read_me_images/msg_safe.gif" width="270" />
 
 ---
 
-**ZhuanLan**:  https://github.com/bxbxbai/ZhuanLan
+**superCleanMaster**: https://github.com/joyoyao/superCleanMaster
 
- 一个知乎专栏App
+一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="200" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="200" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="200" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="200" />
+
+---
+
+**ZhuanLan**: https://github.com/bxbxbai/ZhuanLan
+
+一个知乎专栏App
 
 <img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/home.png" width="320" />
 <img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/list.png" width="320" />
 
 ---
 
-**Qiitanium**:  https://github.com/ogaclejapan/Qiitanium
+**Qiitanium**: https://github.com/ogaclejapan/Qiitanium
 
- Qiitanium is an unofficial Android application of Qiita
+Qiitanium is an unofficial Android application of Qiita
 
 <img src="https://raw.githubusercontent.com/ogaclejapan/Qiitanium/master/art/qiitanium.gif" width="320" />
 
 ---
 
-**Launcher3**:  https://github.com/fookwood/Launcher3
+**LaunchEnr**: https://github.com/enricocid/LaunchEnr
 
- 更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
+一个简单好看的 Android Launcher
+
+<img src="https://raw.githubusercontent.com/enricocid/LaunchEnr/master/art2_0.png" width="600"/>
 
 ---
 
-**Remindly**:  https://github.com/blanyal/Remindly
+**KISS**: https://github.com/Neamar/KISS
 
- Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
+轻量的安卓桌面
+
+---
+
+**Lawnchair**: https://github.com/Deletescape-Media/Lawnchair
+
+一个优雅的 Android Launcher
+
+---
+
+**Launcher3**: https://github.com/fookwood/Launcher3
+
+更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
+
+---
+
+**Remindly**: https://github.com/blanyal/Remindly
+
+Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
 
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="270" />
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="270" />
@@ -1018,7 +1462,7 @@ Material Design Notes App
 
 ---
 
-**Leisure**:  https://github.com/MummyDing/Leisure
+**Leisure**: https://github.com/MummyDing/Leisure
 
  Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban
 
@@ -1160,10 +1604,38 @@ Mr. lock screen is a simple, cool lock screen software, the ability to provide c
 
 ---
 
-**Douya**:  https://github.com/DreaminginCodeZH/Douya
+**banya**: https://github.com/forezp/banya
+
+瓣呀，一个非官方的豆瓣app
+
+<img src="https://raw.githubusercontent.com/forezp/banya/master/art/1.jpg" width="270" /> <img src="https://raw.githubusercontent.com/forezp/banya/master/art/6.jpg" width="270" /> <img src="https://raw.githubusercontent.com/forezp/banya/master/art/10.jpg" width="270" />
+
+---
+
+**Douya**: https://github.com/DreaminginCodeZH/Douya
 
 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
 
 <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png" width="320" /> <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg" width="320" />
 
 ---
+
+**SimpleNews.io**: https://github.com/whiskeyfei/SimpleNews.io
+
+A news App,based on the Material Design and RxJava 、MVP、Component Module. 基于 Material Design 、MVP、RxJava 、Android 组件化的新闻客户端
+
+本代码库借鉴了[SimpleNews](https://github.com/liuling07/SimpleNews)，上面也有原库的介绍，在原来得基础上，修改了较多内容，目前除了一些 tab 切换及 UI 使用原 SimpleNews 逻辑，架构和数据方面基本上已经完全被修改。
+Change as follows:
+
+- [x] change the data interface.
+- [x] change switch fragment mechanism.
+- [x] change mvc mechanism separate ui and logic.
+- [x] clear the useless code and liarary and ui resourses.
+- [x] add gradle build apk release version.
+- [x] add BaseActivity for eventBus.
+
+
+<img src="http://7xol9p.com1.z0.glb.clouddn.com/github_news.gif" width="320" />
+
+---
+
